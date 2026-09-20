@@ -14,9 +14,7 @@ dependencies = [
     "bert-score",
     "datasets",
     "decord2",
-    "deepspeed",
     "fastparquet",
-    "flash-attn",
     "gdown",
     "huggingface-hub",
     "ipykernel",
@@ -55,10 +53,11 @@ no-build-isolation-package = ['flash-attn']
 name = "pytorch"
 url = "https://download.pytorch.org/whl/cu128"
 
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+
 [tool.uv.sources]
 torch = { index = "pytorch" }
 torchvision = { index = "pytorch" }
-torchcodec = { index = "pytorch" }
-
-[tool.uv.extra-build-dependencies]
-flash-attn = ["torch", "wheel"]
+torchcodec = { index = "pytorch-cpu" }

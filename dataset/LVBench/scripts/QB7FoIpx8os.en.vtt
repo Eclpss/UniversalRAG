@@ -1,0 +1,4948 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:10.240 align:start position:0%
+ Good morning. Please note that today's presentation contains forward-looking statements that are
+
+00:00:10.240 --> 00:00:16.680 align:start position:0%
+ subject to various risks and uncertainties. Please refer to Intel's most recent earnings
+
+00:00:16.680 --> 00:00:23.920 align:start position:0%
+ release and annual report in Form 10K and other filings with the SEC. For more information
+
+00:00:23.920 --> 00:00:30.160 align:start position:0%
+ on the risk factors that could cause actual results to defer materially from our expectations.
+
+00:00:53.920 --> 00:01:00.920 align:start position:0%
+ The company's company's company's company's company's company's company's company's
+
+00:01:00.920 --> 00:01:09.920 align:start position:0%
+ company's company's company's company's company's company's company's company's company's
+
+00:01:09.920 --> 00:01:17.920 align:start position:0%
+ company's company's company's company's company's company's company's company's company's company's
+
+00:01:17.920 --> 00:01:22.920 align:start position:0%
+ company's company's company's company's company's company's company's company's company's company's
+
+00:01:22.920 --> 00:01:29.920 align:start position:0%
+ company's company's company's company's company's company's company's company's company's company's
+
+00:01:30.520 --> 00:01:36.920 align:start position:0%
+ And we eat new 후 Chip innovations took flight. The world took notice of closed fantastical
+
+00:01:36.920 --> 00:01:44.920 align:start position:0%
+ feet all thanks to those chips making enterprise sweet bringing AI everywhere. That's what good
+
+00:01:44.920 --> 00:01:53.920 align:start position:0%
+ partners do. Intel's enterprise solutions for you. Please welcome Chief Commercial Officer
+
+00:01:53.920 --> 00:01:55.400 align:start position:0%
+ Christoph Shell.
+
+00:01:55.400 --> 00:01:57.400 align:start position:0%
+ APPLAUSE
+
+00:02:03.880 --> 00:02:05.480 align:start position:0%
+ Good morning, everyone.
+
+00:02:05.480 --> 00:02:08.800 align:start position:0%
+ Welcome to day two of Intervision 2024.
+
+00:02:08.800 --> 00:02:10.240 align:start position:0%
+ Great to see you all in the room.
+
+00:02:10.240 --> 00:02:12.280 align:start position:0%
+ CHEERING AND APPLAUSE
+
+00:02:12.280 --> 00:02:14.760 align:start position:0%
+ We talked yesterday a bit about AI for good,
+
+00:02:14.760 --> 00:02:15.880 align:start position:0%
+ and I have to do that again.
+
+00:02:15.880 --> 00:02:18.520 align:start position:0%
+ Did you see how slim I was in that AI movie?
+
+00:02:18.520 --> 00:02:19.360 align:start position:0%
+ It's awesome.
+
+00:02:19.360 --> 00:02:20.960 align:start position:0%
+ I think I'm going to send it to my wife.
+
+00:02:20.960 --> 00:02:22.040 align:start position:0%
+ It's the new me, OK?
+
+00:02:22.040 --> 00:02:22.720 align:start position:0%
+ I really like it.
+
+00:02:22.720 --> 00:02:23.880 align:start position:0%
+ It's awesome.
+
+00:02:23.880 --> 00:02:27.040 align:start position:0%
+ Today is all about you, our customers.
+
+00:02:27.040 --> 00:02:33.240 align:start position:0%
+ We are talking about AI everywhere, PC, Edge, Data Center, Cloud.
+
+00:02:33.240 --> 00:02:35.520 align:start position:0%
+ And we want to make this work for you.
+
+00:02:35.520 --> 00:02:38.680 align:start position:0%
+ We will unleash the power of AI today for you.
+
+00:02:38.680 --> 00:02:43.600 align:start position:0%
+ And we will do that with no better person than my supervisor.
+
+00:02:43.600 --> 00:02:45.880 align:start position:0%
+ Our chief geek, Pat Geltzinger.
+
+00:02:45.880 --> 00:02:47.280 align:start position:0%
+ Please welcome you on stage.
+
+00:02:47.280 --> 00:02:48.680 align:start position:0%
+ CHEERING AND APPLAUSE
+
+00:02:49.680 --> 00:02:51.680 align:start position:0%
+ OK.
+
+00:02:57.680 --> 00:02:59.680 align:start position:0%
+ OK, fun.
+
+00:02:59.680 --> 00:03:01.680 align:start position:0%
+ LAUGHTER
+
+00:03:01.680 --> 00:03:03.280 align:start position:0%
+ Oh, my.
+
+00:03:03.280 --> 00:03:04.360 align:start position:0%
+ Good morning.
+
+00:03:04.360 --> 00:03:08.680 align:start position:0%
+ Welcome to Vision 2024 and welcome to Arizona.
+
+00:03:08.680 --> 00:03:13.680 align:start position:0%
+ You know, as I like to call it, the Silicon Desert.
+
+00:03:13.680 --> 00:03:16.480 align:start position:0%
+ An Arizona has been a manufacturing hub for Intel.
+
+00:03:16.480 --> 00:03:19.800 align:start position:0%
+ For over 40 years we've been here.
+
+00:03:19.800 --> 00:03:23.440 align:start position:0%
+ And this is the center for not only at-scale manufacturing,
+
+00:03:23.440 --> 00:03:26.240 align:start position:0%
+ but some of the most advanced packaging research
+
+00:03:26.240 --> 00:03:28.960 align:start position:0%
+ literally on the planet today.
+
+00:03:28.960 --> 00:03:30.560 align:start position:0%
+ And we were here a few weeks ago.
+
+00:03:30.560 --> 00:03:32.040 align:start position:0%
+ I brought a friend along.
+
+00:03:32.040 --> 00:03:34.160 align:start position:0%
+ His name's President Biden, right?
+
+00:03:34.160 --> 00:03:36.320 align:start position:0%
+ And Secretary Romando.
+
+00:03:36.320 --> 00:03:39.600 align:start position:0%
+ And I'll say it was a proud moment to be on the West Law
+
+00:03:39.600 --> 00:03:44.320 align:start position:0%
+ on August the 22 when we signed the CHIPs Act into law.
+
+00:03:44.320 --> 00:03:45.640 align:start position:0%
+ It was a proud moment.
+
+00:03:45.640 --> 00:03:46.640 align:start position:0%
+ Yeah.
+
+00:03:46.640 --> 00:03:47.640 align:start position:0%
+ APPLAUSE
+
+00:03:52.640 --> 00:03:56.080 align:start position:0%
+ And it was a proud moment in Arizona on March 20th
+
+00:03:56.080 --> 00:04:00.360 align:start position:0%
+ when we had the first major releases of the CHIPs Act
+
+00:04:00.360 --> 00:04:03.480 align:start position:0%
+ coming to Intel for our Ocatiwa facility.
+
+00:04:03.480 --> 00:04:06.840 align:start position:0%
+ The largest investment in the semiconductor industry,
+
+00:04:06.840 --> 00:04:07.680 align:start position:0%
+ in history.
+
+00:04:07.680 --> 00:04:09.720 align:start position:0%
+ So thank you all for participating in that.
+
+00:04:09.720 --> 00:04:11.240 align:start position:0%
+ APPLAUSE
+
+00:04:12.080 --> 00:04:15.960 align:start position:0%
+ And as I think about the CHIPs Act,
+
+00:04:15.960 --> 00:04:20.320 align:start position:0%
+ I call it the most important industrial policy
+
+00:04:20.320 --> 00:04:22.040 align:start position:0%
+ since World War II.
+
+00:04:22.040 --> 00:04:24.600 align:start position:0%
+ And I just ask each one of you, what aspect of your life
+
+00:04:24.600 --> 00:04:27.680 align:start position:0%
+ is it becoming more digital?
+
+00:04:27.680 --> 00:04:29.640 align:start position:0%
+ Everything.
+
+00:04:29.640 --> 00:04:32.840 align:start position:0%
+ And everything digital runs on semiconductors, which
+
+00:04:32.840 --> 00:04:35.880 align:start position:0%
+ means the world is increasingly critical on what we do
+
+00:04:35.880 --> 00:04:37.480 align:start position:0%
+ on what Intel does.
+
+00:04:37.480 --> 00:04:39.320 align:start position:0%
+ And so will your companies.
+
+00:04:39.320 --> 00:04:40.560 align:start position:0%
+ So will your families.
+
+00:04:40.560 --> 00:04:42.600 align:start position:0%
+ So will every aspect.
+
+00:04:42.600 --> 00:04:45.240 align:start position:0%
+ And we're just seeing this accelerate
+
+00:04:45.240 --> 00:04:50.680 align:start position:0%
+ as the era of AI is driving this huge momentum.
+
+00:04:50.680 --> 00:04:52.680 align:start position:0%
+ And we call it AI everywhere.
+
+00:04:52.680 --> 00:04:56.640 align:start position:0%
+ And with that, we're evolving Intel in a fundamental way.
+
+00:04:56.640 --> 00:05:01.160 align:start position:0%
+ Intel Foundry, the systems foundry for the AI era,
+
+00:05:01.160 --> 00:05:06.840 align:start position:0%
+ and Intel products, the modular platforms for the AI era.
+
+00:05:06.840 --> 00:05:09.720 align:start position:0%
+ But let's spend just a moment on manufacturing.
+
+00:05:09.720 --> 00:05:12.440 align:start position:0%
+ This newly created Intel Foundry business,
+
+00:05:12.440 --> 00:05:17.080 align:start position:0%
+ the world's first and only systems foundry for the AI era.
+
+00:05:17.080 --> 00:05:18.720 align:start position:0%
+ And we're committed by the end of the decade
+
+00:05:18.720 --> 00:05:20.680 align:start position:0%
+ to be the world's number two foundry
+
+00:05:20.680 --> 00:05:23.760 align:start position:0%
+ on a fast growth trajectory for the future.
+
+00:05:23.760 --> 00:05:26.840 align:start position:0%
+ And manufacturing, of course, Intel products.
+
+00:05:26.840 --> 00:05:29.400 align:start position:0%
+ Customer zero, as I like to call it,
+
+00:05:29.400 --> 00:05:32.520 align:start position:0%
+ but also opening the doors of our manufacturing
+
+00:05:32.520 --> 00:05:35.520 align:start position:0%
+ for the first time ever to be the manufacturing
+
+00:05:35.520 --> 00:05:38.440 align:start position:0%
+ partner for companies across the industry.
+
+00:05:38.440 --> 00:05:40.880 align:start position:0%
+ And this idea of Intel products and Intel Foundry
+
+00:05:40.880 --> 00:05:44.080 align:start position:0%
+ an incredibly powerful combination.
+
+00:05:44.080 --> 00:05:47.240 align:start position:0%
+ And if you think about this period of time that we're in,
+
+00:05:47.240 --> 00:05:50.760 align:start position:0%
+ maybe the most intense period of innovation
+
+00:05:50.760 --> 00:05:54.560 align:start position:0%
+ that the technology industry has ever been part of.
+
+00:05:54.560 --> 00:05:57.920 align:start position:0%
+ And for somebody who's been in it for over 40 years,
+
+00:05:57.920 --> 00:05:59.520 align:start position:0%
+ that's a pretty profound statement.
+
+00:05:59.520 --> 00:06:00.920 align:start position:0%
+ 40 years, hard to say.
+
+00:06:00.920 --> 00:06:01.600 align:start position:0%
+ I'm still young.
+
+00:06:01.600 --> 00:06:02.520 align:start position:0%
+ I still feel good.
+
+00:06:02.520 --> 00:06:04.720 align:start position:0%
+ Yeah.
+
+00:06:04.720 --> 00:06:06.400 align:start position:0%
+ And we'll spend the bulk of our time today
+
+00:06:06.400 --> 00:06:11.000 align:start position:0%
+ on modular systems for the AI era Intel products.
+
+00:06:11.000 --> 00:06:14.320 align:start position:0%
+ And I sort of looked at the prior decade.
+
+00:06:14.320 --> 00:06:17.320 align:start position:0%
+ That's sort of boring.
+
+00:06:17.320 --> 00:06:19.920 align:start position:0%
+ We made PCI Jan a little bit faster.
+
+00:06:19.920 --> 00:06:22.800 align:start position:0%
+ We made DDR, the next increment.
+
+00:06:22.800 --> 00:06:26.200 align:start position:0%
+ We kicked up the thermal envelope a little bit.
+
+00:06:26.200 --> 00:06:27.840 align:start position:0%
+ We added a few more cores.
+
+00:06:27.840 --> 00:06:30.080 align:start position:0%
+ And we said, OK, it's a good chip.
+
+00:06:30.080 --> 00:06:33.080 align:start position:0%
+ Boring.
+
+00:06:33.080 --> 00:06:37.480 align:start position:0%
+ AI is making everything exciting like we haven't seen.
+
+00:06:37.480 --> 00:06:42.160 align:start position:0%
+ In this period of time, a fundamental drive of computing,
+
+00:06:42.160 --> 00:06:46.520 align:start position:0%
+ the biggest change in technology since the internet.
+
+00:06:46.520 --> 00:06:49.360 align:start position:0%
+ And it's going to reshape every aspect of our business
+
+00:06:49.360 --> 00:06:50.840 align:start position:0%
+ and yours.
+
+00:06:50.840 --> 00:06:55.320 align:start position:0%
+ And I simply call it every company becomes an AI company.
+
+00:06:55.320 --> 00:06:58.760 align:start position:0%
+ And this becomes the driving force of this expanding
+
+00:06:58.760 --> 00:07:01.280 align:start position:0%
+ semiconductor tan from about $600 billion
+
+00:07:01.280 --> 00:07:04.960 align:start position:0%
+ to more than a trillion by the end of the decade.
+
+00:07:04.960 --> 00:07:08.320 align:start position:0%
+ And Intel is rooted in, how can we help?
+
+00:07:08.320 --> 00:07:10.760 align:start position:0%
+ How can we understand your needs?
+
+00:07:10.760 --> 00:07:14.040 align:start position:0%
+ And we believe you need technology infrastructure
+
+00:07:14.040 --> 00:07:17.840 align:start position:0%
+ that's scalable and flexible built on standard platforms.
+
+00:07:17.840 --> 00:07:23.200 align:start position:0%
+ That enables privacy and security, top notch data quality
+
+00:07:23.200 --> 00:07:24.480 align:start position:0%
+ and availability.
+
+00:07:24.480 --> 00:07:28.640 align:start position:0%
+ That gives you choice, competition, time-to-value,
+
+00:07:28.640 --> 00:07:32.520 align:start position:0%
+ open ecosystems, and helps you to bring new talent
+
+00:07:32.520 --> 00:07:35.600 align:start position:0%
+ to keep up with this incredible pace that you're in.
+
+00:07:35.600 --> 00:07:39.440 align:start position:0%
+ And fundamentally, you need tangible business outcomes.
+
+00:07:39.440 --> 00:07:40.840 align:start position:0%
+ That's why we're here.
+
+00:07:40.840 --> 00:07:42.920 align:start position:0%
+ We don't build technology for the fun of it.
+
+00:07:42.920 --> 00:07:46.760 align:start position:0%
+ It's lifting our businesses to new heights
+
+00:07:46.760 --> 00:07:49.280 align:start position:0%
+ through this power of AI.
+
+00:07:49.280 --> 00:07:54.480 align:start position:0%
+ And Intel's on a mission to bring AI everywhere.
+
+00:07:54.480 --> 00:07:57.880 align:start position:0%
+ And with that, making it more accessible for everyone
+
+00:07:57.880 --> 00:08:01.200 align:start position:0%
+ of you and your customers, your employers,
+
+00:08:01.200 --> 00:08:03.520 align:start position:0%
+ from the clients to the Edge and Data Center
+
+00:08:03.520 --> 00:08:05.280 align:start position:0%
+ to the Cloud and Networks.
+
+00:08:05.280 --> 00:08:07.520 align:start position:0%
+ And this will be the framework for today's discussion
+
+00:08:07.520 --> 00:08:12.760 align:start position:0%
+ and how we help enable AI for every aspect of your business.
+
+00:08:12.760 --> 00:08:15.680 align:start position:0%
+ So let's start by taking a look at the client.
+
+00:08:15.680 --> 00:08:18.120 align:start position:0%
+ And that powerful, as Andy Grove called it,
+
+00:08:18.120 --> 00:08:21.000 align:start position:0%
+ the ultimate Darwinian device that
+
+00:08:21.000 --> 00:08:25.080 align:start position:0%
+ enables AI at the fingertips of every one
+
+00:08:25.080 --> 00:08:27.520 align:start position:0%
+ of your customers and employee.
+
+00:08:27.520 --> 00:08:31.920 align:start position:0%
+ I like to think of the AI PC like the Centrino moment.
+
+00:08:31.920 --> 00:08:35.520 align:start position:0%
+ Now, when I say that, if you know what that means, OK,
+
+00:08:35.520 --> 00:08:37.520 align:start position:0%
+ thank you, humor me.
+
+00:08:37.520 --> 00:08:39.200 align:start position:0%
+ And I've been around for a while.
+
+00:08:39.200 --> 00:08:43.160 align:start position:0%
+ But we standardized Wi-Fi for several years
+
+00:08:43.160 --> 00:08:44.920 align:start position:0%
+ and it sort of went nowhere.
+
+00:08:44.920 --> 00:08:46.760 align:start position:0%
+ There's a few access points and so on.
+
+00:08:46.760 --> 00:08:50.040 align:start position:0%
+ And then we put it into a volume platform
+
+00:08:50.040 --> 00:08:53.960 align:start position:0%
+ that we drove into the industry and all of a sudden,
+
+00:08:53.960 --> 00:08:56.800 align:start position:0%
+ every coffee shop, every hotel, every office,
+
+00:08:56.800 --> 00:09:00.320 align:start position:0%
+ became wirelessly enabled.
+
+00:09:00.320 --> 00:09:01.840 align:start position:0%
+ It changed the platform.
+
+00:09:01.840 --> 00:09:03.320 align:start position:0%
+ It changed the use cases.
+
+00:09:03.320 --> 00:09:06.160 align:start position:0%
+ And this is exactly what we're doing with the AI PC.
+
+00:09:06.160 --> 00:09:13.040 align:start position:0%
+ We're Intel is driving this new platform evolution, the AI PC.
+
+00:09:13.040 --> 00:09:15.440 align:start position:0%
+ We're ramping core ultra rapidly.
+
+00:09:15.440 --> 00:09:16.960 align:start position:0%
+ And when we launched it in December,
+
+00:09:16.960 --> 00:09:19.480 align:start position:0%
+ we had great response from the industry.
+
+00:09:19.480 --> 00:09:22.440 align:start position:0%
+ Today, we've already shipped over 5 million units.
+
+00:09:22.440 --> 00:09:24.480 align:start position:0%
+ We're on track, you know, right, MJ?
+
+00:09:24.480 --> 00:09:27.560 align:start position:0%
+ On track, you know, to meet or beat our 40 million unit
+
+00:09:27.560 --> 00:09:30.880 align:start position:0%
+ goal this year, 100 plus million next year.
+
+00:09:30.880 --> 00:09:32.440 align:start position:0%
+ You know, we are underway.
+
+00:09:32.440 --> 00:09:36.720 align:start position:0%
+ We just launched the commercial versions in February of core
+
+00:09:36.720 --> 00:09:37.560 align:start position:0%
+ ultra.
+
+00:09:37.560 --> 00:09:41.560 align:start position:0%
+ You know, we're expanding our AI PC developer program.
+
+00:09:41.560 --> 00:09:46.480 align:start position:0%
+ Also, and now, IHVs and ISV programs to go with it.
+
+00:09:46.480 --> 00:09:51.160 align:start position:0%
+ 500 plus AI models are now optimized for core ultra.
+
+00:09:51.160 --> 00:09:53.480 align:start position:0%
+ And of course, working with our OEM partners,
+
+00:09:53.480 --> 00:09:57.560 align:start position:0%
+ Dell, HP, Lenovo, our roadmap is strong,
+
+00:09:57.560 --> 00:10:00.000 align:start position:0%
+ off to a good start, but with lunar lake,
+
+00:10:00.000 --> 00:10:03.360 align:start position:0%
+ air lake, Panther Lake, the roadmap is strong.
+
+00:10:03.360 --> 00:10:06.400 align:start position:0%
+ And in particular, I'm quite excited about the next platform,
+
+00:10:06.400 --> 00:10:09.880 align:start position:0%
+ you know, where before competitors ship their first chips,
+
+00:10:09.880 --> 00:10:12.320 align:start position:0%
+ you know, we're launching our second, you know,
+
+00:10:12.320 --> 00:10:15.160 align:start position:0%
+ lunar lake 3XDI performance.
+
+00:10:15.880 --> 00:10:26.600 align:start position:0%
+ This little marble has over 100 platform tops, 45 NPU tops
+
+00:10:26.600 --> 00:10:27.280 align:start position:0%
+ alone.
+
+00:10:27.280 --> 00:10:29.240 align:start position:0%
+ And before others get started, we're
+
+00:10:29.240 --> 00:10:32.560 align:start position:0%
+ on to the second generation, the third generation's in fab,
+
+00:10:32.560 --> 00:10:36.760 align:start position:0%
+ because we're going to drive the AI PC category to every
+
+00:10:36.760 --> 00:10:39.760 align:start position:0%
+ fingertip of your users and your customers.
+
+00:10:39.960 --> 00:10:48.640 align:start position:0%
+ And just like with Wi-Fi, after you've started to use an AI PC,
+
+00:10:48.640 --> 00:10:50.520 align:start position:0%
+ you can't imagine not.
+
+00:10:50.520 --> 00:10:51.120 align:start position:0%
+ What do you mean?
+
+00:10:51.120 --> 00:10:52.360 align:start position:0%
+ You don't have a Wi-Fi connection?
+
+00:10:52.360 --> 00:10:53.400 align:start position:0%
+ What's the matter with you?
+
+00:10:53.400 --> 00:10:55.240 align:start position:0%
+ Get rid of this piece of trash.
+
+00:10:55.240 --> 00:10:59.320 align:start position:0%
+ You know, AI will be enabling every business critical worker,
+
+00:10:59.320 --> 00:11:03.360 align:start position:0%
+ automating, streamlining, collaborating, new insights.
+
+00:11:03.360 --> 00:11:05.680 align:start position:0%
+ And later in the keynote, we'll give you some examples
+
+00:11:05.680 --> 00:11:07.400 align:start position:0%
+ of those use cases.
+
+00:11:07.400 --> 00:11:10.200 align:start position:0%
+ And you need to capitalize on this opportunity.
+
+00:11:10.200 --> 00:11:11.760 align:start position:0%
+ You need to refresh.
+
+00:11:11.760 --> 00:11:14.000 align:start position:0%
+ You know, on things like office productivity alone,
+
+00:11:14.000 --> 00:11:17.520 align:start position:0%
+ almost a 50% improvement over a three-year-old PC.
+
+00:11:17.520 --> 00:11:20.000 align:start position:0%
+ And most of you have four and five-year-old PCs.
+
+00:11:20.000 --> 00:11:23.840 align:start position:0%
+ Time to upgrade, you know, battery life, new four-factor
+
+00:11:23.840 --> 00:11:26.760 align:start position:0%
+ security, Windows 10 end of life.
+
+00:11:26.760 --> 00:11:31.360 align:start position:0%
+ And all of these, the killer reason is the new AI use cases.
+
+00:11:31.360 --> 00:11:34.760 align:start position:0%
+ Microsoft Copilot, Adobe Developers, Zoom teams,
+
+00:11:34.760 --> 00:11:37.960 align:start position:0%
+ summarization, translation, contextualization.
+
+00:11:37.960 --> 00:11:42.160 align:start position:0%
+ Every application is going through an AI makeover.
+
+00:11:42.160 --> 00:11:45.720 align:start position:0%
+ And without Intel Core Ultra, you're going to miss out.
+
+00:11:45.720 --> 00:11:47.880 align:start position:0%
+ Simply put, time to refresh.
+
+00:11:47.880 --> 00:11:50.080 align:start position:0%
+ I was with a major CIO recently.
+
+00:11:50.080 --> 00:11:51.480 align:start position:0%
+ And they were like most companies.
+
+00:11:51.480 --> 00:11:55.000 align:start position:0%
+ They're typical boring, four-year refresh cycle.
+
+00:11:55.000 --> 00:11:57.520 align:start position:0%
+ You know, and through COVID, it sort of extended a little bit.
+
+00:11:57.520 --> 00:11:58.880 align:start position:0%
+ It's sort of five years.
+
+00:11:58.880 --> 00:12:00.840 align:start position:0%
+ And we started to go through the use cases
+
+00:12:00.840 --> 00:12:04.160 align:start position:0%
+ that he personally would start to take advantage of.
+
+00:12:04.600 --> 00:12:07.280 align:start position:0%
+ Next phone call, CIO, we need to start
+
+00:12:07.280 --> 00:12:10.800 align:start position:0%
+ planning our upgrade cycle now.
+
+00:12:10.800 --> 00:12:13.960 align:start position:0%
+ An upgrade cycle, 10,000 might take, you know,
+
+00:12:13.960 --> 00:12:17.080 align:start position:0%
+ 12 to 15 months to drive an upgrade cycle.
+
+00:12:17.080 --> 00:12:20.720 align:start position:0%
+ Windows 10 ELO, ELO is roughly 18 months out.
+
+00:12:20.720 --> 00:12:25.200 align:start position:0%
+ My challenge to you, leave today, call your head of IT,
+
+00:12:25.200 --> 00:12:29.880 align:start position:0%
+ ask what your AI PC upgrade refresh policy is.
+
+00:12:29.880 --> 00:12:33.720 align:start position:0%
+ And if it's not underway yet, tell them to give you a plan.
+
+00:12:33.720 --> 00:12:35.960 align:start position:0%
+ And if you don't get a good answer, I'll call them for you.
+
+00:12:43.800 --> 00:12:46.560 align:start position:0%
+ So the next piece of bringing AI everywhere
+
+00:12:46.560 --> 00:12:49.640 align:start position:0%
+ is edge and enterprise.
+
+00:12:49.640 --> 00:12:51.280 align:start position:0%
+ And we see that, you know, the edge
+
+00:12:51.280 --> 00:12:54.280 align:start position:0%
+ is this conglomeration of lots of different platforms,
+
+00:12:54.280 --> 00:12:56.120 align:start position:0%
+ lots of different solutions.
+
+00:12:56.120 --> 00:13:01.160 align:start position:0%
+ But the killer app for the next generation of edges, AI,
+
+00:13:01.160 --> 00:13:03.800 align:start position:0%
+ right, and all of sudden video analytics,
+
+00:13:03.800 --> 00:13:06.800 align:start position:0%
+ taking advantage of these vast quantities of data
+
+00:13:06.800 --> 00:13:10.960 align:start position:0%
+ that at the edge and largely wasted today.
+
+00:13:10.960 --> 00:13:15.200 align:start position:0%
+ And Intel's been delivering edge platforms for many decades.
+
+00:13:15.200 --> 00:13:18.880 align:start position:0%
+ And now we're building on those open standard platform
+
+00:13:18.880 --> 00:13:23.280 align:start position:0%
+ investments, enabling you to bring these new analytical
+
+00:13:23.280 --> 00:13:28.120 align:start position:0%
+ processes, data, you know, harvesting to those platforms.
+
+00:13:28.120 --> 00:13:31.960 align:start position:0%
+ And I call it the three laws of the edge.
+
+00:13:31.960 --> 00:13:35.600 align:start position:0%
+ And we see this idea of AI edge becoming really important.
+
+00:13:35.600 --> 00:13:38.720 align:start position:0%
+ But should the AI happen in the cloud?
+
+00:13:38.720 --> 00:13:40.680 align:start position:0%
+ We're at the edge.
+
+00:13:40.680 --> 00:13:42.960 align:start position:0%
+ And I call it the three laws, the laws of economics,
+
+00:13:42.960 --> 00:13:45.680 align:start position:0%
+ the laws of physics, and the laws of the land.
+
+00:13:45.680 --> 00:13:48.280 align:start position:0%
+ You know, economics is simply too expensive
+
+00:13:48.280 --> 00:13:50.840 align:start position:0%
+ to bring your data back to the cloud,
+
+00:13:50.840 --> 00:13:52.520 align:start position:0%
+ it gives you better cost control.
+
+00:13:52.520 --> 00:13:55.360 align:start position:0%
+ You know, bandwidth is the most expensive resource,
+
+00:13:55.360 --> 00:13:56.520 align:start position:0%
+ you know, that you have.
+
+00:13:56.520 --> 00:13:59.560 align:start position:0%
+ And cloud is the most expensive compute
+
+00:13:59.560 --> 00:14:01.160 align:start position:0%
+ that you have in the fleet.
+
+00:14:01.160 --> 00:14:05.240 align:start position:0%
+ So the laws of economics, move it to the edge.
+
+00:14:05.240 --> 00:14:11.440 align:start position:0%
+ But second is the laws of the physics, as I like to say.
+
+00:14:11.440 --> 00:14:16.360 align:start position:0%
+ And how many of you have changed the speed of like this week?
+
+00:14:16.360 --> 00:14:18.960 align:start position:0%
+ You know, hey, you know, whether it's skill shortages,
+
+00:14:18.960 --> 00:14:22.480 align:start position:0%
+ quality, security, all of those things, you know,
+
+00:14:22.480 --> 00:14:24.160 align:start position:0%
+ what's the round trip requirement?
+
+00:14:24.160 --> 00:14:26.200 align:start position:0%
+ What's the user interface expectations
+
+00:14:26.200 --> 00:14:28.360 align:start position:0%
+ for instantaneous response?
+
+00:14:28.360 --> 00:14:31.920 align:start position:0%
+ Or how fast does the robotic arm need a response?
+
+00:14:31.920 --> 00:14:35.060 align:start position:0%
+ If it's 20 milliseconds, you can't 200 millisecond round
+
+00:14:35.060 --> 00:14:36.320 align:start position:0%
+ trip to the cloud.
+
+00:14:36.320 --> 00:14:39.440 align:start position:0%
+ The laws of physics draw you to the edge.
+
+00:14:39.440 --> 00:14:41.840 align:start position:0%
+ And you know, hey, we're pretty profound technologists,
+
+00:14:41.840 --> 00:14:46.120 align:start position:0%
+ but we ain't changing the speed of light.
+
+00:14:46.120 --> 00:14:50.200 align:start position:0%
+ But maybe the third is the most powerful, the laws of the land.
+
+00:14:50.200 --> 00:14:53.280 align:start position:0%
+ And we often need to keep data on prem for privacy,
+
+00:14:53.280 --> 00:14:55.440 align:start position:0%
+ regulatory security reasons.
+
+00:14:55.440 --> 00:14:57.720 align:start position:0%
+ And data laws have become increasingly
+
+00:14:57.720 --> 00:15:01.400 align:start position:0%
+ diverse and restrictive by regions across the world.
+
+00:15:01.400 --> 00:15:05.240 align:start position:0%
+ And you know, every nation has some form of GDPR, you know,
+
+00:15:05.240 --> 00:15:07.480 align:start position:0%
+ capabilities in this volume of data
+
+00:15:07.480 --> 00:15:10.600 align:start position:0%
+ to tap in at the edges, simply staggering.
+
+00:15:10.600 --> 00:15:13.120 align:start position:0%
+ You know, and again, I was with the CIO recently.
+
+00:15:13.120 --> 00:15:15.600 align:start position:0%
+ And he was describing the 100 plus companies
+
+00:15:15.600 --> 00:15:18.960 align:start position:0%
+ they operate in at all the different data privacy
+
+00:15:18.960 --> 00:15:20.600 align:start position:0%
+ and regulatory requirements.
+
+00:15:20.600 --> 00:15:23.680 align:start position:0%
+ The idea of bringing data back to the cloud?
+
+00:15:23.680 --> 00:15:26.640 align:start position:0%
+ No way was his response.
+
+00:15:26.640 --> 00:15:30.160 align:start position:0%
+ Couldn't even fathom the idea of moving data out of region
+
+00:15:30.160 --> 00:15:32.040 align:start position:0%
+ for these use cases.
+
+00:15:32.040 --> 00:15:33.760 align:start position:0%
+ So the three laws.
+
+00:15:33.760 --> 00:15:36.520 align:start position:0%
+ And as the edge becomes increasingly important,
+
+00:15:36.520 --> 00:15:39.960 align:start position:0%
+ it's going to become, we believe, the dominant AI workload
+
+00:15:39.960 --> 00:15:45.520 align:start position:0%
+ research indicates that by 2026, 50% of edge computing
+
+00:15:45.520 --> 00:15:48.880 align:start position:0%
+ deployments will involve machine learning and AI
+
+00:15:48.880 --> 00:15:54.160 align:start position:0%
+ compared to just 5% today, a killer use case.
+
+00:15:54.160 --> 00:15:57.360 align:start position:0%
+ Now, one of the things I've really become infatuated with
+
+00:15:57.360 --> 00:16:00.440 align:start position:0%
+ is we've studied these AI use cases.
+
+00:16:00.440 --> 00:16:04.200 align:start position:0%
+ It's all about unleashing your data.
+
+00:16:04.200 --> 00:16:08.280 align:start position:0%
+ And how does your, you know, this massive proprietary data
+
+00:16:08.280 --> 00:16:13.280 align:start position:0%
+ sets, how can we turn it loose, you know, for AI deployments?
+
+00:16:13.280 --> 00:16:17.840 align:start position:0%
+ And Rags, retrieval augmented generation, is like so cool.
+
+00:16:17.840 --> 00:16:23.360 align:start position:0%
+ It's sort of this perfect bridge between cool new LLMs
+
+00:16:23.360 --> 00:16:27.280 align:start position:0%
+ and the big data repositories that you have today.
+
+00:16:27.280 --> 00:16:31.360 align:start position:0%
+ And Rags becomes, I think, one of the most important workflows
+
+00:16:31.360 --> 00:16:34.840 align:start position:0%
+ for corporations to take advantage of their data
+
+00:16:34.840 --> 00:16:39.680 align:start position:0%
+ and generative AI, where I can take modern open source LLMs.
+
+00:16:39.680 --> 00:16:41.400 align:start position:0%
+ And, you know, maybe if you're really good,
+
+00:16:41.400 --> 00:16:43.520 align:start position:0%
+ you're updating and retraining those.
+
+00:16:43.520 --> 00:16:44.520 align:start position:0%
+ What do you think?
+
+00:16:44.520 --> 00:16:46.360 align:start position:0%
+ Maybe once a week, maybe once a month, how often
+
+00:16:46.360 --> 00:16:49.560 align:start position:0%
+ are you updating the LLMs, right, that you have?
+
+00:16:49.560 --> 00:16:53.200 align:start position:0%
+ But then you're combining it with real-time data
+
+00:16:53.200 --> 00:16:56.800 align:start position:0%
+ coming through your vector databases, your streaming,
+
+00:16:56.800 --> 00:16:58.960 align:start position:0%
+ unstructured databases as well.
+
+00:16:58.960 --> 00:17:02.480 align:start position:0%
+ And bringing both of those together in real time,
+
+00:17:02.480 --> 00:17:05.200 align:start position:0%
+ we think is extraordinarily powerful.
+
+00:17:05.200 --> 00:17:08.760 align:start position:0%
+ You know, when Rags as a database encodes domain-specific,
+
+00:17:08.760 --> 00:17:12.840 align:start position:0%
+ business-specific data, and then packages that together
+
+00:17:12.840 --> 00:17:17.760 align:start position:0%
+ for these complex queries into open standard LLMs
+
+00:17:17.760 --> 00:17:21.360 align:start position:0%
+ environments, provides better real-time data.
+
+00:17:21.360 --> 00:17:24.680 align:start position:0%
+ You know, combining this gives better business results.
+
+00:17:24.680 --> 00:17:27.400 align:start position:0%
+ And with the rise of Gen AI in the workplace,
+
+00:17:27.400 --> 00:17:32.720 align:start position:0%
+ how do you apply it to your business problems and challenges?
+
+00:17:32.720 --> 00:17:34.240 align:start position:0%
+ So, what do you think?
+
+00:17:34.240 --> 00:17:37.240 align:start position:0%
+ You know, me giving a speech or me giving you a demo?
+
+00:17:37.240 --> 00:17:40.360 align:start position:0%
+ Let's look at a demo and have Diana here help us.
+
+00:17:40.360 --> 00:17:42.960 align:start position:0%
+ I'm not happy.
+
+00:17:42.960 --> 00:17:45.000 align:start position:0%
+ Hey.
+
+00:17:45.000 --> 00:17:48.680 align:start position:0%
+ So, Diana, you know, can you help solve this problem?
+
+00:17:48.680 --> 00:17:51.600 align:start position:0%
+ How can I take big data farms and combine it
+
+00:17:51.600 --> 00:17:53.080 align:start position:0%
+ with modern LLMs?
+
+00:17:53.080 --> 00:17:53.680 align:start position:0%
+ Exactly.
+
+00:17:53.680 --> 00:17:55.360 align:start position:0%
+ Well, I think you kind of alluded to the answer.
+
+00:17:55.360 --> 00:17:57.560 align:start position:0%
+ But I mean, LLMs are really cool,
+
+00:17:57.560 --> 00:17:59.160 align:start position:0%
+ but they're not always the most up-to-date,
+
+00:17:59.160 --> 00:18:01.720 align:start position:0%
+ and they may not have access to the most relevant information,
+
+00:18:01.720 --> 00:18:04.360 align:start position:0%
+ like company proprietary data, for example.
+
+00:18:04.360 --> 00:18:06.000 align:start position:0%
+ And as I think you mentioned, you can actually
+
+00:18:06.000 --> 00:18:09.120 align:start position:0%
+ solve that by adding a Rags to your LLM.
+
+00:18:09.160 --> 00:18:10.640 align:start position:0%
+ So, let's take a look at this.
+
+00:18:10.640 --> 00:18:13.880 align:start position:0%
+ We actually have here, I've got two chat bots.
+
+00:18:13.880 --> 00:18:16.720 align:start position:0%
+ They're both running, LOMA2, the 70 billion parameter
+
+00:18:16.720 --> 00:18:18.480 align:start position:0%
+ LLM on Gaudi2.
+
+00:18:18.480 --> 00:18:20.600 align:start position:0%
+ But the left one's just a stock one.
+
+00:18:20.600 --> 00:18:23.080 align:start position:0%
+ The right one's got Rags added, running a Redis
+
+00:18:23.080 --> 00:18:26.360 align:start position:0%
+ vector database on Zian6 with performance cores
+
+00:18:26.360 --> 00:18:28.040 align:start position:0%
+ and MCR memory from micron.
+
+00:18:28.040 --> 00:18:29.040 align:start position:0%
+ OK.
+
+00:18:29.040 --> 00:18:31.720 align:start position:0%
+ We'll try a prompt or two and see what kind of response you have.
+
+00:18:31.720 --> 00:18:32.880 align:start position:0%
+ Show me something.
+
+00:18:32.880 --> 00:18:33.880 align:start position:0%
+ All right.
+
+00:18:33.880 --> 00:18:35.080 align:start position:0%
+ So, the first one I've already got here,
+
+00:18:35.080 --> 00:18:36.840 align:start position:0%
+ we're going to ask something that's going to be something
+
+00:18:36.840 --> 00:18:38.920 align:start position:0%
+ we're asking for very up-to-date information.
+
+00:18:38.920 --> 00:18:42.880 align:start position:0%
+ And we'll see how these two LLMs work on this.
+
+00:18:42.880 --> 00:18:43.400 align:start position:0%
+ OK.
+
+00:18:43.400 --> 00:18:44.360 align:start position:0%
+ They're both giving us some answers.
+
+00:18:44.360 --> 00:18:45.400 align:start position:0%
+ They're both giving us some answers.
+
+00:18:45.400 --> 00:18:46.480 align:start position:0%
+ So, that's great.
+
+00:18:46.480 --> 00:18:48.200 align:start position:0%
+ And let's see.
+
+00:18:48.200 --> 00:18:50.080 align:start position:0%
+ We'll try to zoom in a little bit here.
+
+00:18:50.080 --> 00:18:51.160 align:start position:0%
+ So, this is a stock one.
+
+00:18:51.160 --> 00:18:52.600 align:start position:0%
+ You can see we're asking for this information.
+
+00:18:52.600 --> 00:18:55.160 align:start position:0%
+ I don't have specific information.
+
+00:18:55.160 --> 00:18:55.920 align:start position:0%
+ Yes.
+
+00:18:55.920 --> 00:18:56.960 align:start position:0%
+ Yeah, sort of sad.
+
+00:18:56.960 --> 00:18:58.280 align:start position:0%
+ It is a little sad.
+
+00:18:58.280 --> 00:18:59.080 align:start position:0%
+ It is a little sad.
+
+00:18:59.080 --> 00:19:01.080 align:start position:0%
+ It's not very helpful.
+
+00:19:01.080 --> 00:19:02.240 align:start position:0%
+ Yes, I have information.
+
+00:19:02.240 --> 00:19:03.520 align:start position:0%
+ I have information here.
+
+00:19:03.520 --> 00:19:05.720 align:start position:0%
+ Very, very current information.
+
+00:19:05.720 --> 00:19:06.480 align:start position:0%
+ That's what you want.
+
+00:19:06.480 --> 00:19:08.320 align:start position:0%
+ I mean, otherwise, what's the point?
+
+00:19:08.320 --> 00:19:09.200 align:start position:0%
+ Yeah, OK.
+
+00:19:09.200 --> 00:19:09.880 align:start position:0%
+ So, that's cool.
+
+00:19:09.880 --> 00:19:11.160 align:start position:0%
+ So, you got any others?
+
+00:19:11.160 --> 00:19:11.680 align:start position:0%
+ I do.
+
+00:19:11.680 --> 00:19:13.520 align:start position:0%
+ Let's try another one.
+
+00:19:13.520 --> 00:19:15.800 align:start position:0%
+ I'm going to do a little cut and paste here.
+
+00:19:15.800 --> 00:19:20.320 align:start position:0%
+ Spare my typing skills, which are not stellar.
+
+00:19:20.320 --> 00:19:22.040 align:start position:0%
+ So, this question, I think you'll be interested in.
+
+00:19:22.040 --> 00:19:26.640 align:start position:0%
+ This is TCO benefits of the Rags solution on Gowdy2 on Zian.
+
+00:19:26.640 --> 00:19:29.080 align:start position:0%
+ So, let's see what kind of response we get there.
+
+00:19:29.080 --> 00:19:29.760 align:start position:0%
+ OK.
+
+00:19:29.760 --> 00:19:34.040 align:start position:0%
+ Once again, it's giving us a bunch of words.
+
+00:19:34.040 --> 00:19:34.560 align:start position:0%
+ Yeah, sort of.
+
+00:19:34.560 --> 00:19:35.880 align:start position:0%
+ I'm not sure the words are helpful.
+
+00:19:35.880 --> 00:19:37.400 align:start position:0%
+ Yeah, sort of like one of my uncles.
+
+00:19:37.400 --> 00:19:39.360 align:start position:0%
+ Lots of words, not much information.
+
+00:19:39.360 --> 00:19:40.520 align:start position:0%
+ Pretty much, exactly.
+
+00:19:40.520 --> 00:19:41.360 align:start position:0%
+ Yeah, exactly.
+
+00:19:41.360 --> 00:19:42.640 align:start position:0%
+ That's a great, great analogy.
+
+00:19:42.640 --> 00:19:44.600 align:start position:0%
+ Yeah, so you can see we've got a lot of words.
+
+00:19:44.600 --> 00:19:46.520 align:start position:0%
+ It's not really giving us too much information.
+
+00:19:46.520 --> 00:19:48.200 align:start position:0%
+ It's kind of just sort of guessing at things.
+
+00:19:48.200 --> 00:19:48.720 align:start position:0%
+ Yeah.
+
+00:19:48.720 --> 00:19:51.240 align:start position:0%
+ Whereas over here, on the Rags solution,
+
+00:19:51.240 --> 00:19:53.200 align:start position:0%
+ we are getting very specific information.
+
+00:19:53.200 --> 00:19:55.960 align:start position:0%
+ We are actually getting some really nice numbers.
+
+00:19:55.960 --> 00:19:56.480 align:start position:0%
+ OK.
+
+00:19:56.480 --> 00:19:57.480 align:start position:0%
+ I love that.
+
+00:19:57.480 --> 00:19:58.240 align:start position:0%
+ That's better.
+
+00:19:58.240 --> 00:19:58.760 align:start position:0%
+ Yeah.
+
+00:19:58.760 --> 00:19:59.240 align:start position:0%
+ Yeah, yeah.
+
+00:19:59.240 --> 00:20:00.240 align:start position:0%
+ Crosherly good to see you.
+
+00:20:00.240 --> 00:20:01.040 align:start position:0%
+ Over H100.
+
+00:20:01.040 --> 00:20:01.560 align:start position:0%
+ OK.
+
+00:20:01.560 --> 00:20:02.040 align:start position:0%
+ Yeah.
+
+00:20:02.040 --> 00:20:03.360 align:start position:0%
+ I figured you'd like that.
+
+00:20:03.360 --> 00:20:04.200 align:start position:0%
+ So, good job.
+
+00:20:04.200 --> 00:20:05.360 align:start position:0%
+ So, yeah, very specific.
+
+00:20:05.360 --> 00:20:08.000 align:start position:0%
+ And the other thing is we're not just throwing numbers at you.
+
+00:20:08.000 --> 00:20:09.600 align:start position:0%
+ We are actually citing the sources.
+
+00:20:09.600 --> 00:20:10.120 align:start position:0%
+ OK.
+
+00:20:10.120 --> 00:20:10.920 align:start position:0%
+ We know where these numbers are.
+
+00:20:10.920 --> 00:20:11.920 align:start position:0%
+ We know where these numbers are.
+
+00:20:11.920 --> 00:20:13.240 align:start position:0%
+ Yeah, I'm sure you don't have to worry.
+
+00:20:13.240 --> 00:20:16.120 align:start position:0%
+ We're like making this up and who knows where it came from.
+
+00:20:16.120 --> 00:20:18.440 align:start position:0%
+ So, very, very great results there.
+
+00:20:18.440 --> 00:20:19.560 align:start position:0%
+ OK.
+
+00:20:19.560 --> 00:20:21.480 align:start position:0%
+ Maybe one more prompt for the people.
+
+00:20:21.480 --> 00:20:22.480 align:start position:0%
+ Yeah.
+
+00:20:22.480 --> 00:20:23.480 align:start position:0%
+ Try something.
+
+00:20:23.480 --> 00:20:25.520 align:start position:0%
+ Maybe not all of them are TCO hardware folks.
+
+00:20:25.520 --> 00:20:26.520 align:start position:0%
+ That's what I saw for.
+
+00:20:26.520 --> 00:20:28.480 align:start position:0%
+ There's probably some software people out there.
+
+00:20:28.480 --> 00:20:32.320 align:start position:0%
+ So, let's ask a software question.
+
+00:20:32.320 --> 00:20:35.760 align:start position:0%
+ Forecast data, AI software market revenue growth.
+
+00:20:35.760 --> 00:20:37.920 align:start position:0%
+ Let's see what we get for that.
+
+00:20:37.920 --> 00:20:39.600 align:start position:0%
+ Oh, I can already see the stock law,
+
+00:20:39.600 --> 00:20:43.000 align:start position:0%
+ the two is hidden in the, I don't have access to real-time data.
+
+00:20:43.000 --> 00:20:46.600 align:start position:0%
+ That seems to be a common remark there.
+
+00:20:46.600 --> 00:20:49.040 align:start position:0%
+ So, yes, no access.
+
+00:20:49.040 --> 00:20:50.880 align:start position:0%
+ We're throwing out some numbers here.
+
+00:20:50.880 --> 00:20:51.760 align:start position:0%
+ Variety of numbers.
+
+00:20:51.760 --> 00:20:53.760 align:start position:0%
+ So, we're just kind of, you know, we're trying to come up with something.
+
+00:20:53.760 --> 00:20:55.920 align:start position:0%
+ But who knows where those numbers came from and how accurate are.
+
+00:20:55.920 --> 00:20:57.640 align:start position:0%
+ Yeah, it sounds definitive, but it's wrong.
+
+00:20:57.640 --> 00:20:59.000 align:start position:0%
+ Yeah, but there's two definitive.
+
+00:20:59.000 --> 00:20:59.800 align:start position:0%
+ So, we got two definitive.
+
+00:20:59.800 --> 00:21:00.960 align:start position:0%
+ So, anyway.
+
+00:21:00.960 --> 00:21:03.400 align:start position:0%
+ But here we have a definitive number and the source.
+
+00:21:03.400 --> 00:21:05.640 align:start position:0%
+ So, something that you can feel much more confident about.
+
+00:21:05.640 --> 00:21:06.640 align:start position:0%
+ Okay.
+
+00:21:06.640 --> 00:21:09.440 align:start position:0%
+ I should try one more quick one here.
+
+00:21:09.440 --> 00:21:11.760 align:start position:0%
+ The thing that I thought was interesting about this is,
+
+00:21:11.760 --> 00:21:13.560 align:start position:0%
+ this is the original question.
+
+00:21:13.560 --> 00:21:17.360 align:start position:0%
+ If I change this just slightly to say,
+
+00:21:17.360 --> 00:21:18.760 align:start position:0%
+ information instead of data.
+
+00:21:18.760 --> 00:21:20.240 align:start position:0%
+ Now, I personally don't distinguish.
+
+00:21:20.240 --> 00:21:21.360 align:start position:0%
+ I could have said either one, right?
+
+00:21:21.360 --> 00:21:24.160 align:start position:0%
+ It's not like, it seems like the same question.
+
+00:21:24.160 --> 00:21:27.040 align:start position:0%
+ So, I ask essentially to me the same question.
+
+00:21:27.040 --> 00:21:30.840 align:start position:0%
+ And you can see as the information is coming down through here,
+
+00:21:30.880 --> 00:21:34.440 align:start position:0%
+ the Lama 2 is giving us essentially a different answer.
+
+00:21:34.440 --> 00:21:35.360 align:start position:0%
+ In this case, it's like,
+
+00:21:35.360 --> 00:21:39.440 align:start position:0%
+ Jimmy's just giving us one of the numbers.
+
+00:21:39.440 --> 00:21:40.640 align:start position:0%
+ It didn't give us two.
+
+00:21:40.640 --> 00:21:42.600 align:start position:0%
+ So, it's like, well, did it make the other one up before?
+
+00:21:42.600 --> 00:21:43.960 align:start position:0%
+ I mean, where did it get that from?
+
+00:21:43.960 --> 00:21:45.240 align:start position:0%
+ Where's this one?
+
+00:21:45.240 --> 00:21:47.600 align:start position:0%
+ If you can see, we're getting exactly the same.
+
+00:21:47.600 --> 00:21:48.440 align:start position:0%
+ Yeah.
+
+00:21:48.440 --> 00:21:49.280 align:start position:0%
+ Very cool.
+
+00:21:49.280 --> 00:21:52.640 align:start position:0%
+ So, better answers, more current, real time information.
+
+00:21:52.640 --> 00:21:53.880 align:start position:0%
+ But what about performance?
+
+00:21:53.880 --> 00:21:54.720 align:start position:0%
+ Oh, performance.
+
+00:21:54.720 --> 00:21:56.360 align:start position:0%
+ So, we've got some good news there too.
+
+00:21:56.360 --> 00:21:59.280 align:start position:0%
+ Up to 2.35, better performance on this,
+
+00:21:59.280 --> 00:22:02.480 align:start position:0%
+ because Xeon 6 and Redis solution compared to previous gen.
+
+00:22:02.480 --> 00:22:05.320 align:start position:0%
+ So, more users, more LLM's, the same platform.
+
+00:22:05.320 --> 00:22:06.320 align:start position:0%
+ Really good news there.
+
+00:22:06.320 --> 00:22:06.800 align:start position:0%
+ Excellent.
+
+00:22:06.800 --> 00:22:09.400 align:start position:0%
+ Well, Diana, like always, you're the best.
+
+00:22:09.400 --> 00:22:10.200 align:start position:0%
+ Thanks, Fatma.
+
+00:22:10.200 --> 00:22:10.720 align:start position:0%
+ Yes.
+
+00:22:10.720 --> 00:22:11.200 align:start position:0%
+ Yes.
+
+00:22:11.200 --> 00:22:12.200 align:start position:0%
+ Yes.
+
+00:22:16.520 --> 00:22:20.480 align:start position:0%
+ And, right, I mean, there's lots of things going on in the AI space,
+
+00:22:20.480 --> 00:22:23.000 align:start position:0%
+ right, you know, models and training and MOE.
+
+00:22:23.000 --> 00:22:27.000 align:start position:0%
+ But this idea of rag of combining your data in real time,
+
+00:22:27.000 --> 00:22:29.160 align:start position:0%
+ right, with the latest in the LLM work,
+
+00:22:29.160 --> 00:22:33.880 align:start position:0%
+ I think this is really powerful to unlock this asset that you have.
+
+00:22:33.880 --> 00:22:37.160 align:start position:0%
+ And this is really, you know, very broadening the exposure
+
+00:22:37.160 --> 00:22:39.760 align:start position:0%
+ of your confidential information,
+
+00:22:39.760 --> 00:22:43.160 align:start position:0%
+ building on what you already have, where your data already is,
+
+00:22:43.160 --> 00:22:46.280 align:start position:0%
+ and enabling it in new and profound ways.
+
+00:22:46.280 --> 00:22:48.680 align:start position:0%
+ But of course, this still is sort of complicated.
+
+00:22:48.680 --> 00:22:53.120 align:start position:0%
+ And as we think about that, you know, we've clearly seen that there's
+
+00:22:53.120 --> 00:22:56.680 align:start position:0%
+ interest in how we can move these standards forward,
+
+00:22:56.680 --> 00:22:59.400 align:start position:0%
+ standard management, no networking lock-in,
+
+00:22:59.400 --> 00:23:03.440 align:start position:0%
+ no new security issues, working with LLM's that, you know,
+
+00:23:03.440 --> 00:23:09.720 align:start position:0%
+ can run natively on Zian, but also with Gaudi 2 and 3 and Nvidia.
+
+00:23:09.720 --> 00:23:16.520 align:start position:0%
+ And now is the time to build open platforms for enterprise AI.
+
+00:23:16.520 --> 00:23:20.880 align:start position:0%
+ And we're working to address key requirements that include
+
+00:23:20.880 --> 00:23:25.680 align:start position:0%
+ how you efficiently deploy, utilizing existing infrastructure,
+
+00:23:25.680 --> 00:23:29.880 align:start position:0%
+ seamless integration with hardened enterprise software stacks
+
+00:23:29.880 --> 00:23:31.080 align:start position:0%
+ that you have today.
+
+00:23:31.080 --> 00:23:33.120 align:start position:0%
+ You know, the high degree of reliability,
+
+00:23:33.120 --> 00:23:36.880 align:start position:0%
+ availability, security, support issues.
+
+00:23:36.880 --> 00:23:40.160 align:start position:0%
+ But Intel's not the only one seeing those challenges as well.
+
+00:23:40.160 --> 00:23:43.680 align:start position:0%
+ And we have strong support from the companies that are listed here.
+
+00:23:43.680 --> 00:23:46.960 align:start position:0%
+ You know, and some of the big critical players who control so much
+
+00:23:46.960 --> 00:23:50.600 align:start position:0%
+ of your data infrastructure, SAP, IBM, Red Hat, you know,
+
+00:23:50.600 --> 00:23:52.120 align:start position:0%
+ VMware and more.
+
+00:23:52.120 --> 00:23:55.800 align:start position:0%
+ And based on the strong ecosystems of support, you know,
+
+00:23:55.800 --> 00:23:58.520 align:start position:0%
+ that we're seeing in the incredible response we're seeing
+
+00:23:58.520 --> 00:24:02.720 align:start position:0%
+ from the industry players, we'll soon be launching an open platform,
+
+00:24:02.720 --> 00:24:07.080 align:start position:0%
+ these reference designs and solutions that bringing us together
+
+00:24:07.080 --> 00:24:10.080 align:start position:0%
+ will allow us to build the blueprints, you know,
+
+00:24:10.080 --> 00:24:13.160 align:start position:0%
+ have the reference design available, demonstrate performance,
+
+00:24:13.160 --> 00:24:16.440 align:start position:0%
+ interoperability, trustworthiness, and, you know,
+
+00:24:16.440 --> 00:24:20.000 align:start position:0%
+ ensure effective benchmarking and certification of these solutions
+
+00:24:20.000 --> 00:24:23.880 align:start position:0%
+ as well, and providing open governance so that the entire
+
+00:24:23.880 --> 00:24:26.840 align:start position:0%
+ ecosystem is moving forward, you know, together.
+
+00:24:26.840 --> 00:24:30.000 align:start position:0%
+ And Intel is stepping up to provide access to this,
+
+00:24:30.000 --> 00:24:32.680 align:start position:0%
+ to deliver our blueprints into the marketplace,
+
+00:24:32.680 --> 00:24:34.400 align:start position:0%
+ but also make it easy.
+
+00:24:34.400 --> 00:24:37.240 align:start position:0%
+ And I like to think of Intel developer cloud as sort
+
+00:24:37.240 --> 00:24:38.800 align:start position:0%
+ of the easy button, right?
+
+00:24:38.800 --> 00:24:41.960 align:start position:0%
+ And hey, how can we spin up, you know, a gaudy cluster
+
+00:24:41.960 --> 00:24:43.760 align:start position:0%
+ and have zeyons available?
+
+00:24:43.760 --> 00:24:47.600 align:start position:0%
+ How can IDC be this fast path for test deploy
+
+00:24:47.720 --> 00:24:50.760 align:start position:0%
+ and, you know, solutioning work that you would do?
+
+00:24:50.760 --> 00:24:53.160 align:start position:0%
+ And we'll be delivering these blueprints,
+
+00:24:53.160 --> 00:24:55.720 align:start position:0%
+ these authored, you know, development environments,
+
+00:24:55.720 --> 00:24:59.640 align:start position:0%
+ and stay tuned, you know, at the open source summit next week
+
+00:24:59.640 --> 00:25:03.240 align:start position:0%
+ in North America, or in Seattle, we'll be rolling out
+
+00:25:03.240 --> 00:25:05.880 align:start position:0%
+ many of the next steps for this open platform
+
+00:25:05.880 --> 00:25:08.320 align:start position:0%
+ for enterprise AI.
+
+00:25:08.320 --> 00:25:12.480 align:start position:0%
+ And we see Raga such a huge enabler, this private data
+
+00:25:12.480 --> 00:25:15.240 align:start position:0%
+ that you haven't been able to monetize in your businesses
+
+00:25:15.240 --> 00:25:18.360 align:start position:0%
+ forever and combining it with LLMs.
+
+00:25:18.360 --> 00:25:20.000 align:start position:0%
+ What a powerful model.
+
+00:25:20.000 --> 00:25:23.800 align:start position:0%
+ And let's talk to somebody who's working every day
+
+00:25:23.800 --> 00:25:27.480 align:start position:0%
+ with customers to enable enterprise AI.
+
+00:25:27.480 --> 00:25:30.560 align:start position:0%
+ Please welcome and joining to the stage
+
+00:25:30.560 --> 00:25:33.840 align:start position:0%
+ Accenture's Chief AI Officer, Landwine.
+
+00:25:33.840 --> 00:25:35.840 align:start position:0%
+ CHEERING AND APPLAUSE
+
+00:25:43.760 --> 00:25:47.200 align:start position:0%
+ Land, so good for having you join us here as well.
+
+00:25:47.200 --> 00:25:48.360 align:start position:0%
+ You're having me here.
+
+00:25:48.360 --> 00:25:51.000 align:start position:0%
+ It's like one of the coolest titles, Chief AI Officer.
+
+00:25:51.000 --> 00:25:52.000 align:start position:0%
+ Yeah.
+
+00:25:52.000 --> 00:25:56.280 align:start position:0%
+ So excited to be here to meet so many AI visionaries
+
+00:25:56.280 --> 00:25:58.080 align:start position:0%
+ in one place. Thank you.
+
+00:25:58.080 --> 00:25:59.080 align:start position:0%
+ Yeah, very good.
+
+00:25:59.080 --> 00:26:01.880 align:start position:0%
+ So you work with customers across the industry
+
+00:26:01.880 --> 00:26:05.880 align:start position:0%
+ to develop their AI strategies, help them drive value
+
+00:26:05.880 --> 00:26:08.520 align:start position:0%
+ and growth, and what are the biggest challenges they're seeing?
+
+00:26:08.520 --> 00:26:09.480 align:start position:0%
+ Sure.
+
+00:26:09.480 --> 00:26:14.200 align:start position:0%
+ This is what I do every day with 1,000 Gen.A.I. projects
+
+00:26:14.200 --> 00:26:15.200 align:start position:0%
+ under the belt.
+
+00:26:15.200 --> 00:26:17.040 align:start position:0%
+ I have so many lessons to share.
+
+00:26:17.040 --> 00:26:19.000 align:start position:0%
+ 1,000 Gen.A.I. products.
+
+00:26:19.000 --> 00:26:20.000 align:start position:0%
+ Wow.
+
+00:26:20.000 --> 00:26:23.640 align:start position:0%
+ But today, I will focus on three common challenges
+
+00:26:23.640 --> 00:26:25.200 align:start position:0%
+ to AI adoption.
+
+00:26:25.200 --> 00:26:29.720 align:start position:0%
+ One, ambiguous value realization.
+
+00:26:29.720 --> 00:26:30.720 align:start position:0%
+ OK.
+
+00:26:30.720 --> 00:26:33.040 align:start position:0%
+ Many clients are telling me it's really hard
+
+00:26:33.040 --> 00:26:35.920 align:start position:0%
+ to realize value from their AI investment.
+
+00:26:35.920 --> 00:26:40.560 align:start position:0%
+ And that's even with very well-defined AI KPIs, metrics,
+
+00:26:40.560 --> 00:26:41.760 align:start position:0%
+ things like that.
+
+00:26:41.760 --> 00:26:45.480 align:start position:0%
+ And oftentimes, that's because they are only
+
+00:26:45.480 --> 00:26:50.640 align:start position:0%
+ associating AI KPIs to the task level.
+
+00:26:50.640 --> 00:26:54.960 align:start position:0%
+ So having this kind of a task oriented task-centric approach,
+
+00:26:54.960 --> 00:26:58.240 align:start position:0%
+ you're missing out a lot of aggregate value
+
+00:26:58.240 --> 00:26:59.760 align:start position:0%
+ on the holistic level.
+
+00:26:59.760 --> 00:27:03.680 align:start position:0%
+ That's why in Accenture, we are a big proponent of, OK,
+
+00:27:03.680 --> 00:27:06.040 align:start position:0%
+ you really need to take an enterprise ring mentioned
+
+00:27:06.040 --> 00:27:10.360 align:start position:0%
+ approach by implementing AI across your entire workflow,
+
+00:27:10.360 --> 00:27:14.560 align:start position:0%
+ or in some cases, even disrupting your existing workflow.
+
+00:27:14.560 --> 00:27:19.360 align:start position:0%
+ The second challenge is insufficient data quality.
+
+00:27:19.360 --> 00:27:22.120 align:start position:0%
+ The O saying of garbageing, garbage out
+
+00:27:22.120 --> 00:27:24.560 align:start position:0%
+ cannot be more true in the age of engineering.
+
+00:27:24.560 --> 00:27:26.440 align:start position:0%
+ I mean, they have garbage data.
+
+00:27:26.440 --> 00:27:27.400 align:start position:0%
+ Yes.
+
+00:27:27.400 --> 00:27:30.040 align:start position:0%
+ And I can tell you this is one of the most common challenge
+
+00:27:30.040 --> 00:27:32.520 align:start position:0%
+ many client-faced for companies who
+
+00:27:32.520 --> 00:27:35.560 align:start position:0%
+ are using pre-built LLMs.
+
+00:27:35.560 --> 00:27:39.680 align:start position:0%
+ They don't trust the data coming from the public internet,
+
+00:27:39.680 --> 00:27:42.400 align:start position:0%
+ because that's a major source of hallucination.
+
+00:27:42.400 --> 00:27:44.240 align:start position:0%
+ For some progressive companies who
+
+00:27:44.240 --> 00:27:48.400 align:start position:0%
+ are also trying to fine tune or pre-train their own models,
+
+00:27:48.400 --> 00:27:54.640 align:start position:0%
+ they also are lacking confidence about their internal company
+
+00:27:54.640 --> 00:27:55.480 align:start position:0%
+ data.
+
+00:27:55.480 --> 00:27:57.400 align:start position:0%
+ So let me give you one example.
+
+00:27:57.400 --> 00:28:01.000 align:start position:0%
+ Since Accenture does so much work in context and AI.
+
+00:28:01.000 --> 00:28:03.800 align:start position:0%
+ One of my clients are telling me they actually
+
+00:28:03.800 --> 00:28:08.160 align:start position:0%
+ have 37 versions of standard operating procedure, which
+
+00:28:08.160 --> 00:28:08.760 align:start position:0%
+ is supposed to be.
+
+00:28:08.760 --> 00:28:09.520 align:start position:0%
+ 37 standard.
+
+00:28:09.520 --> 00:28:11.760 align:start position:0%
+ One single version of it's true.
+
+00:28:11.760 --> 00:28:15.080 align:start position:0%
+ So the third challenge is widened talent gaps.
+
+00:28:15.080 --> 00:28:17.920 align:start position:0%
+ Many people think that there's an easy button, right?
+
+00:28:17.920 --> 00:28:19.360 align:start position:0%
+ You can just press a button.
+
+00:28:19.360 --> 00:28:20.400 align:start position:0%
+ Jenny, I will come out.
+
+00:28:20.400 --> 00:28:21.640 align:start position:0%
+ That's not the case.
+
+00:28:21.640 --> 00:28:26.080 align:start position:0%
+ Many organizations need talents to build AI,
+
+00:28:26.080 --> 00:28:27.960 align:start position:0%
+ operate AI, also manage AI.
+
+00:28:27.960 --> 00:28:30.840 align:start position:0%
+ And that's also not forget about a lot of business users
+
+00:28:30.840 --> 00:28:32.800 align:start position:0%
+ that you need to be training so that they
+
+00:28:32.800 --> 00:28:35.520 align:start position:0%
+ can do effective prompt engineering
+
+00:28:35.520 --> 00:28:39.160 align:start position:0%
+ to get very relevant data, very relevant response.
+
+00:28:39.160 --> 00:28:39.600 align:start position:0%
+ Cool.
+
+00:28:39.600 --> 00:28:40.360 align:start position:0%
+ So those three.
+
+00:28:40.360 --> 00:28:43.320 align:start position:0%
+ So what's your advice for our customers and audience here?
+
+00:28:43.320 --> 00:28:44.640 align:start position:0%
+ Yes, I have a lot of advice.
+
+00:28:44.640 --> 00:28:48.200 align:start position:0%
+ But Accenture, we try to simplify this into five imperatives.
+
+00:28:48.200 --> 00:28:50.240 align:start position:0%
+ I already talked about the top three.
+
+00:28:50.240 --> 00:28:52.840 align:start position:0%
+ Lee with value.
+
+00:28:52.840 --> 00:28:56.080 align:start position:0%
+ It's time to build your digital core with data foundation,
+
+00:28:56.080 --> 00:28:57.840 align:start position:0%
+ with AI foundation.
+
+00:28:57.840 --> 00:29:00.680 align:start position:0%
+ Three is, breed your talent gaps.
+
+00:29:00.680 --> 00:29:02.960 align:start position:0%
+ But let me give you two bonus ones.
+
+00:29:02.960 --> 00:29:04.920 align:start position:0%
+ The fourth one is actually, it's
+
+00:29:04.920 --> 00:29:08.600 align:start position:0%
+ time to fix your responsible AI solution.
+
+00:29:08.600 --> 00:29:10.160 align:start position:0%
+ So that's not be theoretical.
+
+00:29:10.160 --> 00:29:13.520 align:start position:0%
+ That's not just talk about responsible AI gaurials.
+
+00:29:13.520 --> 00:29:15.880 align:start position:0%
+ Now start implementing responsive AI
+
+00:29:15.880 --> 00:29:18.840 align:start position:0%
+ systematically using technology solution.
+
+00:29:18.840 --> 00:29:22.800 align:start position:0%
+ Last but not the least, it's not one and done.
+
+00:29:22.800 --> 00:29:26.400 align:start position:0%
+ It's all about continuous reinvention.
+
+00:29:26.400 --> 00:29:28.600 align:start position:0%
+ So take a very marginalized approach.
+
+00:29:28.600 --> 00:29:31.560 align:start position:0%
+ Be ready for a multi-year journey.
+
+00:29:31.560 --> 00:29:34.000 align:start position:0%
+ So for the audience in the room here,
+
+00:29:34.000 --> 00:29:38.000 align:start position:0%
+ are you ready to embark on such an exciting journey with me?
+
+00:29:38.000 --> 00:29:40.600 align:start position:0%
+ Yeah, very good.
+
+00:29:40.600 --> 00:29:43.960 align:start position:0%
+ And Juan, thank you so much for joining us,
+
+00:29:44.200 --> 00:29:47.000 align:start position:0%
+ the partnership with Accenture truly is fabulous.
+
+00:29:47.000 --> 00:29:49.120 align:start position:0%
+ And we work with you in so many domains,
+
+00:29:49.120 --> 00:29:51.520 align:start position:0%
+ and it really honors us to have somebody
+
+00:29:51.520 --> 00:29:55.320 align:start position:0%
+ who's the AI expert of Accenture here in the stage.
+
+00:29:55.320 --> 00:29:56.680 align:start position:0%
+ That's, thank you so much.
+
+00:29:56.680 --> 00:29:57.520 align:start position:0%
+ My pleasure.
+
+00:29:57.520 --> 00:29:58.360 align:start position:0%
+ Thank you.
+
+00:29:58.360 --> 00:29:59.360 align:start position:0%
+ Mm-hmm.
+
+00:29:59.360 --> 00:30:00.360 align:start position:0%
+ Mm-hmm.
+
+00:30:05.640 --> 00:30:07.440 align:start position:0%
+ And the third on our journey is,
+
+00:30:07.440 --> 00:30:09.280 align:start position:0%
+ what we do in the data center and in the cloud.
+
+00:30:09.280 --> 00:30:11.760 align:start position:0%
+ And you know, Intel's been innovating in this area
+
+00:30:11.760 --> 00:30:15.040 align:start position:0%
+ for many years, PCIe, memories, thermal,
+
+00:30:15.040 --> 00:30:16.760 align:start position:0%
+ networking solutions.
+
+00:30:16.760 --> 00:30:20.280 align:start position:0%
+ We've been driving more into our core CPU platform,
+
+00:30:20.280 --> 00:30:24.840 align:start position:0%
+ new capabilities like AMX and driving standards
+
+00:30:24.840 --> 00:30:28.680 align:start position:0%
+ for big data, classical machine learning and inferencing.
+
+00:30:28.680 --> 00:30:33.640 align:start position:0%
+ And the Zeon innovation machine is not slowing down.
+
+00:30:33.640 --> 00:30:36.480 align:start position:0%
+ And we're going to cover a little bit of that today,
+
+00:30:36.480 --> 00:30:41.040 align:start position:0%
+ and we're seeing this very rapid evolution of AI workloads.
+
+00:30:41.040 --> 00:30:45.520 align:start position:0%
+ And even as accelerated computing has taken this primary role,
+
+00:30:45.520 --> 00:30:47.720 align:start position:0%
+ you know, Gaudi arc accelerator solution for that,
+
+00:30:47.720 --> 00:30:49.920 align:start position:0%
+ we're going to cover that in a little bit.
+
+00:30:49.920 --> 00:30:52.680 align:start position:0%
+ But let's start by looking a bit more closely
+
+00:30:52.680 --> 00:30:55.400 align:start position:0%
+ at the Zeon portfolio.
+
+00:30:55.400 --> 00:30:59.480 align:start position:0%
+ And I'm very happy to announce the next generation of Zeon,
+
+00:30:59.480 --> 00:31:04.240 align:start position:0%
+ Zeon six processors, the new brand for our next generation
+
+00:31:04.240 --> 00:31:09.840 align:start position:0%
+ of both Efficient Core and Performance Core solution, Zeon six.
+
+00:31:09.840 --> 00:31:13.680 align:start position:0%
+ And with the rapid rise in computing requirements,
+
+00:31:13.680 --> 00:31:16.880 align:start position:0%
+ and the immense data sets that we're working with,
+
+00:31:16.880 --> 00:31:19.720 align:start position:0%
+ workloads are driving trade-offs for performance,
+
+00:31:19.720 --> 00:31:21.520 align:start position:0%
+ efficiency, and density.
+
+00:31:21.520 --> 00:31:24.440 align:start position:0%
+ And in return, more demand for CPUs.
+
+00:31:24.440 --> 00:31:27.760 align:start position:0%
+ And cores that deliver better performance per watt.
+
+00:31:27.760 --> 00:31:30.480 align:start position:0%
+ And I'm happy to share that the next generation,
+
+00:31:30.480 --> 00:31:32.800 align:start position:0%
+ you know, is enabling for the first time
+
+00:31:32.800 --> 00:31:37.760 align:start position:0%
+ our Zeon six with E Core, uniquely addressing these challenges.
+
+00:31:37.760 --> 00:31:48.200 align:start position:0%
+ And this is based on Intel three, one of my five nodes per four years.
+
+00:31:48.200 --> 00:31:51.040 align:start position:0%
+ You know, so this is like, you know, poppies little baby here.
+
+00:31:51.040 --> 00:31:55.000 align:start position:0%
+ You know, one of our nodes here is we're coming into market.
+
+00:31:55.000 --> 00:31:59.000 align:start position:0%
+ And this is our first volume part on Intel three
+
+00:31:59.000 --> 00:32:01.640 align:start position:0%
+ that we'll be bringing into the marketplace.
+
+00:32:01.640 --> 00:32:04.880 align:start position:0%
+ And super excited, you know, it's coming along very well
+
+00:32:04.880 --> 00:32:07.640 align:start position:0%
+ and we'll be moving here farce into production.
+
+00:32:07.640 --> 00:32:10.600 align:start position:0%
+ This quarter, and we'll be working with our customers,
+
+00:32:10.600 --> 00:32:12.840 align:start position:0%
+ our OEMs to make that available.
+
+00:32:12.840 --> 00:32:17.200 align:start position:0%
+ And we're seeing this ability to deliver distinct advantages,
+
+00:32:17.200 --> 00:32:19.280 align:start position:0%
+ you know, for cloud native, you know,
+
+00:32:19.280 --> 00:32:21.720 align:start position:0%
+ for volume container solutions,
+
+00:32:21.720 --> 00:32:27.080 align:start position:0%
+ hyper scale workloads, and delivering up to 2.7X better
+
+00:32:27.080 --> 00:32:31.920 align:start position:0%
+ rack density, 2.5X performance per watt improvements.
+
+00:32:31.920 --> 00:32:33.360 align:start position:0%
+ And when you think about that,
+
+00:32:33.360 --> 00:32:36.200 align:start position:0%
+ how many of your data centers have excess power budget?
+
+00:32:38.600 --> 00:32:40.200 align:start position:0%
+ No, right?
+
+00:32:40.200 --> 00:32:44.120 align:start position:0%
+ And every watt, right, is a TCO challenge for you.
+
+00:32:44.120 --> 00:32:48.080 align:start position:0%
+ And you know, let's take an example of a telco server deployment,
+
+00:32:48.080 --> 00:32:51.600 align:start position:0%
+ you know, where they might have 200 racks
+
+00:32:51.600 --> 00:32:56.000 align:start position:0%
+ using second gen Zeon for their infrastructure
+
+00:32:56.000 --> 00:32:58.280 align:start position:0%
+ for their telco environment.
+
+00:32:58.280 --> 00:33:04.160 align:start position:0%
+ With Zeon 6 with E-Cores, we can reduce that down to just 72 racks,
+
+00:33:04.160 --> 00:33:07.160 align:start position:0%
+ same performance, same capabilities,
+
+00:33:07.160 --> 00:33:10.520 align:start position:0%
+ and less management, less networking, you know,
+
+00:33:10.520 --> 00:33:15.000 align:start position:0%
+ less things to upgrade, less things to be supporting the environment.
+
+00:33:15.000 --> 00:33:18.240 align:start position:0%
+ And this results in over one megawatts of power savings
+
+00:33:18.240 --> 00:33:23.200 align:start position:0%
+ in a traditional data center, or 1300 Arizona homes,
+
+00:33:23.200 --> 00:33:26.280 align:start position:0%
+ you know, now have energy sources available to them.
+
+00:33:26.280 --> 00:33:31.000 align:start position:0%
+ Zeon 6 platforms also provide up to 27% lower
+
+00:33:31.000 --> 00:33:32.720 align:start position:0%
+ embodied carbon footprint.
+
+00:33:32.720 --> 00:33:35.080 align:start position:0%
+ So we're driving down the amounts of carbon
+
+00:33:35.080 --> 00:33:37.120 align:start position:0%
+ and our supply chain as well.
+
+00:33:37.120 --> 00:33:40.520 align:start position:0%
+ You know, it's simply put, it frees up energy capacity,
+
+00:33:40.520 --> 00:33:44.040 align:start position:0%
+ builds TCO efficiency, improves physical space,
+
+00:33:44.040 --> 00:33:47.760 align:start position:0%
+ that enables our next generation, Gen AI,
+
+00:33:47.760 --> 00:33:51.200 align:start position:0%
+ and P-Core solutions into the marketplace.
+
+00:33:51.200 --> 00:33:56.200 align:start position:0%
+ Well, the big brother of Sierra Forest is our Zeon Gen 6 processor,
+
+00:33:57.760 --> 00:34:01.160 align:start position:0%
+ formerly known as granite rapids with P-Cores.
+
+00:34:01.160 --> 00:34:04.080 align:start position:0%
+ And of course, we have one of those wafers here too,
+
+00:34:04.080 --> 00:34:05.840 align:start position:0%
+ what a surprise.
+
+00:34:05.840 --> 00:34:10.040 align:start position:0%
+ And here's our granite rapids Intel 3 wafers,
+
+00:34:10.040 --> 00:34:15.640 align:start position:0%
+ which will be launching shortly after the Sierra Forest product.
+
+00:34:15.640 --> 00:34:17.960 align:start position:0%
+ And we're quite excited to be ramping this
+
+00:34:17.960 --> 00:34:23.800 align:start position:0%
+ into the marketplace this year, also on the Intel 3 process technology.
+
+00:34:23.800 --> 00:34:26.720 align:start position:0%
+ So it's sort of like twins, right?
+
+00:34:31.280 --> 00:34:35.920 align:start position:0%
+ Now, you know, I've touched on this idea of your data,
+
+00:34:35.920 --> 00:34:37.520 align:start position:0%
+ your data stack.
+
+00:34:37.520 --> 00:34:40.320 align:start position:0%
+ And almost every one of your data stacks runs on,
+
+00:34:41.320 --> 00:34:42.400 align:start position:0%
+ Zeon, right?
+
+00:34:42.400 --> 00:34:44.800 align:start position:0%
+ Yes, where the databases are running.
+
+00:34:44.800 --> 00:34:49.120 align:start position:0%
+ And amazingly, here we are in year 22 or so
+
+00:34:49.120 --> 00:34:50.840 align:start position:0%
+ of the cloud journey.
+
+00:34:50.840 --> 00:34:55.120 align:start position:0%
+ And the majority over 60% of computing is now done
+
+00:34:55.120 --> 00:34:57.520 align:start position:0%
+ in the cloud or in some cloud embodiments,
+
+00:34:57.520 --> 00:35:01.280 align:start position:0%
+ but the vast majority of data is still on-prem.
+
+00:35:01.280 --> 00:35:06.480 align:start position:0%
+ And indications are that 66% of that data is unused,
+
+00:35:06.480 --> 00:35:10.680 align:start position:0%
+ and 90% of the unstructured data is unused.
+
+00:35:10.680 --> 00:35:13.080 align:start position:0%
+ What a value unlock.
+
+00:35:13.080 --> 00:35:18.720 align:start position:0%
+ And this idea of LLMs and RAG gives us extraordinary opportunity
+
+00:35:18.720 --> 00:35:23.760 align:start position:0%
+ to unlock this hidden asset that you and your businesses
+
+00:35:23.760 --> 00:35:27.080 align:start position:0%
+ aren't being able to leverage and operate on today.
+
+00:35:27.080 --> 00:35:29.720 align:start position:0%
+ And Zeon is clearly a tremendous machine
+
+00:35:29.720 --> 00:35:33.200 align:start position:0%
+ for running these RAG environments and making LLMs
+
+00:35:33.200 --> 00:35:37.240 align:start position:0%
+ more effective and efficient on your data.
+
+00:35:37.240 --> 00:35:41.160 align:start position:0%
+ And Zeon is not only able to be your database front end,
+
+00:35:41.160 --> 00:35:45.960 align:start position:0%
+ but increasingly, it's able to run the LLMs as well.
+
+00:35:45.960 --> 00:35:48.400 align:start position:0%
+ No new management, no new networking,
+
+00:35:48.400 --> 00:35:52.960 align:start position:0%
+ no new security models, no new IT, things to learn,
+
+00:35:52.960 --> 00:35:55.080 align:start position:0%
+ no proprietary networking.
+
+00:35:55.080 --> 00:35:57.760 align:start position:0%
+ It just works on the industry standards, Zeon's
+
+00:35:57.760 --> 00:35:59.640 align:start position:0%
+ that you know and love.
+
+00:35:59.640 --> 00:36:04.200 align:start position:0%
+ And we're seeing some extraordinary steps
+
+00:36:04.200 --> 00:36:09.480 align:start position:0%
+ in the AI computing landscape, advances and algorithms
+
+00:36:09.480 --> 00:36:14.200 align:start position:0%
+ and new data types that make the AI infrastructure more
+
+00:36:14.200 --> 00:36:15.600 align:start position:0%
+ efficient.
+
+00:36:15.600 --> 00:36:17.480 align:start position:0%
+ Now, if some of this data type stuff,
+
+00:36:17.480 --> 00:36:19.720 align:start position:0%
+ I just find amazing.
+
+00:36:19.720 --> 00:36:20.920 align:start position:0%
+ So here I am.
+
+00:36:20.920 --> 00:36:23.040 align:start position:0%
+ I'm a young engineer, and I am helping
+
+00:36:23.040 --> 00:36:27.080 align:start position:0%
+ to establish IEEE P754.
+
+00:36:27.080 --> 00:36:29.040 align:start position:0%
+ How many of you know what that was?
+
+00:36:29.040 --> 00:36:32.880 align:start position:0%
+ That was the 64-bit IEEE floating point standard
+
+00:36:32.880 --> 00:36:36.520 align:start position:0%
+ that also included 80-bit mode capabilities
+
+00:36:36.520 --> 00:36:37.640 align:start position:0%
+ for maximum precision.
+
+00:36:37.640 --> 00:36:39.600 align:start position:0%
+ Anybody remember that stuff?
+
+00:36:39.600 --> 00:36:41.240 align:start position:0%
+ Yeah, I worked on that.
+
+00:36:41.240 --> 00:36:44.240 align:start position:0%
+ Man, that was like, precision was,
+
+00:36:44.240 --> 00:36:46.520 align:start position:0%
+ I couldn't believe some of those crazy rounding modes
+
+00:36:46.520 --> 00:36:47.680 align:start position:0%
+ and stuff.
+
+00:36:47.680 --> 00:36:49.760 align:start position:0%
+ And now we have 32-bit floating point,
+
+00:36:49.760 --> 00:36:55.880 align:start position:0%
+ and then BF16 for 16-bit, and then FPA, and now FP4.
+
+00:36:55.880 --> 00:36:58.640 align:start position:0%
+ It's like just guessing.
+
+00:36:58.640 --> 00:37:00.200 align:start position:0%
+ In these narrower formats, though,
+
+00:37:00.200 --> 00:37:03.920 align:start position:0%
+ are allowing memory compression, efficient training,
+
+00:37:03.920 --> 00:37:07.400 align:start position:0%
+ and inferencing with minimal accuracy loss.
+
+00:37:07.400 --> 00:37:10.560 align:start position:0%
+ And Intel is working closely to drive standards
+
+00:37:10.560 --> 00:37:14.040 align:start position:0%
+ in this space, in particular, the micro-scaling formats
+
+00:37:14.040 --> 00:37:18.200 align:start position:0%
+ or MX alliance, working with companies like ARM, Qualcomm,
+
+00:37:18.200 --> 00:37:21.920 align:start position:0%
+ and Nvidia to standardize the next generation data types
+
+00:37:21.920 --> 00:37:25.560 align:start position:0%
+ for both training and inferencing, enabling innovation,
+
+00:37:25.560 --> 00:37:29.680 align:start position:0%
+ advancements in the algorithms, enabling memory compression,
+
+00:37:29.680 --> 00:37:33.240 align:start position:0%
+ allowing lower cost and more efficient solutions.
+
+00:37:33.240 --> 00:37:36.800 align:start position:0%
+ And one such format is called MXFP4.
+
+00:37:36.800 --> 00:37:39.400 align:start position:0%
+ I know it just rolls off your tongue, practice it.
+
+00:37:39.400 --> 00:37:43.240 align:start position:0%
+ Or it's a floating point for bit standard,
+
+00:37:43.240 --> 00:37:47.800 align:start position:0%
+ for how you can have radix and mantissa operate effectively
+
+00:37:47.800 --> 00:37:52.000 align:start position:0%
+ in this environment without sacrificing accuracy.
+
+00:37:52.000 --> 00:37:55.360 align:start position:0%
+ And with that, let me introduce you
+
+00:37:55.360 --> 00:38:00.360 align:start position:0%
+ to the next star of the Gen AI show, the Zeon 6 PCOR
+
+00:38:00.360 --> 00:38:03.280 align:start position:0%
+ or Granite Rapids that we were looking over.
+
+00:38:03.280 --> 00:38:07.120 align:start position:0%
+ And what I want to show you here, so here's my Granite Rapids,
+
+00:38:07.120 --> 00:38:10.600 align:start position:0%
+ quite excited for this baby coming into the marketplace this year.
+
+00:38:10.600 --> 00:38:14.640 align:start position:0%
+ But let's get started by looking at four different tech streaming
+
+00:38:14.640 --> 00:38:19.560 align:start position:0%
+ services that are running on three generations of Zeon.
+
+00:38:19.560 --> 00:38:23.800 align:start position:0%
+ And over here, we have two generations of Gen 4,
+
+00:38:23.800 --> 00:38:28.080 align:start position:0%
+ we have Gen 5, and then Zeon 6 here.
+
+00:38:28.080 --> 00:38:30.680 align:start position:0%
+ And what we're going to do is we're going to take one common
+
+00:38:30.680 --> 00:38:37.520 align:start position:0%
+ LAMA 270B parameter and a pretty chunky model,
+
+00:38:37.520 --> 00:38:38.760 align:start position:0%
+ so a pretty big thing.
+
+00:38:38.760 --> 00:38:42.240 align:start position:0%
+ And in the first two systems, we're going to write a high coup
+
+00:38:42.240 --> 00:38:44.440 align:start position:0%
+ about Intel AI solutions.
+
+00:38:44.440 --> 00:38:48.040 align:start position:0%
+ And this one's going to be using FP16,
+
+00:38:48.040 --> 00:38:51.840 align:start position:0%
+ and this one's going to be using the four bit that we just described.
+
+00:38:51.840 --> 00:38:53.640 align:start position:0%
+ So let's kick these off, and we're going
+
+00:38:53.640 --> 00:38:57.960 align:start position:0%
+ to see the comparison of just moving to the four-bit format
+
+00:38:57.960 --> 00:39:01.440 align:start position:0%
+ on the same generation of hardware.
+
+00:39:01.440 --> 00:39:06.040 align:start position:0%
+ So we'll get this kicked off, write a high coup about Intel AI solutions.
+
+00:39:06.040 --> 00:39:07.360 align:start position:0%
+ OK, sure.
+
+00:39:07.360 --> 00:39:12.840 align:start position:0%
+ And quickly running through it, and we see over here 170 milliseconds
+
+00:39:12.840 --> 00:39:16.240 align:start position:0%
+ of latency and not quite done over here yet.
+
+00:39:16.240 --> 00:39:17.960 align:start position:0%
+ We're getting to it shortly here.
+
+00:39:17.960 --> 00:39:22.040 align:start position:0%
+ And what you'll see is about a 3X improvement in the latency
+
+00:39:22.040 --> 00:39:27.000 align:start position:0%
+ just as we move to the modern data types for the FP4.
+
+00:39:27.000 --> 00:39:29.400 align:start position:0%
+ Well, that's pretty good, don't you think?
+
+00:39:29.400 --> 00:39:30.720 align:start position:0%
+ Yeah, that's sort of for free.
+
+00:39:30.720 --> 00:39:33.400 align:start position:0%
+ APPLAUSE
+
+00:39:33.400 --> 00:39:36.960 align:start position:0%
+ OK, now let's go from Gen 4 to Gen 5.
+
+00:39:36.960 --> 00:39:38.600 align:start position:0%
+ And we're going to run the same query,
+
+00:39:38.600 --> 00:39:41.800 align:start position:0%
+ and we'll see how long it takes us on a Gen 5 machine.
+
+00:39:41.800 --> 00:39:44.200 align:start position:0%
+ And we'll have this guy run through here.
+
+00:39:44.200 --> 00:39:47.760 align:start position:0%
+ So here's a high coup about Intel AI software solutions.
+
+00:39:47.760 --> 00:39:51.680 align:start position:0%
+ And we're now at 150 milliseconds, or about a 3X reduction
+
+00:39:51.680 --> 00:39:53.360 align:start position:0%
+ as we went from Gen 4 to Gen 5.
+
+00:39:53.360 --> 00:39:53.840 align:start position:0%
+ What do you think?
+
+00:39:53.840 --> 00:39:54.840 align:start position:0%
+ Pretty good?
+
+00:39:54.840 --> 00:39:55.840 align:start position:0%
+ APPLAUSE
+
+00:39:58.320 --> 00:39:59.720 align:start position:0%
+ And that is really good.
+
+00:39:59.720 --> 00:40:04.400 align:start position:0%
+ But most would say 100 milliseconds is sort of the threshold.
+
+00:40:04.400 --> 00:40:07.920 align:start position:0%
+ So for a model size and query types,
+
+00:40:07.920 --> 00:40:09.720 align:start position:0%
+ so can we get below 100 milliseconds?
+
+00:40:09.720 --> 00:40:10.720 align:start position:0%
+ What do you think?
+
+00:40:10.720 --> 00:40:11.800 align:start position:0%
+ 100 milliseconds?
+
+00:40:11.800 --> 00:40:13.000 align:start position:0%
+ Maybe.
+
+00:40:13.000 --> 00:40:15.520 align:start position:0%
+ Let's give it a try.
+
+00:40:15.520 --> 00:40:19.280 align:start position:0%
+ And we'll kick this baby off here.
+
+00:40:19.280 --> 00:40:21.360 align:start position:0%
+ If I hit the Enter versus the Shift key,
+
+00:40:21.360 --> 00:40:25.040 align:start position:0%
+ and over here we'll quickly see that's 82 milliseconds.
+
+00:40:25.040 --> 00:40:27.040 align:start position:0%
+ APPLAUSE
+
+00:40:30.560 --> 00:40:33.680 align:start position:0%
+ So literally across three generations of Zion,
+
+00:40:33.680 --> 00:40:37.480 align:start position:0%
+ taking advantage of our latest innovations on granite rapids,
+
+00:40:37.480 --> 00:40:41.120 align:start position:0%
+ monument creek memory, the highest performance DRAM memory,
+
+00:40:41.120 --> 00:40:46.800 align:start position:0%
+ combining that with FP4, a model, MXFP4 capabilities,
+
+00:40:46.800 --> 00:40:49.520 align:start position:0%
+ brings us clearly in range where I can now
+
+00:40:49.520 --> 00:40:54.360 align:start position:0%
+ run very hefty models right on the Zion platform.
+
+00:40:54.360 --> 00:40:58.800 align:start position:0%
+ From fourth Gen Zion with 16 bits up to today,
+
+00:40:58.800 --> 00:41:02.600 align:start position:0%
+ less than 100 milliseconds, 6.4 X improvement
+
+00:41:02.600 --> 00:41:07.440 align:start position:0%
+ from Gen 4 to Zion 6 on a 70 billion parameter model
+
+00:41:07.880 --> 00:41:09.880 align:start position:0%
+ and again, without major upgrades,
+
+00:41:09.880 --> 00:41:11.680 align:start position:0%
+ just run it in your data centers.
+
+00:41:11.680 --> 00:41:18.760 align:start position:0%
+ This is Lama 270B parameters, no expensive proprietary stuff,
+
+00:41:18.760 --> 00:41:21.560 align:start position:0%
+ crap, whatever, entering your data center,
+
+00:41:21.560 --> 00:41:26.520 align:start position:0%
+ unleashing the most dramatic source of business already available,
+
+00:41:26.520 --> 00:41:29.680 align:start position:0%
+ taking advantage of the data in your data center,
+
+00:41:29.680 --> 00:41:33.440 align:start position:0%
+ in your databases that's available today.
+
+00:41:33.440 --> 00:41:34.960 align:start position:0%
+ Now, that's really good.
+
+00:41:34.960 --> 00:41:37.680 align:start position:0%
+ But one of the other things that comes next to this
+
+00:41:37.680 --> 00:41:40.240 align:start position:0%
+ is we unleash the value of your data.
+
+00:41:40.240 --> 00:41:41.520 align:start position:0%
+ What's the security model?
+
+00:41:41.520 --> 00:41:44.280 align:start position:0%
+ What's the security profile associated with it?
+
+00:41:44.280 --> 00:41:48.160 align:start position:0%
+ And in an AI everywhere world, security
+
+00:41:48.160 --> 00:41:52.200 align:start position:0%
+ becomes even more important as we unleash your data sources.
+
+00:41:52.200 --> 00:41:55.000 align:start position:0%
+ We need to be able to confidently bring
+
+00:41:55.000 --> 00:41:58.680 align:start position:0%
+ zero trust environments to your fingertips.
+
+00:41:58.680 --> 00:42:02.040 align:start position:0%
+ And this is why Intel has been working aggressively
+
+00:42:02.040 --> 00:42:04.920 align:start position:0%
+ to build out confidential computing.
+
+00:42:04.920 --> 00:42:09.120 align:start position:0%
+ Where there's increasing concern for the stringent policies
+
+00:42:09.120 --> 00:42:10.440 align:start position:0%
+ that you have around data,
+
+00:42:10.440 --> 00:42:14.560 align:start position:0%
+ increasing regulatory environments that you see,
+
+00:42:14.560 --> 00:42:18.080 align:start position:0%
+ not just on data, but the EU AI Act
+
+00:42:18.080 --> 00:42:22.200 align:start position:0%
+ and the US executive order on safe and secure trust
+
+00:42:22.200 --> 00:42:23.720 align:start position:0%
+ where the AI.
+
+00:42:23.720 --> 00:42:28.800 align:start position:0%
+ And all of these things put more demands on the security model.
+
+00:42:28.800 --> 00:42:32.160 align:start position:0%
+ And that's why Intel TDX that we debuted
+
+00:42:32.160 --> 00:42:35.360 align:start position:0%
+ in our fourth Gen Zeon processors are now
+
+00:42:35.360 --> 00:42:39.600 align:start position:0%
+ available in Alibaba, Azure, Google, IBM Cloud.
+
+00:42:39.600 --> 00:42:43.720 align:start position:0%
+ And at various stages of coming to broad market availability.
+
+00:42:43.720 --> 00:42:46.520 align:start position:0%
+ And just this week, Google Cloud is announcing
+
+00:42:46.520 --> 00:42:51.000 align:start position:0%
+ the public preview of its next Gen confidential VM services
+
+00:42:51.000 --> 00:42:53.160 align:start position:0%
+ leveraging Intel TDX.
+
+00:42:53.160 --> 00:42:56.960 align:start position:0%
+ So now, how do I leverage my standard capabilities
+
+00:42:56.960 --> 00:43:00.280 align:start position:0%
+ and bring modern AI models and algorithms
+
+00:43:00.280 --> 00:43:03.080 align:start position:0%
+ in a trusted execution model?
+
+00:43:03.080 --> 00:43:07.720 align:start position:0%
+ And Intel is also enabling that with the Intel Trust
+
+00:43:07.720 --> 00:43:12.440 align:start position:0%
+ and attestation services so that you have independent attestations
+
+00:43:12.440 --> 00:43:16.800 align:start position:0%
+ of the security models, of the model training that's going on.
+
+00:43:16.800 --> 00:43:21.480 align:start position:0%
+ And we're enabling this across all members of the Zeon family.
+
+00:43:21.480 --> 00:43:24.320 align:start position:0%
+ And we're going to extend that to Gaudi later this year.
+
+00:43:24.320 --> 00:43:26.760 align:start position:0%
+ We're going to support extending that trust domain
+
+00:43:26.760 --> 00:43:29.560 align:start position:0%
+ into other accelerators like NVIDIA.
+
+00:43:29.560 --> 00:43:32.880 align:start position:0%
+ And with Panther Lake, our 25 client product bringing
+
+00:43:32.880 --> 00:43:37.200 align:start position:0%
+ it all the way to our edge and client offerings as well.
+
+00:43:37.200 --> 00:43:43.120 align:start position:0%
+ So truly a full end to end confidential computing environment.
+
+00:43:43.120 --> 00:43:47.720 align:start position:0%
+ And we hear more and more concerned for the training.
+
+00:43:47.720 --> 00:43:50.280 align:start position:0%
+ Who does control my model weights?
+
+00:43:50.280 --> 00:43:53.040 align:start position:0%
+ And who is keeping my data secure?
+
+00:43:53.040 --> 00:43:55.920 align:start position:0%
+ And how do I know it hasn't been tampered with?
+
+00:43:55.920 --> 00:44:00.000 align:start position:0%
+ And this idea of being able to extend the trust domain
+
+00:44:00.000 --> 00:44:04.840 align:start position:0%
+ and combine Rags with industry LLM capabilities,
+
+00:44:04.840 --> 00:44:08.360 align:start position:0%
+ we see great momentum and customer adoption
+
+00:44:08.360 --> 00:44:10.240 align:start position:0%
+ to this model in the industry.
+
+00:44:10.240 --> 00:44:15.840 align:start position:0%
+ I think this is a sweet spot for enterprise AI adoption.
+
+00:44:15.840 --> 00:44:18.640 align:start position:0%
+ But enterprises are also looking for cost-effective, high
+
+00:44:18.640 --> 00:44:21.640 align:start position:0%
+ performance, generative AI training
+
+00:44:21.640 --> 00:44:24.040 align:start position:0%
+ and inferencing environments as well.
+
+00:44:24.040 --> 00:44:27.800 align:start position:0%
+ And with that, we see them turning to models like Gaudi.
+
+00:44:27.800 --> 00:44:31.280 align:start position:0%
+ And Intel Gaudi's price performance advantages
+
+00:44:31.280 --> 00:44:35.440 align:start position:0%
+ lie in three fundamental domains, first choice.
+
+00:44:35.440 --> 00:44:38.960 align:start position:0%
+ People want an alternative, open software
+
+00:44:38.960 --> 00:44:42.080 align:start position:0%
+ approach and investments and providing time
+
+00:44:42.080 --> 00:44:45.960 align:start position:0%
+ to market available lower TCO solutions.
+
+00:44:45.960 --> 00:44:49.120 align:start position:0%
+ And Gaudi is the only benched market alternative
+
+00:44:49.120 --> 00:44:53.040 align:start position:0%
+ to the NVIDIA H100 for training LLMs.
+
+00:44:53.040 --> 00:44:57.640 align:start position:0%
+ And Gaudi AI, we expect that we're just gaining momentum.
+
+00:44:57.640 --> 00:45:00.320 align:start position:0%
+ And you're going to see today quite a number of customers
+
+00:45:00.320 --> 00:45:03.840 align:start position:0%
+ coming on board as we see the acceleration
+
+00:45:03.840 --> 00:45:09.360 align:start position:0%
+ of our Gaudi offerings in 24, 25, and beyond.
+
+00:45:09.360 --> 00:45:10.680 align:start position:0%
+ But one of the other critical things
+
+00:45:10.680 --> 00:45:15.280 align:start position:0%
+ that customers are saying is, boy, how do I stitch these together?
+
+00:45:15.280 --> 00:45:18.760 align:start position:0%
+ And with bringing Zian and Gaudi together,
+
+00:45:18.760 --> 00:45:21.080 align:start position:0%
+ it really is an AI system.
+
+00:45:21.080 --> 00:45:24.960 align:start position:0%
+ But then how do I scale those systems in my data centers?
+
+00:45:24.960 --> 00:45:28.240 align:start position:0%
+ And that's where the networking fabric comes to play.
+
+00:45:28.240 --> 00:45:32.960 align:start position:0%
+ And customers are asking for open technology-based ecosystem
+
+00:45:32.960 --> 00:45:35.960 align:start position:0%
+ for AI connectivity.
+
+00:45:35.960 --> 00:45:39.680 align:start position:0%
+ And while there's some proprietary solutions available,
+
+00:45:39.680 --> 00:45:43.040 align:start position:0%
+ we also see that the ultra ethernet consortium
+
+00:45:43.040 --> 00:45:46.360 align:start position:0%
+ and the work that we're driving is standing up to fill
+
+00:45:46.360 --> 00:45:50.920 align:start position:0%
+ this scale up and scale out networking domain.
+
+00:45:50.920 --> 00:45:56.120 align:start position:0%
+ And when I was a young engineer, working on the 286,
+
+00:45:56.120 --> 00:45:58.480 align:start position:0%
+ and the cube next to me were some of the engineers
+
+00:45:58.480 --> 00:46:01.640 align:start position:0%
+ working on the first ethernet solutions.
+
+00:46:01.640 --> 00:46:04.040 align:start position:0%
+ I thought networking was pretty stupid at the time,
+
+00:46:04.040 --> 00:46:05.520 align:start position:0%
+ processing was great.
+
+00:46:05.520 --> 00:46:08.680 align:start position:0%
+ But the venerable ethernet remains
+
+00:46:08.680 --> 00:46:12.760 align:start position:0%
+ the standard for how we do networking in the data center.
+
+00:46:12.760 --> 00:46:16.600 align:start position:0%
+ And through UEC, Intel is revolutionizing,
+
+00:46:16.600 --> 00:46:20.480 align:start position:0%
+ building on ethernet networking for AI fabrics
+
+00:46:20.480 --> 00:46:21.480 align:start position:0%
+ for the future.
+
+00:46:21.480 --> 00:46:25.080 align:start position:0%
+ And we'll be introducing an array of AI-optimized ethernet
+
+00:46:25.080 --> 00:46:25.720 align:start position:0%
+ solutions.
+
+00:46:25.720 --> 00:46:28.600 align:start position:0%
+ This lineup will include cutting edge AI
+
+00:46:28.600 --> 00:46:32.080 align:start position:0%
+ Nick cards that will be delivering, standard Nick solutions.
+
+00:46:32.080 --> 00:46:35.080 align:start position:0%
+ It will also include AI chiplets that
+
+00:46:35.080 --> 00:46:39.440 align:start position:0%
+ will enable for our customers and partners in Intel Foundry.
+
+00:46:39.440 --> 00:46:41.920 align:start position:0%
+ It will also include soft and hard IP
+
+00:46:41.920 --> 00:46:43.480 align:start position:0%
+ through Intel Foundry.
+
+00:46:43.480 --> 00:46:45.160 align:start position:0%
+ And it's building on and leveraging
+
+00:46:45.160 --> 00:46:47.600 align:start position:0%
+ the work that we've done integrating it fully
+
+00:46:47.600 --> 00:46:49.840 align:start position:0%
+ into our Gaudi solutions as well.
+
+00:46:49.840 --> 00:46:54.880 align:start position:0%
+ A range of soft and hard reference designs for AI connectivity,
+
+00:46:54.880 --> 00:46:57.520 align:start position:0%
+ because we don't need proprietary networking
+
+00:46:57.520 --> 00:47:00.400 align:start position:0%
+ for our AI solutions for the future.
+
+00:47:00.400 --> 00:47:00.920 align:start position:0%
+ What do you think?
+
+00:47:00.920 --> 00:47:01.440 align:start position:0%
+ Is that a winner?
+
+00:47:01.440 --> 00:47:02.760 align:start position:0%
+ APPLAUSE
+
+00:47:06.040 --> 00:47:09.720 align:start position:0%
+ Because we're out to transform large scale up
+
+00:47:09.720 --> 00:47:11.520 align:start position:0%
+ and scale out networking.
+
+00:47:11.520 --> 00:47:14.880 align:start position:0%
+ And being able to expand the sizes of these environments
+
+00:47:14.880 --> 00:47:19.640 align:start position:0%
+ and build AI systems that you need in your enterprise
+
+00:47:19.640 --> 00:47:24.680 align:start position:0%
+ without proprietary networking lock-ins in your environment.
+
+00:47:24.680 --> 00:47:27.040 align:start position:0%
+ We plan to deliver scalable reference designs,
+
+00:47:27.040 --> 00:47:30.320 align:start position:0%
+ integrating hardware and software capabilities,
+
+00:47:30.320 --> 00:47:34.400 align:start position:0%
+ reference designs that provide small models that fit
+
+00:47:34.400 --> 00:47:38.360 align:start position:0%
+ in a PC to medium and large models for enterprise and edge,
+
+00:47:38.360 --> 00:47:41.960 align:start position:0%
+ all the way up to big bulky ones for the cloud and API
+
+00:47:41.960 --> 00:47:44.440 align:start position:0%
+ access into other cloud services.
+
+00:47:44.440 --> 00:47:49.120 align:start position:0%
+ But ensuring security, openness, confidentiality,
+
+00:47:49.120 --> 00:47:52.640 align:start position:0%
+ and bringing your enterprise data to bear.
+
+00:47:52.640 --> 00:47:54.280 align:start position:0%
+ And we're going to work very closely
+
+00:47:54.280 --> 00:47:57.920 align:start position:0%
+ with our ecosystem of partners to make that available.
+
+00:47:57.920 --> 00:48:02.120 align:start position:0%
+ And enterprises are leveraging a range of industry solutions
+
+00:48:02.120 --> 00:48:05.520 align:start position:0%
+ to enable these cutting-edge environments.
+
+00:48:05.520 --> 00:48:07.760 align:start position:0%
+ And I want to bring up one of our friends,
+
+00:48:07.760 --> 00:48:10.080 align:start position:0%
+ one of our partners, who's helping us
+
+00:48:10.080 --> 00:48:12.240 align:start position:0%
+ enable this AI future.
+
+00:48:12.240 --> 00:48:14.800 align:start position:0%
+ So please join me in welcoming to the stage
+
+00:48:14.800 --> 00:48:16.720 align:start position:0%
+ the head of tech and business enablement
+
+00:48:16.720 --> 00:48:18.960 align:start position:0%
+ at SuperMicro Ray Pang.
+
+00:48:18.960 --> 00:48:28.720 align:start position:0%
+ MUSIC
+
+00:48:28.720 --> 00:48:32.240 align:start position:0%
+ You know, Ray, SuperMicro, been such a great partner for Intel.
+
+00:48:32.240 --> 00:48:34.920 align:start position:0%
+ You guys are so passionate about innovating.
+
+00:48:34.920 --> 00:48:39.000 align:start position:0%
+ I just love to hear from you about some of the innovation
+
+00:48:39.000 --> 00:48:41.520 align:start position:0%
+ journey we're doing together, starting all the way back
+
+00:48:41.520 --> 00:48:43.040 align:start position:0%
+ with Gen 1 of Gaudi.
+
+00:48:43.040 --> 00:48:43.640 align:start position:0%
+ Absolutely.
+
+00:48:43.640 --> 00:48:44.720 align:start position:0%
+ Thank you, Pat.
+
+00:48:44.720 --> 00:48:48.080 align:start position:0%
+ So SuperMicro embarked on the Gaudi journey
+
+00:48:48.080 --> 00:48:49.920 align:start position:0%
+ since the very beginning.
+
+00:48:49.920 --> 00:48:53.960 align:start position:0%
+ We developed an optimized AI server for Gaudi 1.
+
+00:48:53.960 --> 00:48:56.240 align:start position:0%
+ We continued with Gaudi 2.
+
+00:48:56.240 --> 00:49:00.680 align:start position:0%
+ And today, we are working hard to bring a Gaudi 3-based solution
+
+00:49:00.680 --> 00:49:02.200 align:start position:0%
+ to market.
+
+00:49:02.200 --> 00:49:06.480 align:start position:0%
+ So Pat, I'd also like to share some custom success.
+
+00:49:06.480 --> 00:49:09.600 align:start position:0%
+ SuperMicro deployed the largest Gaudi 1 cluster
+
+00:49:09.600 --> 00:49:13.880 align:start position:0%
+ in the world at the San Diego Supercomputer Center.
+
+00:49:13.880 --> 00:49:16.600 align:start position:0%
+ The Voyager Supercomputer, supported
+
+00:49:16.600 --> 00:49:19.160 align:start position:0%
+ by the National Science Foundation,
+
+00:49:19.160 --> 00:49:23.240 align:start position:0%
+ is designed to enable AI for science
+
+00:49:23.240 --> 00:49:26.400 align:start position:0%
+ and has been production for two years.
+
+00:49:26.400 --> 00:49:31.160 align:start position:0%
+ This is way before the chat GPT AI has this discussion.
+
+00:49:31.160 --> 00:49:34.400 align:start position:0%
+ It was before AI and HPC collided.
+
+00:49:34.400 --> 00:49:34.920 align:start position:0%
+ Right.
+
+00:49:34.920 --> 00:49:37.480 align:start position:0%
+ We were just building fast machines.
+
+00:49:37.480 --> 00:49:40.440 align:start position:0%
+ And with that, it's incredible.
+
+00:49:40.440 --> 00:49:44.000 align:start position:0%
+ And AI compute running on Intel Gaudi,
+
+00:49:44.000 --> 00:49:46.720 align:start position:0%
+ directly influencing science, research,
+
+00:49:46.720 --> 00:49:48.640 align:start position:0%
+ and the new breakthroughs there.
+
+00:49:48.640 --> 00:49:50.840 align:start position:0%
+ And other scientists, other activities
+
+00:49:50.840 --> 00:49:51.840 align:start position:0%
+ that we're working on?
+
+00:49:51.840 --> 00:49:53.280 align:start position:0%
+ Oh, absolutely.
+
+00:49:53.280 --> 00:49:56.760 align:start position:0%
+ So Pat, when you combine the power of Gaudi-based solution,
+
+00:49:56.760 --> 00:50:00.240 align:start position:0%
+ I'm putting in the hands of some of the smartest researchers
+
+00:50:00.240 --> 00:50:02.000 align:start position:0%
+ across the country.
+
+00:50:02.000 --> 00:50:05.280 align:start position:0%
+ Greetings can happen that benefit everyone,
+
+00:50:05.280 --> 00:50:07.280 align:start position:0%
+ including all of us in this room.
+
+00:50:07.280 --> 00:50:09.200 align:start position:0%
+ So it's really amazing.
+
+00:50:09.200 --> 00:50:13.720 align:start position:0%
+ I'd also would like to share the success we have with Gaudi, too.
+
+00:50:13.720 --> 00:50:17.120 align:start position:0%
+ As we stand here talking, a Zoom micro team
+
+00:50:17.120 --> 00:50:19.320 align:start position:0%
+ is working hard at the customer side.
+
+00:50:19.320 --> 00:50:20.720 align:start position:0%
+ Oh, which customer?
+
+00:50:20.720 --> 00:50:21.560 align:start position:0%
+ Oh, you can't talk.
+
+00:50:21.560 --> 00:50:24.640 align:start position:0%
+ The customer actually is in the audience.
+
+00:50:24.640 --> 00:50:26.840 align:start position:0%
+ If you want to stand up, I will mention your name.
+
+00:50:26.840 --> 00:50:27.840 align:start position:0%
+ Yeah.
+
+00:50:27.840 --> 00:50:29.840 align:start position:0%
+ Yeah.
+
+00:50:29.840 --> 00:50:30.680 align:start position:0%
+ OK.
+
+00:50:30.680 --> 00:50:31.200 align:start position:0%
+ They are shy.
+
+00:50:31.200 --> 00:50:31.880 align:start position:0%
+ They are Canadians.
+
+00:50:31.880 --> 00:50:32.840 align:start position:0%
+ You have to forgive them.
+
+00:50:32.840 --> 00:50:35.440 align:start position:0%
+ OK.
+
+00:50:35.440 --> 00:50:36.440 align:start position:0%
+ OK.
+
+00:50:36.440 --> 00:50:39.160 align:start position:0%
+ But in addition to big supercomputing,
+
+00:50:39.160 --> 00:50:42.600 align:start position:0%
+ Gaudi is also meeting the needs of enterprise customers as well.
+
+00:50:42.600 --> 00:50:45.880 align:start position:0%
+ We fish and scale out price performance as well.
+
+00:50:45.880 --> 00:50:46.680 align:start position:0%
+ Absolutely.
+
+00:50:46.680 --> 00:50:48.600 align:start position:0%
+ You're exactly right, Pat.
+
+00:50:48.600 --> 00:50:52.840 align:start position:0%
+ One of the biggest hurdles deploying large-scale AI infrastructure
+
+00:50:52.840 --> 00:50:54.360 align:start position:0%
+ is power.
+
+00:50:54.360 --> 00:50:59.440 align:start position:0%
+ Data centers around the world are literally running out of power.
+
+00:50:59.440 --> 00:51:02.520 align:start position:0%
+ So how do we solve that problem?
+
+00:51:02.520 --> 00:51:06.200 align:start position:0%
+ The answer is energy efficient green computing.
+
+00:51:06.200 --> 00:51:10.240 align:start position:0%
+ Green computing has been the DNA for Zoom micro since the inception
+
+00:51:10.240 --> 00:51:11.760 align:start position:0%
+ more than 30 years ago.
+
+00:51:11.760 --> 00:51:15.320 align:start position:0%
+ That's how long you have been knowing our CEO Charles Liang, right?
+
+00:51:15.320 --> 00:51:16.320 align:start position:0%
+ Yeah.
+
+00:51:16.320 --> 00:51:17.800 align:start position:0%
+ You guys have been passionate about green computing
+
+00:51:17.800 --> 00:51:19.600 align:start position:0%
+ since the very beginning of Super Micro.
+
+00:51:19.600 --> 00:51:20.920 align:start position:0%
+ Oh, absolutely.
+
+00:51:20.920 --> 00:51:23.800 align:start position:0%
+ When you combine energy efficient Gaudi
+
+00:51:23.800 --> 00:51:26.960 align:start position:0%
+ with Zoom micro's energy efficient servers,
+
+00:51:26.960 --> 00:51:30.600 align:start position:0%
+ customers can save not only upfront acquisition cost,
+
+00:51:30.600 --> 00:51:33.880 align:start position:0%
+ but also ongoing operating costs.
+
+00:51:33.880 --> 00:51:35.880 align:start position:0%
+ And you guys have some demos to show here
+
+00:51:35.880 --> 00:51:37.320 align:start position:0%
+ in the showcase as well.
+
+00:51:37.320 --> 00:51:38.560 align:start position:0%
+ Absolutely.
+
+00:51:38.560 --> 00:51:43.440 align:start position:0%
+ So Pat, we are showing a text to image generation
+
+00:51:43.440 --> 00:51:46.360 align:start position:0%
+ that will run in live on Gaudi, too.
+
+00:51:46.360 --> 00:51:48.320 align:start position:0%
+ We're actually running a phone computation.
+
+00:51:48.320 --> 00:51:50.800 align:start position:0%
+ Just see who can generate images the fastest
+
+00:51:50.800 --> 00:51:52.880 align:start position:0%
+ by typing the fastest.
+
+00:51:52.880 --> 00:51:54.040 align:start position:0%
+ I don't know about you, Pat.
+
+00:51:54.040 --> 00:51:55.560 align:start position:0%
+ I'm a slow typer.
+
+00:51:55.560 --> 00:52:00.960 align:start position:0%
+ For us to have a shot at winning, we have the cotton paste.
+
+00:52:00.960 --> 00:52:03.600 align:start position:0%
+ We're also showing a real Gaudi 3 system.
+
+00:52:03.600 --> 00:52:06.120 align:start position:0%
+ The world's first Gaudi 3 system.
+
+00:52:06.120 --> 00:52:09.440 align:start position:0%
+ You haven't even announced it yet.
+
+00:52:09.440 --> 00:52:12.000 align:start position:0%
+ We are a little bit ahead.
+
+00:52:12.000 --> 00:52:14.160 align:start position:0%
+ I encourage you, everybody to go to our booth.
+
+00:52:14.160 --> 00:52:15.160 align:start position:0%
+ Just check it out.
+
+00:52:15.160 --> 00:52:15.840 align:start position:0%
+ It's real.
+
+00:52:15.840 --> 00:52:16.960 align:start position:0%
+ It's not just on slide.
+
+00:52:16.960 --> 00:52:17.880 align:start position:0%
+ It's not just talk.
+
+00:52:17.880 --> 00:52:20.800 align:start position:0%
+ It's a real system in flash.
+
+00:52:20.800 --> 00:52:25.960 align:start position:0%
+ So Pat, I'm really excited about all the new approach.
+
+00:52:25.960 --> 00:52:28.600 align:start position:0%
+ You guys start talking about the system
+
+00:52:28.600 --> 00:52:31.040 align:start position:0%
+ at the data center level for AI.
+
+00:52:31.040 --> 00:52:32.960 align:start position:0%
+ At the Super Micro, we have
+
+00:52:32.960 --> 00:52:36.880 align:start position:0%
+ been expanding our global manufacturing footprint
+
+00:52:36.880 --> 00:52:40.000 align:start position:0%
+ to meet the rising demand from cloud service providers
+
+00:52:40.000 --> 00:52:41.760 align:start position:0%
+ and enterprise customers.
+
+00:52:41.760 --> 00:52:45.360 align:start position:0%
+ So today, we can deliver 5,000 fully integrated
+
+00:52:45.360 --> 00:52:51.320 align:start position:0%
+ racks per month, including 1,350 liquid coup d'racks.
+
+00:52:51.320 --> 00:52:53.520 align:start position:0%
+ So Pat, with the love sum of those racks,
+
+00:52:53.520 --> 00:52:54.320 align:start position:0%
+ I got the racks.
+
+00:52:54.320 --> 00:52:55.440 align:start position:0%
+ Time to go to scale.
+
+00:52:55.440 --> 00:52:57.520 align:start position:0%
+ So thank you for joining us today.
+
+00:52:57.520 --> 00:52:59.800 align:start position:0%
+ We're excited about the partnership.
+
+00:52:59.800 --> 00:53:02.240 align:start position:0%
+ And thank you for being here with our vision audience today.
+
+00:53:02.240 --> 00:53:02.760 align:start position:0%
+ Thank you.
+
+00:53:02.760 --> 00:53:03.600 align:start position:0%
+ Thank you, Ray.
+
+00:53:03.600 --> 00:53:04.440 align:start position:0%
+ We're being here.
+
+00:53:04.440 --> 00:53:05.280 align:start position:0%
+ Thank you.
+
+00:53:05.280 --> 00:53:06.280 align:start position:0%
+ Thank you.
+
+00:53:06.280 --> 00:53:14.920 align:start position:0%
+ We're seeing momentum like Ray was talking about.
+
+00:53:14.920 --> 00:53:18.120 align:start position:0%
+ So just driving customer deployments.
+
+00:53:18.120 --> 00:53:22.200 align:start position:0%
+ And inside Intel, I say, we have to be customer zero
+
+00:53:22.200 --> 00:53:23.920 align:start position:0%
+ for our own AI activities.
+
+00:53:23.920 --> 00:53:26.840 align:start position:0%
+ And we've been using different AI workloads
+
+00:53:26.840 --> 00:53:28.040 align:start position:0%
+ for quite a number of years.
+
+00:53:28.040 --> 00:53:30.600 align:start position:0%
+ Some of that traditional machine learning,
+
+00:53:30.600 --> 00:53:34.440 align:start position:0%
+ when applying meaningful and productive solutions
+
+00:53:34.440 --> 00:53:35.760 align:start position:0%
+ into our environments.
+
+00:53:35.760 --> 00:53:38.040 align:start position:0%
+ And I wanted to give you a glimpse
+
+00:53:38.040 --> 00:53:40.400 align:start position:0%
+ of some of those learnings here this morning.
+
+00:53:40.400 --> 00:53:42.360 align:start position:0%
+ Now, how many of you have bunny suited up
+
+00:53:42.360 --> 00:53:44.720 align:start position:0%
+ and been in a fab?
+
+00:53:44.720 --> 00:53:46.920 align:start position:0%
+ OK, a number of you had.
+
+00:53:46.920 --> 00:53:47.760 align:start position:0%
+ Well, guess what?
+
+00:53:47.760 --> 00:53:50.200 align:start position:0%
+ We're all going bunny-suiting right now.
+
+00:53:50.200 --> 00:53:53.480 align:start position:0%
+ So just down the road is our OcatiO facility.
+
+00:53:53.480 --> 00:53:58.000 align:start position:0%
+ And in it, we're going to go and see a live demonstration
+
+00:53:58.000 --> 00:54:01.320 align:start position:0%
+ of Gaudi's and AI PCs.
+
+00:54:01.320 --> 00:54:03.560 align:start position:0%
+ And we're going to walk into the fab right now
+
+00:54:03.560 --> 00:54:06.240 align:start position:0%
+ and show you the magic that happens behind the scenes
+
+00:54:06.240 --> 00:54:07.240 align:start position:0%
+ a little bit.
+
+00:54:07.240 --> 00:54:11.480 align:start position:0%
+ So with that, let's let me invite Rosary here.
+
+00:54:11.480 --> 00:54:15.400 align:start position:0%
+ And Rosary is literally bunny-suited up inside of the fab.
+
+00:54:15.400 --> 00:54:20.600 align:start position:0%
+ So here's our OcatiO campus just down the road.
+
+00:54:20.600 --> 00:54:23.800 align:start position:0%
+ And now we're moving into the fab.
+
+00:54:23.800 --> 00:54:27.720 align:start position:0%
+ And Rosary, can you hear me?
+
+00:54:27.720 --> 00:54:29.800 align:start position:0%
+ Hey, Pat, thanks for having me.
+
+00:54:29.800 --> 00:54:30.680 align:start position:0%
+ Yes, I can hear you.
+
+00:54:30.680 --> 00:54:31.760 align:start position:0%
+ Can you hear me?
+
+00:54:31.760 --> 00:54:33.640 align:start position:0%
+ Yes, you're coming through great.
+
+00:54:33.640 --> 00:54:34.800 align:start position:0%
+ And thank you.
+
+00:54:34.800 --> 00:54:37.440 align:start position:0%
+ And you know, Rosary, as I promised you,
+
+00:54:37.440 --> 00:54:40.520 align:start position:0%
+ I have just a few thousand of my closest friends here.
+
+00:54:40.520 --> 00:54:41.520 align:start position:0%
+ Right?
+
+00:54:41.520 --> 00:54:43.080 align:start position:0%
+ So don't worry about telling them anything confidential.
+
+00:54:43.080 --> 00:54:44.520 align:start position:0%
+ They're all personal and friendly.
+
+00:54:44.520 --> 00:54:45.760 align:start position:0%
+ So we're good, right?
+
+00:54:45.760 --> 00:54:47.760 align:start position:0%
+ As well.
+
+00:54:47.760 --> 00:54:49.640 align:start position:0%
+ Yeah, thanks.
+
+00:54:49.640 --> 00:54:53.000 align:start position:0%
+ Let me show you some of our latest AI innovations
+
+00:54:53.000 --> 00:54:55.760 align:start position:0%
+ transforming our manufacturing work.
+
+00:54:55.760 --> 00:54:59.240 align:start position:0%
+ Well, fantastic, Rosary, and Intel customer number one
+
+00:54:59.240 --> 00:55:01.160 align:start position:0%
+ for our Gen AI solutions.
+
+00:55:01.160 --> 00:55:03.880 align:start position:0%
+ So tell us more.
+
+00:55:03.880 --> 00:55:07.680 align:start position:0%
+ So here's one way we are using generative AI in the fab.
+
+00:55:07.680 --> 00:55:10.480 align:start position:0%
+ One of our goals is to keep our equipment up
+
+00:55:10.480 --> 00:55:12.360 align:start position:0%
+ and running all the time.
+
+00:55:12.360 --> 00:55:14.960 align:start position:0%
+ So when we have an incident on a fab equipment,
+
+00:55:14.960 --> 00:55:17.480 align:start position:0%
+ we want to find out if similar incidents have occurred
+
+00:55:17.480 --> 00:55:20.280 align:start position:0%
+ in the past so that we can understand the root cause
+
+00:55:20.280 --> 00:55:21.520 align:start position:0%
+ and resolve them.
+
+00:55:21.520 --> 00:55:25.560 align:start position:0%
+ And this is so that we can get the equipment back up quickly.
+
+00:55:25.560 --> 00:55:28.600 align:start position:0%
+ Fortunately, we have a huge amount of structured
+
+00:55:28.600 --> 00:55:31.240 align:start position:0%
+ and unstructured data spanning decades
+
+00:55:31.240 --> 00:55:34.840 align:start position:0%
+ and millions of records documenting our operations.
+
+00:55:34.840 --> 00:55:37.240 align:start position:0%
+ We can reference this massive body of data
+
+00:55:37.240 --> 00:55:40.400 align:start position:0%
+ to find a resolution to get the equipment back up.
+
+00:55:40.400 --> 00:55:44.240 align:start position:0%
+ However, this process is time consuming and can take hours
+
+00:55:44.240 --> 00:55:46.120 align:start position:0%
+ and sometimes even days.
+
+00:55:46.120 --> 00:55:48.000 align:start position:0%
+ Yeah, and this certainly isn't ideal.
+
+00:55:48.000 --> 00:55:50.520 align:start position:0%
+ Thousands, you know, we have fabs across the globe,
+
+00:55:50.520 --> 00:55:52.640 align:start position:0%
+ you know, thousands of different engineers
+
+00:55:52.640 --> 00:55:54.920 align:start position:0%
+ and equipment are running daily.
+
+00:55:54.920 --> 00:55:58.360 align:start position:0%
+ And growing worldwide.
+
+00:55:58.360 --> 00:55:59.720 align:start position:0%
+ Yeah.
+
+00:55:59.720 --> 00:56:01.920 align:start position:0%
+ But now we have a game changer.
+
+00:56:01.920 --> 00:56:05.520 align:start position:0%
+ We've started using LLM-based generative AI solutions
+
+00:56:05.520 --> 00:56:07.400 align:start position:0%
+ to enhance our productivity.
+
+00:56:07.400 --> 00:56:08.040 align:start position:0%
+ Let me show you.
+
+00:56:12.040 --> 00:56:14.920 align:start position:0%
+ So let's suppose you have an incident on some equipment.
+
+00:56:14.920 --> 00:56:17.720 align:start position:0%
+ You can come here and use natural language
+
+00:56:17.720 --> 00:56:18.800 align:start position:0%
+ to search for the incident.
+
+00:56:19.800 --> 00:56:22.600 align:start position:0%
+ So here I'm typing an example.
+
+00:56:24.600 --> 00:56:27.800 align:start position:0%
+ So on the right, you can see relevant past events
+
+00:56:27.800 --> 00:56:30.800 align:start position:0%
+ that are similar based on the semantic search performed.
+
+00:56:30.800 --> 00:56:32.600 align:start position:0%
+ And on the left, the AI assistant
+
+00:56:32.600 --> 00:56:34.800 align:start position:0%
+ has generated the most likely root cause
+
+00:56:34.800 --> 00:56:38.800 align:start position:0%
+ and resolution for the incident based on historical data.
+
+00:56:38.800 --> 00:56:41.600 align:start position:0%
+ You can also summarize the steps performed
+
+00:56:41.600 --> 00:56:43.600 align:start position:0%
+ to address a root cause.
+
+00:56:43.600 --> 00:56:48.600 align:start position:0%
+ So here you see the work orders that contain those steps.
+
+00:56:52.600 --> 00:56:55.600 align:start position:0%
+ And you can identify unique tasks.
+
+00:56:59.600 --> 00:57:04.600 align:start position:0%
+ And when appropriate, you can even launch a software agent
+
+00:57:04.600 --> 00:57:07.600 align:start position:0%
+ that can refine those tasks and take actions
+
+00:57:07.600 --> 00:57:09.600 align:start position:0%
+ to bring the equipment back up.
+
+00:57:09.600 --> 00:57:11.600 align:start position:0%
+ And then you can see the results.
+
+00:57:11.600 --> 00:57:14.600 align:start position:0%
+ You can see the results are in the software agent.
+
+00:57:14.600 --> 00:57:16.600 align:start position:0%
+ So we can see the results.
+
+00:57:16.600 --> 00:57:21.600 align:start position:0%
+ So this is a useful tool for us.
+
+00:57:21.600 --> 00:57:24.600 align:start position:0%
+ And so this is pretty easy to make actions
+
+00:57:24.600 --> 00:57:25.600 align:start position:0%
+ to bring the equipment back up.
+
+00:57:29.600 --> 00:57:31.600 align:start position:0%
+ Wow, this is pretty incredible, Roshri.
+
+00:57:31.600 --> 00:57:33.600 align:start position:0%
+ Literally a few clicks.
+
+00:57:33.600 --> 00:57:36.600 align:start position:0%
+ And you're getting decades of data
+
+00:57:36.600 --> 00:57:38.600 align:start position:0%
+ and being able to operationalize solutions.
+
+00:57:38.600 --> 00:57:39.600 align:start position:0%
+ This is incredible.
+
+00:57:39.600 --> 00:57:42.520 align:start position:0%
+ We can identify the root cause, resolution,
+
+00:57:42.520 --> 00:57:45.160 align:start position:0%
+ and even at times bring equipment back online,
+
+00:57:45.160 --> 00:57:47.920 align:start position:0%
+ using an LLM-based Gen-AI solution,
+
+00:57:47.920 --> 00:57:51.520 align:start position:0%
+ and our state-of-the-art factory automation software agent.
+
+00:57:52.960 --> 00:57:53.960 align:start position:0%
+ Well, thank you, Rajuri.
+
+00:57:53.960 --> 00:57:54.800 align:start position:0%
+ This is incredible.
+
+00:57:54.800 --> 00:57:57.400 align:start position:0%
+ And obviously, we're doing a whole lot of things
+
+00:57:57.400 --> 00:58:01.200 align:start position:0%
+ for equipment downtime, automation, improvement.
+
+00:58:01.200 --> 00:58:05.400 align:start position:0%
+ And this idea of, we're using the articulate software,
+
+00:58:05.400 --> 00:58:09.880 align:start position:0%
+ on-prem, secure, gaudy infrastructure for our solution.
+
+00:58:09.880 --> 00:58:12.160 align:start position:0%
+ And, you know, Gen- you know, articulate
+
+00:58:12.160 --> 00:58:14.600 align:start position:0%
+ been a partner company that we helped us start up.
+
+00:58:14.600 --> 00:58:17.840 align:start position:0%
+ And this is all inside of a proprietary,
+
+00:58:17.840 --> 00:58:19.600 align:start position:0%
+ multi-VPN environment.
+
+00:58:19.600 --> 00:58:24.120 align:start position:0%
+ I mean, this is the core of the core of Intel's operations.
+
+00:58:24.120 --> 00:58:27.000 align:start position:0%
+ So, you know, obviously, this never leaves our facility
+
+00:58:27.000 --> 00:58:29.320 align:start position:0%
+ under any circumstances whatsoever.
+
+00:58:29.320 --> 00:58:30.720 align:start position:0%
+ And now we're able to demonstrate
+
+00:58:30.720 --> 00:58:34.200 align:start position:0%
+ the most advanced Gen-AI capabilities in real time.
+
+00:58:34.200 --> 00:58:37.760 align:start position:0%
+ But one more thing, Rajuri, was that an AI PC?
+
+00:58:37.760 --> 00:58:39.000 align:start position:0%
+ I saw that you had there.
+
+00:58:40.960 --> 00:58:42.480 align:start position:0%
+ Yes.
+
+00:58:42.480 --> 00:58:44.600 align:start position:0%
+ This is the...
+
+00:58:44.600 --> 00:58:47.000 align:start position:0%
+ This is an AI PC, and let me show you something else.
+
+00:58:55.160 --> 00:58:58.680 align:start position:0%
+ So, with the Intel R graphics on this AI PC,
+
+00:58:58.680 --> 00:59:02.640 align:start position:0%
+ our image processing procedure is 1.5 to 2x faster
+
+00:59:02.640 --> 00:59:04.640 align:start position:0%
+ compared to previous technologies.
+
+00:59:04.640 --> 00:59:09.720 align:start position:0%
+ And up to 10x faster than CPU-only calculations.
+
+00:59:09.720 --> 00:59:13.160 align:start position:0%
+ In the past, obtaining high resolution images,
+
+00:59:13.160 --> 00:59:15.240 align:start position:0%
+ such as the ones that you see on the right,
+
+00:59:15.240 --> 00:59:18.360 align:start position:0%
+ that are used for finding the locations of defects on a die,
+
+00:59:18.360 --> 00:59:21.480 align:start position:0%
+ required additional processing on inspection tools
+
+00:59:21.480 --> 00:59:23.560 align:start position:0%
+ and could affect the throughput.
+
+00:59:23.560 --> 00:59:26.520 align:start position:0%
+ We solved this problem by training a cutting-edge,
+
+00:59:26.520 --> 00:59:30.360 align:start position:0%
+ super-resolution algorithm, and using the latest generation
+
+00:59:30.360 --> 00:59:32.720 align:start position:0%
+ of Intel processors for inferencing.
+
+00:59:32.720 --> 00:59:35.600 align:start position:0%
+ We can now process these images directly on our laptops
+
+00:59:35.600 --> 00:59:39.520 align:start position:0%
+ such as this AI PC and get detailed high resolution images
+
+00:59:39.520 --> 00:59:41.560 align:start position:0%
+ in under one second.
+
+00:59:41.560 --> 00:59:43.920 align:start position:0%
+ Well, hey, Rajuri, this is fabulous.
+
+00:59:43.920 --> 00:59:46.640 align:start position:0%
+ Those are great examples of AI is making life
+
+00:59:46.640 --> 00:59:49.120 align:start position:0%
+ so much easier, productive, and efficient.
+
+00:59:49.120 --> 00:59:51.800 align:start position:0%
+ Let's say thank you to Rajuri and her Octia Fab.
+
+00:59:51.800 --> 00:59:54.880 align:start position:0%
+ Applause
+
+00:59:57.720 --> 00:59:59.360 align:start position:0%
+ And these are real-world solutions.
+
+00:59:59.360 --> 01:00:03.160 align:start position:0%
+ We are transforming our manufacturing operations,
+
+01:00:03.160 --> 01:00:06.680 align:start position:0%
+ saving millions of dollars, accelerating our manufacturing
+
+01:00:06.680 --> 01:00:09.640 align:start position:0%
+ process, improving yields in our factories
+
+01:00:09.640 --> 01:00:12.080 align:start position:0%
+ and the productivity of our machines.
+
+01:00:12.080 --> 01:00:14.360 align:start position:0%
+ And I want to repeat what I said earlier,
+
+01:00:14.360 --> 01:00:19.680 align:start position:0%
+ time to upgrade your AI PC fleet now.
+
+01:00:19.680 --> 01:00:23.440 align:start position:0%
+ Because normally, remember, manufacturing, supply chains,
+
+01:00:23.440 --> 01:00:26.880 align:start position:0%
+ those kind of things, the developers get the cool PCs,
+
+01:00:26.880 --> 01:00:30.560 align:start position:0%
+ and then the mediocre ones go to the white collar workers
+
+01:00:30.560 --> 01:00:31.560 align:start position:0%
+ and then the crap ones.
+
+01:00:31.560 --> 01:00:33.880 align:start position:0%
+ OK, we'll give those to the manufacturing.
+
+01:00:33.880 --> 01:00:35.560 align:start position:0%
+ No!
+
+01:00:35.560 --> 01:00:37.280 align:start position:0%
+ Call your head of IT.
+
+01:00:37.280 --> 01:00:39.800 align:start position:0%
+ It is time for a PC AI refresh.
+
+01:00:39.800 --> 01:00:43.960 align:start position:0%
+ Because use cases like this show extraordinary value
+
+01:00:43.960 --> 01:00:46.040 align:start position:0%
+ for fleet upgrades now.
+
+01:00:46.040 --> 01:00:49.440 align:start position:0%
+ And the combination of Zeon, RAG, Gaudi,
+
+01:00:49.440 --> 01:00:53.680 align:start position:0%
+ extraordinary value in delivering these AI use cases
+
+01:00:53.680 --> 01:00:56.280 align:start position:0%
+ into your enterprise environment now.
+
+01:00:57.880 --> 01:01:00.880 align:start position:0%
+ Well, not far from the Octia factory
+
+01:01:00.880 --> 01:01:04.880 align:start position:0%
+ is another important place here in Arizona, right?
+
+01:01:04.880 --> 01:01:07.880 align:start position:0%
+ Maybe even more important in some regards.
+
+01:01:07.880 --> 01:01:09.880 align:start position:0%
+ Arizona State University.
+
+01:01:09.880 --> 01:01:12.880 align:start position:0%
+ Intel's biggest source of new engineering talent.
+
+01:01:12.880 --> 01:01:16.880 align:start position:0%
+ We have just under 5,000 ASU graduates
+
+01:01:16.880 --> 01:01:19.880 align:start position:0%
+ as part of the Intel workforce,
+
+01:01:19.880 --> 01:01:22.880 align:start position:0%
+ an incredible institution that's been transforming themselves.
+
+01:01:22.880 --> 01:01:25.880 align:start position:0%
+ And it is my pleasure to welcome to the stage
+
+01:01:26.880 --> 01:01:28.880 align:start position:0%
+ ASU President Michael Crow.
+
+01:01:28.880 --> 01:01:29.880 align:start position:0%
+ Thank you.
+
+01:01:29.880 --> 01:01:31.880 align:start position:0%
+ APPLAUSE
+
+01:01:37.880 --> 01:01:38.880 align:start position:0%
+ Good man.
+
+01:01:38.880 --> 01:01:39.880 align:start position:0%
+ I see you.
+
+01:01:39.880 --> 01:01:41.880 align:start position:0%
+ Very good to see you, Michael.
+
+01:01:41.880 --> 01:01:43.880 align:start position:0%
+ And, hey, sorry to miss you a couple of weeks ago.
+
+01:01:43.880 --> 01:01:45.880 align:start position:0%
+ I brought my friend, Podas, along.
+
+01:01:45.880 --> 01:01:47.880 align:start position:0%
+ Yes, I was very sad to be there.
+
+01:01:47.880 --> 01:01:48.880 align:start position:0%
+ Yeah.
+
+01:01:48.880 --> 01:01:51.880 align:start position:0%
+ You know, and, you know, I recently spent today talking
+
+01:01:51.880 --> 01:01:53.880 align:start position:0%
+ to some of, you know, all day
+
+01:01:53.880 --> 01:01:55.880 align:start position:0%
+ about the best and brightest minds in AI.
+
+01:01:55.880 --> 01:01:58.880 align:start position:0%
+ Maybe a few of them were ASU, you know, grads.
+
+01:01:58.880 --> 01:02:00.880 align:start position:0%
+ And they said, when it comes to AI,
+
+01:02:00.880 --> 01:02:02.880 align:start position:0%
+ we have a pretty good idea of what's going to happen
+
+01:02:02.880 --> 01:02:03.880 align:start position:0%
+ six months from now.
+
+01:02:03.880 --> 01:02:06.880 align:start position:0%
+ We have a vague idea of, you know, 12 months
+
+01:02:06.880 --> 01:02:08.880 align:start position:0%
+ and post two years, not a clue.
+
+01:02:08.880 --> 01:02:09.880 align:start position:0%
+ Right?
+
+01:02:09.880 --> 01:02:11.880 align:start position:0%
+ And what are you seeing from the faculty,
+
+01:02:11.880 --> 01:02:14.880 align:start position:0%
+ the research work that's going on with your teams around AI?
+
+01:02:14.880 --> 01:02:17.880 align:start position:0%
+ Yeah, well, Pat, what we see is that AI is this
+
+01:02:17.880 --> 01:02:19.880 align:start position:0%
+ monumental transformation moment.
+
+01:02:19.880 --> 01:02:22.880 align:start position:0%
+ We've got 1,000 faculty members already being trained
+
+01:02:22.880 --> 01:02:23.880 align:start position:0%
+ in AI systems.
+
+01:02:23.880 --> 01:02:26.880 align:start position:0%
+ We've got 100 development projects and more that are coming up.
+
+01:02:26.880 --> 01:02:30.880 align:start position:0%
+ This new technology that you're talking about here is unbelievably powerful
+
+01:02:30.880 --> 01:02:32.880 align:start position:0%
+ because it empowers the personal learner,
+
+01:02:32.880 --> 01:02:35.880 align:start position:0%
+ the personalized individual learning process.
+
+01:02:35.880 --> 01:02:38.880 align:start position:0%
+ And so what we see is that you're going to have AI operating
+
+01:02:38.880 --> 01:02:42.880 align:start position:0%
+ at every level, the level of the personal intelligent assistant
+
+01:02:42.880 --> 01:02:46.880 align:start position:0%
+ to the individual, the assistant to the teacher,
+
+01:02:46.880 --> 01:02:47.880 align:start position:0%
+ to the professor.
+
+01:02:47.880 --> 01:02:49.880 align:start position:0%
+ And so we're working on all of those dimensions.
+
+01:02:50.880 --> 01:02:53.880 align:start position:0%
+ We already have tens of thousands of users in our student body,
+
+01:02:53.880 --> 01:02:55.880 align:start position:0%
+ more than 100,000, basically.
+
+01:02:55.880 --> 01:02:58.880 align:start position:0%
+ So we're very excited and this is a monumental
+
+01:02:58.880 --> 01:03:00.880 align:start position:0%
+ transformational technology moment.
+
+01:03:00.880 --> 01:03:01.880 align:start position:0%
+ Yeah, it really is.
+
+01:03:01.880 --> 01:03:03.880 align:start position:0%
+ And this is like years out.
+
+01:03:03.880 --> 01:03:04.880 align:start position:0%
+ Yeah, this is right now.
+
+01:03:04.880 --> 01:03:05.880 align:start position:0%
+ Right.
+
+01:03:05.880 --> 01:03:07.880 align:start position:0%
+ Well, in fact, in fact, it's funny.
+
+01:03:07.880 --> 01:03:09.880 align:start position:0%
+ If you go on our Wi-Fi networks right now,
+
+01:03:09.880 --> 01:03:12.880 align:start position:0%
+ you'll see tens of thousands of people using AI systems
+
+01:03:12.880 --> 01:03:13.880 align:start position:0%
+ at the moment.
+
+01:03:13.880 --> 01:03:16.880 align:start position:0%
+ So people that keep talking about, well, this is down the road,
+
+01:03:16.880 --> 01:03:17.880 align:start position:0%
+ you're already asleep.
+
+01:03:18.880 --> 01:03:20.880 align:start position:0%
+ It's already a rocket ship.
+
+01:03:20.880 --> 01:03:21.880 align:start position:0%
+ And so it's already moving.
+
+01:03:21.880 --> 01:03:24.880 align:start position:0%
+ So let's talk a little bit about the pipelines of talent
+
+01:03:24.880 --> 01:03:27.880 align:start position:0%
+ for tomorrow and how you and ASU are making those possible.
+
+01:03:27.880 --> 01:03:29.880 align:start position:0%
+ Well, we've been working on changing.
+
+01:03:29.880 --> 01:03:32.880 align:start position:0%
+ We've gone from 900 engineering graduates just a few years ago
+
+01:03:32.880 --> 01:03:35.880 align:start position:0%
+ to 7,200 or so this year.
+
+01:03:35.880 --> 01:03:37.880 align:start position:0%
+ We're very excited about how we're doing that.
+
+01:03:37.880 --> 01:03:39.880 align:start position:0%
+ We found ways to defeat the barriers of calculus,
+
+01:03:39.880 --> 01:03:42.880 align:start position:0%
+ to defeat the barriers of chemistry and biology,
+
+01:03:42.880 --> 01:03:45.880 align:start position:0%
+ and to empower things using computational tools.
+
+01:03:45.880 --> 01:03:48.880 align:start position:0%
+ Not yet AI-driven as they will be.
+
+01:03:48.880 --> 01:03:53.880 align:start position:0%
+ So what we see is that we're going to see unbelievable talent
+
+01:03:53.880 --> 01:03:58.880 align:start position:0%
+ development trajectories, engineers with multiple majors,
+
+01:03:58.880 --> 01:04:00.880 align:start position:0%
+ people that dream about being engineering,
+
+01:04:00.880 --> 01:04:03.880 align:start position:0%
+ but maybe they didn't study calculus or math well enough
+
+01:04:03.880 --> 01:04:04.880 align:start position:0%
+ in high school.
+
+01:04:04.880 --> 01:04:05.880 align:start position:0%
+ They can get through that.
+
+01:04:05.880 --> 01:04:06.880 align:start position:0%
+ No problem.
+
+01:04:06.880 --> 01:04:09.880 align:start position:0%
+ And so what we see now is massive empowerment for talent
+
+01:04:09.880 --> 01:04:11.880 align:start position:0%
+ to move in any direction that they want to go.
+
+01:04:11.880 --> 01:04:13.880 align:start position:0%
+ Yeah, that really is stunning how you're able to, you know,
+
+01:04:13.880 --> 01:04:17.880 align:start position:0%
+ expand the potential workforce by using AI and helping them
+
+01:04:17.880 --> 01:04:20.880 align:start position:0%
+ over some of those blockers for them becoming engineers.
+
+01:04:20.880 --> 01:04:22.880 align:start position:0%
+ Well, AI is interesting.
+
+01:04:22.880 --> 01:04:25.880 align:start position:0%
+ It buys into our model as a technology of what we call
+
+01:04:25.880 --> 01:04:27.880 align:start position:0%
+ abundance versus deficits.
+
+01:04:27.880 --> 01:04:29.880 align:start position:0%
+ So most education systems in the country and around the world
+
+01:04:29.880 --> 01:04:30.880 align:start position:0%
+ are built on the deficit model.
+
+01:04:30.880 --> 01:04:32.880 align:start position:0%
+ What you don't know, you're too stupid to learn this,
+
+01:04:32.880 --> 01:04:34.880 align:start position:0%
+ you're no good, you're this, you're this, you're this.
+
+01:04:34.880 --> 01:04:38.880 align:start position:0%
+ And so we, AI, empowers the abundance of the individual human
+
+01:04:38.880 --> 01:04:40.880 align:start position:0%
+ beings' ability to learn.
+
+01:04:40.880 --> 01:04:43.880 align:start position:0%
+ So we see it as an unbelievable enabling machine to overcome
+
+01:04:43.880 --> 01:04:46.880 align:start position:0%
+ the limits of teaching, to overcome the limits of individual
+
+01:04:46.880 --> 01:04:48.880 align:start position:0%
+ humans being the only teachers.
+
+01:04:48.880 --> 01:04:51.880 align:start position:0%
+ And so we think that this is a huge enhancement.
+
+01:04:51.880 --> 01:04:54.880 align:start position:0%
+ Well, you know, we are so excited about the Intel ASU
+
+01:04:54.880 --> 01:04:57.880 align:start position:0%
+ partnership, how you're being one of the most innovative
+
+01:04:57.880 --> 01:05:01.880 align:start position:0%
+ driving forces in higher education in the America today.
+
+01:05:01.880 --> 01:05:04.880 align:start position:0%
+ We are honored to have Michael Crow join us on stage.
+
+01:05:04.880 --> 01:05:05.880 align:start position:0%
+ Thank you.
+
+01:05:05.880 --> 01:05:06.880 align:start position:0%
+ Thank you, Tom.
+
+01:05:06.880 --> 01:05:07.880 align:start position:0%
+ Thank you.
+
+01:05:07.880 --> 01:05:09.880 align:start position:0%
+ Thank you.
+
+01:05:09.880 --> 01:05:10.880 align:start position:0%
+ Thank you.
+
+01:05:10.880 --> 01:05:11.880 align:start position:0%
+ Thank you.
+
+01:05:11.880 --> 01:05:13.880 align:start position:0%
+ Thank you.
+
+01:05:13.880 --> 01:05:18.880 align:start position:0%
+ You know, and based on talented engineers at Intel
+
+01:05:18.880 --> 01:05:21.880 align:start position:0%
+ and across the industry, you know, we're seeing this growing
+
+01:05:21.880 --> 01:05:26.880 align:start position:0%
+ momentum of customer adoption and how do I enable AI for my
+
+01:05:26.880 --> 01:05:27.880 align:start position:0%
+ solution.
+
+01:05:27.880 --> 01:05:30.880 align:start position:0%
+ And with that, we're seeing more and more of them take an
+
+01:05:30.880 --> 01:05:32.880 align:start position:0%
+ advantage of the power of Gaudi to do so.
+
+01:05:32.880 --> 01:05:35.880 align:start position:0%
+ And our customers and partners are looking to deliver cutting
+
+01:05:35.880 --> 01:05:38.880 align:start position:0%
+ edge solutions to serve their customers in need.
+
+01:05:38.880 --> 01:05:42.880 align:start position:0%
+ And, you know, for instance, at Bosch, you know, they're doing
+
+01:05:42.880 --> 01:05:45.880 align:start position:0%
+ incredible work in this area.
+
+01:05:45.880 --> 01:05:48.880 align:start position:0%
+ And, Tanya, you made it.
+
+01:05:48.880 --> 01:05:49.880 align:start position:0%
+ Right?
+
+01:05:49.880 --> 01:05:52.880 align:start position:0%
+ Straight from Germany, please join me in welcoming Tanya Rickard
+
+01:05:52.880 --> 01:05:53.880 align:start position:0%
+ to the stage.
+
+01:05:53.880 --> 01:05:54.880 align:start position:0%
+ Yeah.
+
+01:05:54.880 --> 01:06:03.880 align:start position:0%
+ You know, hey, you know, you saw from our fab that we're pretty
+
+01:06:03.880 --> 01:06:06.880 align:start position:0%
+ excited about what we're doing and manufacturing and bringing
+
+01:06:06.880 --> 01:06:07.880 align:start position:0%
+ AI here.
+
+01:06:07.880 --> 01:06:10.880 align:start position:0%
+ It's such a pleasure to have you make it in, you know, for this
+
+01:06:10.880 --> 01:06:11.880 align:start position:0%
+ moment.
+
+01:06:11.880 --> 01:06:13.880 align:start position:0%
+ And tell us a little bit about your role at Bosch.
+
+01:06:13.880 --> 01:06:14.880 align:start position:0%
+ Yeah.
+
+01:06:14.880 --> 01:06:17.880 align:start position:0%
+ And in the morning, you told me maybe not everybody knows about Bosch.
+
+01:06:17.880 --> 01:06:18.880 align:start position:0%
+ Does everybody knows about Bosch?
+
+01:06:18.880 --> 01:06:19.880 align:start position:0%
+ Ah!
+
+01:06:19.880 --> 01:06:24.880 align:start position:0%
+ It's actually the leading technology provider in Europe.
+
+01:06:24.880 --> 01:06:29.880 align:start position:0%
+ And it's more than 400,000 associates, employees helping us
+
+01:06:29.880 --> 01:06:32.880 align:start position:0%
+ with nearly 100 billion turnover.
+
+01:06:32.880 --> 01:06:34.880 align:start position:0%
+ But it's more about the solutions.
+
+01:06:34.880 --> 01:06:37.880 align:start position:0%
+ We go from mobility, we go to industry, energy and building as
+
+01:06:37.880 --> 01:06:38.880 align:start position:0%
+ well as consumer.
+
+01:06:38.880 --> 01:06:42.880 align:start position:0%
+ And my role, I have also the honor to be on the board of
+
+01:06:42.880 --> 01:06:45.880 align:start position:0%
+ management, like you are your leading support.
+
+01:06:45.880 --> 01:06:49.880 align:start position:0%
+ And there I'm responsible for digital business and services as
+
+01:06:49.880 --> 01:06:53.880 align:start position:0%
+ well as our industry business and for the region.
+
+01:06:53.880 --> 01:06:54.880 align:start position:0%
+ You guess?
+
+01:06:54.880 --> 01:06:55.880 align:start position:0%
+ North America.
+
+01:06:55.880 --> 01:06:57.880 align:start position:0%
+ Very good.
+
+01:06:57.880 --> 01:07:01.880 align:start position:0%
+ So tell us about how Bosch is leveraging, you know, Gen AI and,
+
+01:07:01.880 --> 01:07:04.880 align:start position:0%
+ you know, we're taking this manufacturing engine to the next
+
+01:07:04.880 --> 01:07:05.880 align:start position:0%
+ level.
+
+01:07:05.880 --> 01:07:10.880 align:start position:0%
+ So at Bosch, AI is at the heart of our products as well as our
+
+01:07:10.880 --> 01:07:11.880 align:start position:0%
+ business processes.
+
+01:07:11.880 --> 01:07:16.880 align:start position:0%
+ At Bosch, we have all products contain AI, are engineered with
+
+01:07:16.880 --> 01:07:19.880 align:start position:0%
+ AI or manufactured with AI.
+
+01:07:19.880 --> 01:07:22.880 align:start position:0%
+ And we are looking continuously for partnerships and we are
+
+01:07:22.880 --> 01:07:26.880 align:start position:0%
+ very happy to partner now with Intel to go even faster.
+
+01:07:26.880 --> 01:07:30.880 align:start position:0%
+ We are developing since here we are commercializing
+
+01:07:30.880 --> 01:07:31.880 align:start position:0%
+ our products.
+
+01:07:31.880 --> 01:07:35.880 align:start position:0%
+ And we are developing, you might have used or for sure, your
+
+01:07:35.880 --> 01:07:37.880 align:start position:0%
+ fuse Bosch AI in your car.
+
+01:07:37.880 --> 01:07:41.880 align:start position:0%
+ Or when you go, I said mobility, industry, consumer and
+
+01:07:41.880 --> 01:07:43.880 align:start position:0%
+ buildings in your kitchen.
+
+01:07:43.880 --> 01:07:45.880 align:start position:0%
+ Do you have a connected open from Bosch?
+
+01:07:45.880 --> 01:07:46.880 align:start position:0%
+ Not yet.
+
+01:07:46.880 --> 01:07:47.880 align:start position:0%
+ No, yet.
+
+01:07:47.880 --> 01:07:48.880 align:start position:0%
+ Oh, it's a mistake.
+
+01:07:48.880 --> 01:07:53.880 align:start position:0%
+ Because it was an anonymous data from the baking and roasting.
+
+01:07:53.880 --> 01:07:56.880 align:start position:0%
+ What's this connected open does, Gen AI?
+
+01:07:56.880 --> 01:08:01.880 align:start position:0%
+ It recognizes a dish, what comes in, and it gives you a
+
+01:08:01.880 --> 01:08:05.880 align:start position:0%
+ recommendation on temperature as well as time for cooking.
+
+01:08:05.880 --> 01:08:08.880 align:start position:0%
+ But this is now, we want to go to manufacturing, right?
+
+01:08:08.880 --> 01:08:09.880 align:start position:0%
+ Yeah, very impressive.
+
+01:08:09.880 --> 01:08:10.880 align:start position:0%
+ Yeah.
+
+01:08:10.880 --> 01:08:14.880 align:start position:0%
+ And our products are manufactured with AI and what I have
+
+01:08:14.880 --> 01:08:17.880 align:start position:0%
+ seen is your products as well.
+
+01:08:17.880 --> 01:08:21.880 align:start position:0%
+ So there cannot be a better collaboration partnership to bring
+
+01:08:21.880 --> 01:08:25.880 align:start position:0%
+ manufacturing with AI, with Intel, Gaudi, processes,
+
+01:08:25.880 --> 01:08:26.880 align:start position:0%
+ on the next level.
+
+01:08:26.880 --> 01:08:29.880 align:start position:0%
+ So maybe we go in more detail, or do you want to add?
+
+01:08:29.880 --> 01:08:32.880 align:start position:0%
+ Yeah, you know, hey, you know, and I think some of the work that
+
+01:08:32.880 --> 01:08:35.880 align:start position:0%
+ we're mutually doing, right, you know, together to enable your
+
+01:08:35.880 --> 01:08:38.880 align:start position:0%
+ products, leverage our technologies, but also putting it to work
+
+01:08:38.880 --> 01:08:40.880 align:start position:0%
+ for our factories, your factories as well.
+
+01:08:40.880 --> 01:08:42.880 align:start position:0%
+ This is really incredible, Tonya.
+
+01:08:42.880 --> 01:08:45.880 align:start position:0%
+ And, you know, we just so appreciate you coming here to join us
+
+01:08:45.880 --> 01:08:46.880 align:start position:0%
+ on stage at Vision.
+
+01:08:46.880 --> 01:08:49.880 align:start position:0%
+ You know, thank you so much for sharing today.
+
+01:08:49.880 --> 01:08:51.880 align:start position:0%
+ Yeah, and I think, stay tuned.
+
+01:08:51.880 --> 01:08:54.880 align:start position:0%
+ What we will do together in manufacturing, it's about
+
+01:08:54.880 --> 01:08:55.880 align:start position:0%
+ optical inspection.
+
+01:08:55.880 --> 01:08:59.880 align:start position:0%
+ And there, you always don't know if there are not okay products.
+
+01:08:59.880 --> 01:09:01.880 align:start position:0%
+ And so, there are rare instances.
+
+01:09:01.880 --> 01:09:06.880 align:start position:0%
+ And together, we decided now that we will make sure that we have
+
+01:09:06.880 --> 01:09:10.880 align:start position:0%
+ more synthetic training data and with the synthetic training data,
+
+01:09:10.880 --> 01:09:13.880 align:start position:0%
+ you really have the chance to avoid this in the future.
+
+01:09:13.880 --> 01:09:15.880 align:start position:0%
+ And this is what I'm looking forward to.
+
+01:09:15.880 --> 01:09:16.880 align:start position:0%
+ Very good.
+
+01:09:16.880 --> 01:09:17.880 align:start position:0%
+ And this is the beginning of our journey.
+
+01:09:17.880 --> 01:09:18.880 align:start position:0%
+ Thank you very much, Tonya.
+
+01:09:18.880 --> 01:09:19.880 align:start position:0%
+ Thanks, everybody.
+
+01:09:19.880 --> 01:09:20.880 align:start position:0%
+ Thank you.
+
+01:09:20.880 --> 01:09:21.880 align:start position:0%
+ Thank you.
+
+01:09:21.880 --> 01:09:22.880 align:start position:0%
+ Thank you.
+
+01:09:22.880 --> 01:09:23.880 align:start position:0%
+ Thank you.
+
+01:09:23.880 --> 01:09:24.880 align:start position:0%
+ Thank you.
+
+01:09:24.880 --> 01:09:25.880 align:start position:0%
+ Thank you.
+
+01:09:25.880 --> 01:09:26.880 align:start position:0%
+ Thank you.
+
+01:09:26.880 --> 01:09:27.880 align:start position:0%
+ Thank you.
+
+01:09:27.880 --> 01:09:28.880 align:start position:0%
+ Thank you.
+
+01:09:28.880 --> 01:09:29.880 align:start position:0%
+ Thank you.
+
+01:09:29.880 --> 01:09:32.880 align:start position:0%
+ You know, Bosch, a venerable name.
+
+01:09:32.880 --> 01:09:35.880 align:start position:0%
+ But a growing pipeline of customers.
+
+01:09:35.880 --> 01:09:40.880 align:start position:0%
+ Another example, Nielsen IQ, consumer analytics leader taking advantage
+
+01:09:40.880 --> 01:09:45.880 align:start position:0%
+ of Gen AI with their discover platform, domain-specific large language models,
+
+01:09:45.880 --> 01:09:49.880 align:start position:0%
+ you know, running on a Gaudi and Zion.
+
+01:09:49.880 --> 01:09:54.880 align:start position:0%
+ Another example is Control S, one of the largest and fastest growing data center
+
+01:09:54.880 --> 01:09:56.880 align:start position:0%
+ and hosting providers in India and Asia.
+
+01:09:56.880 --> 01:10:01.880 align:start position:0%
+ And, boy, was I startled when I learned that India is very convinced they need
+
+01:10:01.880 --> 01:10:03.880 align:start position:0%
+ their own models for their environment.
+
+01:10:03.880 --> 01:10:08.880 align:start position:0%
+ And, you know, they're excited to train and be able to deliver that using
+
+01:10:08.880 --> 01:10:09.880 align:start position:0%
+ Gaudi clusters.
+
+01:10:09.880 --> 01:10:14.880 align:start position:0%
+ And, other example, like international flavors and favorite fragrances,
+
+01:10:14.880 --> 01:10:18.880 align:start position:0%
+ where they're innovating and molecules for perfumes.
+
+01:10:18.880 --> 01:10:22.880 align:start position:0%
+ Your next perfume could be Gen AI created.
+
+01:10:22.880 --> 01:10:27.880 align:start position:0%
+ And, you know, no customer, right, you know, example, you know,
+
+01:10:27.880 --> 01:10:33.880 align:start position:0%
+ with some of the leading minds in doing the research work of where AI is going
+
+01:10:33.880 --> 01:10:34.880 align:start position:0%
+ for the future.
+
+01:10:34.880 --> 01:10:40.880 align:start position:0%
+ And, an example of that is landing AI and Andrew Nying, one of the most well-known
+
+01:10:40.880 --> 01:10:42.880 align:start position:0%
+ minds in the area of AI research.
+
+01:10:42.880 --> 01:10:47.880 align:start position:0%
+ And, while Andrew couldn't be here himself today, let's hear the video message
+
+01:10:47.880 --> 01:10:49.880 align:start position:0%
+ and be able to share with us.
+
+01:10:49.880 --> 01:10:54.880 align:start position:0%
+ I'm thrilled to be here to discuss the transformative vision revolution
+
+01:10:54.880 --> 01:10:56.880 align:start position:0%
+ with large vision models.
+
+01:10:56.880 --> 01:11:01.880 align:start position:0%
+ The large language model, or LLM revolution, has transformed public process
+
+01:11:01.880 --> 01:11:06.880 align:start position:0%
+ text, and the large vision model, or LVM revolution, is just starting to change
+
+01:11:06.880 --> 01:11:07.880 align:start position:0%
+ public process images as well.
+
+01:11:07.880 --> 01:11:12.880 align:start position:0%
+ But, there's one important difference between LLMs and LVMs.
+
+01:11:12.880 --> 01:11:17.880 align:start position:0%
+ The internet text sounds similar enough to your proprietary text documents,
+
+01:11:17.880 --> 01:11:21.880 align:start position:0%
+ so an LLM trade on internet text can understand your documents.
+
+01:11:21.880 --> 01:11:25.880 align:start position:0%
+ But, all businesses have images that look nothing like internet images,
+
+01:11:25.880 --> 01:11:30.880 align:start position:0%
+ which is why you can do much better with an LVM large vision model
+
+01:11:30.880 --> 01:11:32.880 align:start position:0%
+ adapted to your particular domain.
+
+01:11:32.880 --> 01:11:37.880 align:start position:0%
+ Now, let me show you a quick demo of a pathology app using an LVM
+
+01:11:37.880 --> 01:11:40.880 align:start position:0%
+ trade-on pathology images.
+
+01:11:40.880 --> 01:11:44.880 align:start position:0%
+ We're training LVM for histopathology with over 200,000 unlabeled
+
+01:11:44.880 --> 01:11:48.880 align:start position:0%
+ images on the Galaxy 2 Intel DevCloud cluster.
+
+01:11:48.880 --> 01:11:53.880 align:start position:0%
+ Since LVM training is computer intensive, we scaled out to multiple
+
+01:11:53.880 --> 01:11:57.880 align:start position:0%
+ nodes. Thanks to the Intel DevCloud teamself, we're able to get on board it
+
+01:11:57.880 --> 01:12:02.880 align:start position:0%
+ to the Intel DevCloud and put our LVM training recipes to run on the Galaxy
+
+01:12:02.880 --> 01:12:04.880 align:start position:0%
+ 2 cluster.
+
+01:12:04.880 --> 01:12:08.880 align:start position:0%
+ One thing we're running and scale out to work delight to the speed up.
+
+01:12:08.880 --> 01:12:11.880 align:start position:0%
+ Now, let's see this LVM in action.
+
+01:12:11.880 --> 01:12:16.880 align:start position:0%
+ Here, I have the LVM running on the Galaxy 2 machine on Intel DevCloud,
+
+01:12:16.880 --> 01:12:21.880 align:start position:0%
+ using this LVM as a foundation with fine-tuned it with just a few examples
+
+01:12:21.880 --> 01:12:24.880 align:start position:0%
+ to segment out the new Cliai.
+
+01:12:24.880 --> 01:12:27.880 align:start position:0%
+ As you can see, it does a great job.
+
+01:12:27.880 --> 01:12:32.880 align:start position:0%
+ But, the nice thing is that LVMs can do many different tasks.
+
+01:12:32.880 --> 01:12:36.880 align:start position:0%
+ You see the same LVM because it said fine-tuned it with some images of
+
+01:12:36.880 --> 01:12:41.880 align:start position:0%
+ liver cells to create a classification model that can detect the presence
+
+01:12:41.880 --> 01:12:44.880 align:start position:0%
+ or absence of cancer like this.
+
+01:12:44.880 --> 01:12:49.880 align:start position:0%
+ Your LVM acts as a pre-built template and in the midst of the need to construct
+
+01:12:49.880 --> 01:12:52.880 align:start position:0%
+ a new model from scratch every single time.
+
+01:12:52.880 --> 01:12:55.880 align:start position:0%
+ I look forward to seeing more enterprises unlock intelligence from the
+
+01:12:55.880 --> 01:12:58.880 align:start position:0%
+ image data and gain a competitive age in the market.
+
+01:12:58.880 --> 01:13:02.880 align:start position:0%
+ The future of large vision models is bright and it's nice to see it running
+
+01:13:02.880 --> 01:13:05.880 align:start position:0%
+ efficiently on the Intel DevCloud.
+
+01:13:05.880 --> 01:13:16.880 align:start position:0%
+ I love the work that they're doing applying AI and new domains like health care
+
+01:13:16.880 --> 01:13:21.880 align:start position:0%
+ and some of the research work moving beyond text and language models.
+
+01:13:21.880 --> 01:13:26.880 align:start position:0%
+ Another example customer, have you ever heard of Naver?
+
+01:13:26.880 --> 01:13:29.880 align:start position:0%
+ Just a few years ago, I had never heard of them.
+
+01:13:29.880 --> 01:13:34.880 align:start position:0%
+ And all of a sudden, I realized they're one of the fastest growing Asian
+
+01:13:34.880 --> 01:13:38.880 align:start position:0%
+ cloud service providers in the industry and a huge partner of Intel.
+
+01:13:38.880 --> 01:13:41.880 align:start position:0%
+ So let's hear from their CEO right now.
+
+01:13:41.880 --> 01:13:46.880 align:start position:0%
+ Hi, everyone. I'm Suyeon Tae, CEO of Naver.
+
+01:13:46.880 --> 01:13:49.880 align:start position:0%
+ Naver studied as a search engine in Korea.
+
+01:13:49.880 --> 01:13:54.880 align:start position:0%
+ We are now the number one Internet company in Korea with around 700 million
+
+01:13:54.880 --> 01:13:56.880 align:start position:0%
+ users across the globe.
+
+01:13:56.880 --> 01:14:03.880 align:start position:0%
+ Our global services include WebTune and Passmark in the US and Line in Japan.
+
+01:14:03.880 --> 01:14:10.880 align:start position:0%
+ Today, at Intel Vision 2024, I'm happy to share about Naver's partnership with Intel.
+
+01:14:10.880 --> 01:14:16.880 align:start position:0%
+ Naver was the third company globally to announce our own hyposcale Gen AI model.
+
+01:14:16.880 --> 01:14:21.880 align:start position:0%
+ And for this model to work with our services and ecosystem,
+
+01:14:21.880 --> 01:14:27.880 align:start position:0%
+ we must focus on R&D for powerful and cost-effective computing power.
+
+01:14:27.880 --> 01:14:32.880 align:start position:0%
+ That's why we are very much excited about working together with Intel.
+
+01:14:32.880 --> 01:14:39.880 align:start position:0%
+ I can wait to see what Naver and Intel can create for new AI chip environment.
+
+01:14:39.880 --> 01:14:43.880 align:start position:0%
+ And innovations, this will bring, please stay tuned.
+
+01:14:44.880 --> 01:14:52.880 align:start position:0%
+ And in fact, you don't have to stay tuned very long.
+
+01:14:52.880 --> 01:14:57.880 align:start position:0%
+ Let's bring on stage Dr. Ha, the head of research for Naver Cloud.
+
+01:14:57.880 --> 01:14:59.880 align:start position:0%
+ Thank you.
+
+01:15:07.880 --> 01:15:11.880 align:start position:0%
+ All right. So tell us how Intel and Naver are collaborating.
+
+01:15:11.880 --> 01:15:16.880 align:start position:0%
+ Na. Yes. Thank you for your question.
+
+01:15:16.880 --> 01:15:21.880 align:start position:0%
+ And I will see your suiyan mentioned.
+
+01:15:22.880 --> 01:15:30.880 align:start position:0%
+ Actually, the global sub-align R&M pioneer and the Korea's leading tech platform company,
+
+01:15:30.880 --> 01:15:41.880 align:start position:0%
+ Naver is a vision to develop and deploy a powerful innovative and safe sub-align multi-modal R&M.
+
+01:15:42.880 --> 01:15:44.880 align:start position:0%
+ Train with much more trust.
+
+01:15:44.880 --> 01:15:55.880 align:start position:0%
+ And so we decided to collaborate with Intel across three essential areas on Gaudi 2.
+
+01:15:55.880 --> 01:16:05.880 align:start position:0%
+ First, we established Naver Intel Core Lab to expand Gaudi sub-taire ecosystem.
+
+01:16:06.880 --> 01:16:13.880 align:start position:0%
+ In collaboration with many startups and the research labs in academia with our core app together.
+
+01:16:13.880 --> 01:16:27.880 align:start position:0%
+ Second, we plan to evaluate Gaudi 2 and look forward to the successful evaluation to establish on R&M training infrastructure on Gaudi 2.
+
+01:16:28.880 --> 01:16:43.880 align:start position:0%
+ Last, we expect to offer the commercial cloud instances of these R&M training infrastructure to global enterprises and public sectors for their competitive needs and innovations in U.
+
+01:16:43.880 --> 01:16:44.880 align:start position:0%
+ Gen A.
+
+01:16:45.880 --> 01:16:47.880 align:start position:0%
+ So, why did you choose Gaudi? Why us?
+
+01:16:47.880 --> 01:16:49.880 align:start position:0%
+ We already go to Ken's shop.
+
+01:16:49.880 --> 01:16:58.880 align:start position:0%
+ Indeed, it is the most promising and competitive option for R&M training and inference.
+
+01:16:58.880 --> 01:17:07.880 align:start position:0%
+ Naver confirmed the Gaudi's foundational capability in executing comfort operation for large-scale waters.
+
+01:17:08.880 --> 01:17:18.880 align:start position:0%
+ And with the Gaudi's AI-dedicated design, it is able to deliver the outstanding performance per watt and TCO.
+
+01:17:18.880 --> 01:17:27.880 align:start position:0%
+ Time-to-value is another key objective with the Intel Teams, the prompts and the responsive technical support.
+
+01:17:28.880 --> 01:17:40.880 align:start position:0%
+ This collaboration aims for the Naver to deliver the most powerful R&M on high-performance and cost-effective,
+
+01:17:40.880 --> 01:17:47.880 align:start position:0%
+ thus contributing to the vision of AI everywhere beyond our efforts for AI sovereignty.
+
+01:17:47.880 --> 01:17:53.880 align:start position:0%
+ Well, thank you so much and we look forward to many decades of great partnership with Naver.
+
+01:17:53.880 --> 01:17:54.880 align:start position:0%
+ Thank you.
+
+01:17:54.880 --> 01:17:55.880 align:start position:0%
+ Thank you.
+
+01:17:58.880 --> 01:18:05.880 align:start position:0%
+ The AI pipeline for Gaudi continues to grow and accelerate,
+
+01:18:05.880 --> 01:18:15.880 align:start position:0%
+ and a broadening amount of enterprise AI solutions, working with top OEMs like SuperMicro who we had here, HP and Lenovo.
+
+01:18:15.880 --> 01:18:22.880 align:start position:0%
+ But I'm most excited to talk to you about our next guest, Michael Dell, joining us right now.
+
+01:18:22.880 --> 01:18:23.880 align:start position:0%
+ Michael?
+
+01:18:24.880 --> 01:18:25.880 align:start position:0%
+ Hi Pat.
+
+01:18:26.880 --> 01:18:29.880 align:start position:0%
+ Hey, great to be with all of you. Thanks for having me.
+
+01:18:29.880 --> 01:18:31.880 align:start position:0%
+ Well, thank you, Michael.
+
+01:18:31.880 --> 01:18:41.880 align:start position:0%
+ You and I, we've been doing technology for quite a while now, and with that, it's just so marvelous to have you join us here at our vision event today.
+
+01:18:41.880 --> 01:18:44.880 align:start position:0%
+ Yeah, absolutely.
+
+01:18:44.880 --> 01:18:48.880 align:start position:0%
+ You know, we've been doing a lot of work with our customers for decades.
+
+01:18:48.880 --> 01:18:57.880 align:start position:0%
+ I think we might need some more fingers on the number of decades we've been doing this, but it's driven, you know, incredible outcomes.
+
+01:18:57.880 --> 01:19:05.880 align:start position:0%
+ We've had this build out of compute and storage and networking and all these advances in power and speed and automation and intelligence.
+
+01:19:05.880 --> 01:19:10.880 align:start position:0%
+ And now, you know, the software that's been built on top of that foundation.
+
+01:19:10.880 --> 01:19:21.880 align:start position:0%
+ And all that has really come together in this moment where we're kind of moving from computation and calculation into cognition.
+
+01:19:21.880 --> 01:19:29.880 align:start position:0%
+ And now we all have this sort of super genius cognitive capability right at our fingertips.
+
+01:19:29.880 --> 01:19:37.880 align:start position:0%
+ And every organization needs to reimagine their business given this superpower that's being unleashed.
+
+01:19:37.880 --> 01:19:44.880 align:start position:0%
+ Yeah, that's exactly right, Michael. And, you know, we're just seeing this across different industries and use cases and moving so rapidly.
+
+01:19:44.880 --> 01:19:53.880 align:start position:0%
+ And from your standpoint, where are enterprises on this journey? And what have you been hearing from your customers?
+
+01:19:53.880 --> 01:20:01.880 align:start position:0%
+ So with generative AI, enterprises are moving from pilot programs to production this year.
+
+01:20:01.880 --> 01:20:12.880 align:start position:0%
+ And what they want are the use cases inside their core processes that drive productivity and help them accelerate everything they're doing.
+
+01:20:12.880 --> 01:20:20.880 align:start position:0%
+ Software development, service and support, sales and marketing, content management, creation.
+
+01:20:20.880 --> 01:20:24.880 align:start position:0%
+ And you also showed some great examples in advanced manufacturing.
+
+01:20:24.880 --> 01:20:31.880 align:start position:0%
+ AI use cases are continuing to expand across all of large enterprises.
+
+01:20:31.880 --> 01:20:35.880 align:start position:0%
+ And the urgency for generative AI continues to grow.
+
+01:20:35.880 --> 01:20:46.880 align:start position:0%
+ And we're in this second year of the gen I phenomena with enterprises demanding more AI acceleration options to meet their infrastructure needs.
+
+01:20:46.880 --> 01:20:54.880 align:start position:0%
+ So maybe talk a little bit about how Intel and Dell are working together to satisfy those needs.
+
+01:20:54.880 --> 01:21:04.880 align:start position:0%
+ Sure thing. So we're working hard to meet the demand and make AI adoption really easy for these enterprise customers with everything they need.
+
+01:21:04.880 --> 01:21:15.880 align:start position:0%
+ And we're working on a complete AI system architecture with the servers, the storage, the networking specifically built for AI accelerated systems.
+
+01:21:15.880 --> 01:21:19.880 align:start position:0%
+ And also, of course, the AI ready PCs and workstations.
+
+01:21:19.880 --> 01:21:26.880 align:start position:0%
+ We also help them in the design implementation with our AI solutions and professional services.
+
+01:21:26.880 --> 01:21:41.880 align:start position:0%
+ And last year we launched our PowerEdge XE9680 and it has really set the standard for purpose built AI and generative AI compute with superior AI acceleration and diverse GPU options.
+
+01:21:41.880 --> 01:21:46.880 align:start position:0%
+ And overall, the market is demanding more choice for AI compute.
+
+01:21:46.880 --> 01:21:51.880 align:start position:0%
+ And we're working closely with your team at Intel to bring Gotti 3 to market.
+
+01:21:51.880 --> 01:22:00.880 align:start position:0%
+ Now, and we are super excited to be adding the Gaudi 3 AI accelerators to our PowerEdge XE9680 lineup this year.
+
+01:22:00.880 --> 01:22:05.880 align:start position:0%
+ Pat, your team has done a great job here. It's a great, it's a game changer.
+
+01:22:05.880 --> 01:22:14.880 align:start position:0%
+ Gaudi 3 strengthens our partnership by addressing customer infrastructure needs, reducing TCO and easing deployment.
+
+01:22:14.880 --> 01:22:25.880 align:start position:0%
+ And it's all through an open ecosystem featuring AI frameworks optimized for Dell and Gaudi 3 along with scalable Ethernet based AI fabrics.
+
+01:22:25.880 --> 01:22:43.880 align:start position:0%
+ And prior to Gaudi 3's release, we're going to launch the PowerEdge XE9680 with Intel's AI accelerators in the Intel Developer Cloud, which is going to allow select customers to test the Intel AI solutions on Dell hardware before implementation in their data centers.
+
+01:22:43.880 --> 01:22:52.880 align:start position:0%
+ Well, it sounds like incredibly good work that we're doing together, Michael. But before I let you go, anything else we can be doing for you?
+
+01:22:52.880 --> 01:22:57.880 align:start position:0%
+ Well, you know, we've always got a few requests, Pat. So, yeah, this is Michael.
+
+01:22:57.880 --> 01:23:04.880 align:start position:0%
+ It's been a lot of fun. It's been a lot of fun, you know, working super closely together.
+
+01:23:04.880 --> 01:23:22.880 align:start position:0%
+ Oh, well, something here just showed up. Working closely with your team to accelerate and look, what we need is more Gaudi 3 in volume. That would be great.
+
+01:23:22.880 --> 01:23:28.880 align:start position:0%
+ Well, Michael, I think the next shipment has arrived.
+
+01:23:28.880 --> 01:23:35.880 align:start position:0%
+ Wow, awesome. Cool. I'm going to go, I'm going to go far this up on our lab. Good to see you, Pat.
+
+01:23:35.880 --> 01:23:46.880 align:start position:0%
+ Well, I get that, I guess that call is over.
+
+01:23:46.880 --> 01:23:51.880 align:start position:0%
+ And, you know, it's only fair to show what Michael has been excited about.
+
+01:23:51.880 --> 01:24:02.880 align:start position:0%
+ You know, today, and maybe as we come to this point in the keynote, I'm excited to introduce the Intel Gaudi 3 AI accelerator for the first time.
+
+01:24:02.880 --> 01:24:07.880 align:start position:0%
+ So you ready? Intel Gaudi 3.
+
+01:24:07.880 --> 01:24:12.880 align:start position:0%
+ It's just that.
+
+01:24:12.880 --> 01:24:20.880 align:start position:0%
+ It's just that.
+
+01:24:20.880 --> 01:24:35.880 align:start position:0%
+ You know, huge advancements in generative AI, building on the proven performance of Gaudi 2, delivering 4x the AI compute with BF16, 2x with FP8, 2x the networking bandwidth, one of the half x.
+
+01:24:35.880 --> 01:24:45.880 align:start position:0%
+ The memory bandwidth for massive scale out, significant leap in performance for AI training, popular LLM's multi model support.
+
+01:24:45.880 --> 01:24:56.880 align:start position:0%
+ And Intel Gaudi 3 is architected from the ground up for efficient, large scale AI computing, supporting both scale up and scale out to configurations.
+
+01:24:56.880 --> 01:25:25.880 align:start position:0%
+ Gaudi 3 is great on benchmarks versus the H100 on top open LLM models, 50% faster in time the train, 50% better on inferencing, 40% better on inference, power efficiency, a scalable solution with Gaudi 3 using industry standard ethernet like we talked about before scaling performance from one socket to a 8x accelerator, UBB, a single node up to thousands of nodes and racks.
+
+01:25:25.880 --> 01:25:44.880 align:start position:0%
+ One of the key questions that our AI customers are asking us is, okay, how do I deploy? And nearly all of the Gen AI developments today are moving to higher level environments, PyTorch frameworks and other community models from hugging face.
+
+01:25:44.880 --> 01:25:59.880 align:start position:0%
+ The industry is quickly moving away from proprietary CUDA models, literally a few lines of code and you're able to be up and running with industry standard frameworks on power performance, efficient, Gaudi infrastructure.
+
+01:25:59.880 --> 01:26:15.880 align:start position:0%
+ Now let's talk a little bit more about availability in a bit nerdy or together. Intel Gaudi 3 is available to OEM starting this quarter of this year, three different industry standard form factors, the accelerator card that I was just showing off here to you.
+
+01:26:15.880 --> 01:26:23.880 align:start position:0%
+ We're also adding to the Gaudi family, a PCIe card, and finally our universal base board.
+
+01:26:23.880 --> 01:26:50.880 align:start position:0%
+ Look at this big boy. I always bring big brother along with me. And with it, that range of solutions, and here up to 14.6 FP8 peda-flops, greater than a terabyte of HBM3E, 192 native 200 gigabit ethernet connections in this big boy.
+
+01:26:50.880 --> 01:27:19.880 align:start position:0%
+ The first Gaudi PCIe card, extraordinary compute density, the same capabilities as the mezzanine card, giving our customers great flexibility, 1.8 peda-flops of FP8 capabilities, 128 gigabytes of memory in 600 watt TDP, making it an easy adjunct to a zon deployment, being able to deliver industry standard infrastructure into your data center.
+
+01:27:19.880 --> 01:27:30.880 align:start position:0%
+ And Gaudi 3 eliminates vendor lock-in with standard networking solutions in your data centers, in your cloud, and with open software environments.
+
+01:27:30.880 --> 01:27:44.880 align:start position:0%
+ Best of all, best of all, you're ready? Huge TCO advantages for your deployment. This is a winning solution. Ladies and gentlemen, welcome to the Gaudi 3 generation.
+
+01:27:44.880 --> 01:28:06.880 align:start position:0%
+ And as you saw today, the momentum is building. The road map is strong. We're seeing this acceleration of high performance computing of AI workloads of Intel's eon and our next generation, Gaudi 3 solutions.
+
+01:28:06.880 --> 01:28:19.880 align:start position:0%
+ And if you look at the Gaudi 3 customers today, we see this growing momentum in the industry of our partners, our solutions, and customers who are now saying, man, this thing is great.
+
+01:28:19.880 --> 01:28:32.880 align:start position:0%
+ So let's put it all together for our discussion today. And let's bring Brian on stage, and we're going to show just an enterprise application or two here to finish up our time together this morning.
+
+01:28:32.880 --> 01:28:47.880 align:start position:0%
+ So Brian, you got to be thinking, good to show us. I got a couple things, fat. Okay. So first, you little while ago, you were telling our audience here all about LLMs, Chop Bods, Rags, and all that.
+
+01:28:47.880 --> 01:28:56.880 align:start position:0%
+ Let me bring this all together and show you a cool enterprise edge AI use case here that every single one of you here in the audience are going to relate to email.
+
+01:28:56.880 --> 01:29:07.880 align:start position:0%
+ Get hundreds of emails, especially to put on a show like vision. It's ridiculous. So how can I use artificial intelligence to get me through these things quicker? So.
+
+01:29:07.880 --> 01:29:34.880 align:start position:0%
+ Yeah, in box zero, the holy grail, the holy grail. I can never get to that. All right. So here we have outlook, a very familiar email email interface and our friends that iterate AI have developed this gen pilot service. And as soon as I click on it, I get a summary of what my customer wants. And that's just that a suggested response that's going to give me all the information specific to the cost to the product that the customer is asking about.
+
+01:29:34.880 --> 01:29:54.880 align:start position:0%
+ I didn't have to go through spec sheets, databases or any of that. All I need to do is hit compose right here and have a template ready to go. I can adjust maybe the pricing or whatever you know, but everything is right here ready to go in an email that everybody can relate just seconds. That's pretty impressive. Now.
+
+01:29:54.880 --> 01:30:15.880 align:start position:0%
+ So what else that's going to help with way in box, but we got a lot of other tasks. Yes, yes, we do. And you know, yesterday we actually recorded a podcast over here. So we could have used audacity not just to suppress the noise using AI, but also track separation, keep everything in their own track. You know, we could use that.
+
+01:30:15.880 --> 01:30:44.880 align:start position:0%
+ I've started to play with audacity on my PC. Well, how's it going? Yeah, well, you know, I have a face for radio and a voice. So we're working on it. We're working on it. Well, soon, AI will fix those things too. For those of you with film editing, right? We have AI effects with Filmora. And then we also have a few photographers here. I saw a couple of cameras earlier. Lightroom will help you with AI that can help you organize your photos. Maybe do some quick edits. And we'll do some quick editing.
+
+01:30:45.880 --> 01:31:14.880 align:start position:0%
+ And all that. Well, that's pretty good. So what else do you got? Okay, one more that I thought that was going to be kind of compelling for you in the audience here. Using AI locally on your system in real time. So maybe this looks a little familiar. The drawing on the left. Yeah, that's the Ohio facility. That's right. The Ohio facility. But I don't know why if we are here in sunny Phoenix, why do we have it in a rainy scenario? Let's change this to sunny and let's cue the prompt. And you'll see Pat in just.
+
+01:31:15.880 --> 01:31:27.880 align:start position:0%
+ And in seconds, this is going to come to life in a sunny environment with really very little to no effort on my part. And let's click it here. Here we go.
+
+01:31:27.880 --> 01:31:39.880 align:start position:0%
+ Okay. And like all the like all live demos. Let's see. Like all live demos. Okay. Well, now we have there we go. Oh, there we go. So again.
+
+01:31:39.880 --> 01:31:53.880 align:start position:0%
+ No, it's now that didn't take me billions of dollars and years to build that fab. That was pretty good. That was really good. And again, you know, it's not just about how cool this is. It's about the experience. I'm going to give to my customer. We just 10 extra seconds of effort.
+
+01:31:53.880 --> 01:32:08.880 align:start position:0%
+ AI helped me come up with a photo realistic render of the Ohio Fab the still under construction. Yeah. This is great Brian. You have me sold. All right. Well, you know, I know that we had some fun with this. You know, but again, the whole thing is about productivity. And I'm here to show the case for the demo guy.
+
+01:32:08.880 --> 01:32:24.880 align:start position:0%
+ Yesterday, I was looking for you, Pat, for the rehearsal. And they said that he was at a sporting event. So, you know, this, the whole thing was, okay, what if Pat was, well, no, what if I was with Pat? And then I came up with this. You know, I ran an LLM on my, on my system.
+
+01:32:24.880 --> 01:32:40.880 align:start position:0%
+ Yeah. That's what he came up with. So, okay, I think we're done. Yeah. Yeah, I think we are done. Can we get so many IPC's for the demo? Absolutely. Absolutely. Okay. Thank you, Brian.
+
+01:32:40.880 --> 01:32:44.880 align:start position:0%
+ Yeah.
+
+01:32:44.880 --> 01:32:50.880 align:start position:0%
+ Yeah, I would have loved to be helping the boiler makers last night, but my jump shot, you know, okay.
+
+01:32:50.880 --> 01:32:57.880 align:start position:0%
+ You know, everything I've talked about today, it's not going to happen overnight, but it's also not going to take long.
+
+01:32:57.880 --> 01:33:07.880 align:start position:0%
+ Yeah, we see this enterprise AI transformation, you know, happening right around us today, but we see it unfolding in three different stages.
+
+01:33:07.880 --> 01:33:15.880 align:start position:0%
+ First, the age of the AI copilot. And you saw that today. I got this like really smart thing, helping me do my job better.
+
+01:33:15.880 --> 01:33:24.880 align:start position:0%
+ You know, helping me automate streamline optimize my tasks. And we expect productivity improvements to maybe 25%, you know, from those kind of capabilities.
+
+01:33:24.880 --> 01:33:34.880 align:start position:0%
+ But the second age is die upon us. The age of agents where the AI automates entire workflows. And you know, think about this like an autonomous car.
+
+01:33:34.880 --> 01:33:58.880 align:start position:0%
+ I let go of the wheel and it's doing it for me. The age of AI agents is not upon us. And we expect that enterprises will develop the main specific models and agents will program to act autonomously, you know, through their periods and check out agents and compliance and customer service automatically partnering with us seven by 24.
+
+01:33:58.880 --> 01:34:07.880 align:start position:0%
+ And with this, you know, just being able to unlock next phases of productivity, but the third age.
+
+01:34:07.880 --> 01:34:25.880 align:start position:0%
+ The age of functions where agents start to interact with other agents and literally entire departments become AI automated solutions. And maybe we'll have the age of the first one person billion dollar company as we look to it.
+
+01:34:25.880 --> 01:34:37.880 align:start position:0%
+ But we need to be careful and be careful not to get stuck in the world's data. That's still held inside of these databases on prem. That's not being leveraged today.
+
+01:34:37.880 --> 01:34:49.880 align:start position:0%
+ And how do we, you know, bring this to every portion of our business operations as you saw. I need to transform my manufacturing in our fabs.
+
+01:34:49.880 --> 01:35:02.880 align:start position:0%
+ And we need to be able to get across the labor. We have to innovate them using AI to drive our fabs and manufacturing and each one of you need to do the same for your businesses as well.
+
+01:35:02.880 --> 01:35:17.880 align:start position:0%
+ Where the technology is gaining cognitive capabilities as strong as humans in different domains. And we expect that we need not a little bit more computing power, but 10,000 times more computing power for this generation.
+
+01:35:17.880 --> 01:35:29.880 align:start position:0%
+ And we're achieving full AGI capabilities, literally this decade. And as stewards of Moore's law, we're going to relentlessly pursue more power efficient computing.
+
+01:35:29.880 --> 01:35:38.880 align:start position:0%
+ Because all of this that we've talked about today, everything we've talked about is made possible by the power of silicon.
+
+01:35:38.880 --> 01:35:47.880 align:start position:0%
+ And we're going to start every company is going to become an AI company together will unleash the power of your data. We're going to accelerate your productivity.
+
+01:35:47.880 --> 01:35:59.880 align:start position:0%
+ We're going to enable your workforce. We're going to vastly improve the ROI of your technology investments, all while making it more sustainable and secure.
+
+01:35:59.880 --> 01:36:07.880 align:start position:0%
+ Intel, we were made for moments like this. Together with all of you, we're going to change the world again.
+
+01:36:07.880 --> 01:36:08.880 align:start position:0%
+ Thank you.
+
+01:36:37.880 --> 01:36:39.880 align:start position:0%
+ Thank you.
+
+01:37:08.880 --> 01:37:14.880 align:start position:0%
+ I'm feeling
+
+01:37:14.880 --> 01:37:21.880 align:start position:0%
+ I'm feeling
+
+01:37:21.880 --> 01:37:29.880 align:start position:0%
+ I'm feeling good. It just gets that off. Don't want to miss it.
+

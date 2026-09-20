@@ -37,7 +37,15 @@ def extract_text(query_file, request_tok_path, output_file):
             print(f"Warning: File not found: {request_file_path}")
         
     df = pd.DataFrame(rows)
-    df.set_index('psg_id', inplace=True)
+    
+    # SAFETY CHECK: Only set the index if the dataframe is not empty
+    if not df.empty:
+        df.set_index('psg_id', inplace=True)
+    else:
+        # If it's empty, create a dummy column so it doesn't crash later
+        df['psg_id'] = []
+        df.set_index('psg_id', inplace=True)
+        
     df.to_parquet(output_file)
     print(f"Saved {len(df)} passages to {output_file}")
 

@@ -1,0 +1,2318 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:26.693 --> 00:00:28.561
+It's like reading my mind.
+
+00:00:28.561 --> 00:00:29.896
+It's magic.
+
+00:00:33.266 --> 00:00:34.501
+We're innovating
+
+00:00:34.501 --> 00:00:36.569
+at a scale like never before.
+
+00:00:37.037 --> 00:00:38.905
+It takes what you prompt it with
+
+00:00:38.905 --> 00:00:40.507
+and just runs with it.
+
+00:00:45.111 --> 00:00:46.146
+Everything is linked.
+
+00:00:46.146 --> 00:00:47.847
+Everything is easy to use.
+
+00:00:48.815 --> 00:00:51.117
+We're accelerating how fast we can deliver
+
+00:00:51.117 --> 00:00:53.053
+solutions to our fans, to our business.
+
+00:00:55.488 --> 00:00:57.123
+It takes the hands-on time
+
+00:00:57.123 --> 00:00:58.291
+that the provider has to spend
+
+00:00:58.291 --> 00:00:59.292
+with the computer
+
+00:00:59.292 --> 00:01:02.195
+and puts that time back with the patient.
+
+00:01:02.195 --> 00:01:04.831
+It allows for the patient and doctor
+
+00:01:04.831 --> 00:01:06.699
+to be a patient and a doctor
+
+00:01:06.699 --> 00:01:08.068
+like it used to be.
+
+00:01:08.068 --> 00:01:08.902
+It's fundamentally
+
+00:01:08.902 --> 00:01:10.070
+about amplifying what
+every person is able to do.
+
+00:01:10.070 --> 00:01:11.271
+every person is able to do.
+
+00:01:14.874 --> 00:01:17.043
+This opens up the opportunity
+
+00:01:17.043 --> 00:01:17.877
+for that farmer,
+
+00:01:17.877 --> 00:01:18.978
+for that girl in the village
+
+00:01:18.978 --> 00:01:20.580
+who's trying to go to college
+
+00:01:20.580 --> 00:01:21.948
+to find out what more
+
+00:01:21.948 --> 00:01:22.782
+can they do with their life.
+
+00:01:56.900 --> 00:02:02.355
+Good morning.
+
+00:02:02.355 --> 00:02:02.956
+Good morning.
+
+00:02:02.956 --> 00:02:04.908
+It's fantastic to see you all.
+
+00:02:04.908 --> 00:02:06.910
+Welcome to Build, all of those
+
+00:02:06.910 --> 00:02:08.178
+who made it here.
+
+00:02:08.178 --> 00:02:08.661
+You know, it's
+
+00:02:08.661 --> 00:02:10.513
+fantastic to be back together
+
+00:02:10.513 --> 00:02:13.333
+physically and everyone joining online.
+
+00:02:13.333 --> 00:02:16.302
+You know, these developer conferences are special
+
+00:02:16.302 --> 00:02:19.639
+times, special places to be,
+
+00:02:19.639 --> 00:02:23.927
+especially when platform shifts are in the air.
+
+00:02:23.927 --> 00:02:29.682
+I distinctly remember my first PDC in 1991,
+
+00:02:29.682 --> 00:02:33.136
+driving up 101 into Moscone Center,
+
+00:02:33.136 --> 00:02:37.240
+and my life changed after that
+
+00:02:37.240 --> 00:02:38.474
+developer conference.
+
+00:02:38.474 --> 00:02:40.243
+So it's exciting to be able
+
+00:02:40.243 --> 00:02:44.414
+to come back to Build 2023 with that same sense
+
+00:02:44.414 --> 00:02:48.401
+of anticipation of something big that is shifting
+
+00:02:48.401 --> 00:02:51.020
+around us as developers.
+
+00:02:51.020 --> 00:02:53.506
+To just sort of put this in perspective,
+
+00:02:53.506 --> 00:02:57.043
+in fact, last summer I was reading
+
+00:02:57.043 --> 00:02:59.963
+Mitchell Waldrop's Dream Machine
+
+00:02:59.963 --> 00:03:03.516
+while I was playing with DV3, as GPT-4
+
+00:03:03.516 --> 00:03:07.187
+was called then, Da Vinci 3
+
+00:03:07.187 --> 00:03:10.456
+and it just brought to -
+
+00:03:10.456 --> 00:03:14.894
+it brought in perspective what this is all about.
+
+00:03:14.894 --> 00:03:18.314
+I think that that concept of “Dream Machine”
+
+00:03:18.314 --> 00:03:21.084
+perhaps best communicates
+
+00:03:21.084 --> 00:03:23.269
+what we have really been doing
+
+00:03:23.269 --> 00:03:24.971
+over the last 70 years, right?
+
+00:03:24.971 --> 00:03:25.638
+All the ways,
+
+00:03:25.638 --> 00:03:27.190
+starting with
+
+00:03:27.190 --> 00:03:29.576
+what Vannevar Bush wrote in his most
+
+00:03:29.576 --> 00:03:31.211
+seminal paper
+
+00:03:31.211 --> 00:03:32.195
+As We May Think,
+
+00:03:32.195 --> 00:03:33.980
+where he had all these concepts
+
+00:03:33.980 --> 00:03:36.349
+like associative memory,
+
+00:03:36.349 --> 00:03:38.484
+or what Licklider was the first one
+
+00:03:38.484 --> 00:03:39.736
+who even conceptualized
+
+00:03:39.736 --> 00:03:42.472
+the human computer symbiosis,
+
+00:03:42.472 --> 00:03:44.874
+The Mother of All Demos
+
+00:03:44.874 --> 00:03:50.079
+that came in ‘68 to the Xerox Alto,
+
+00:03:50.079 --> 00:03:53.449
+and then, of course, the PDC that I attended,
+
+00:03:53.449 --> 00:03:57.887
+which was the PC server one in ‘91,
+
+00:03:57.887 --> 00:04:01.724
+‘93 is when we had the mosaic moment,
+
+00:04:01.724 --> 00:04:04.811
+then there was iPhone and the cloud,
+
+00:04:04.811 --> 00:04:08.982
+and all of these would be one continuous journey.
+
+00:04:08.982 --> 00:04:12.285
+And then, in fact, the other thing I always loved
+
+00:04:12.285 --> 00:04:13.219
+is Jobs's
+
+00:04:13.219 --> 00:04:14.954
+description of computers
+
+00:04:14.954 --> 00:04:16.606
+as bicycles for the mind.
+
+00:04:16.606 --> 00:04:18.258
+It's sort of a beautiful metaphor.
+
+00:04:18.258 --> 00:04:19.092
+I think it captures
+
+00:04:19.092 --> 00:04:22.161
+the essence of what computing is.
+
+00:04:22.161 --> 00:04:24.864
+But then last November,
+
+00:04:24.864 --> 00:04:27.100
+we got an upgrade, right?
+
+00:04:27.100 --> 00:04:32.171
+We went from the bicycle to the steam engine.
+
+00:04:32.171 --> 00:04:35.275
+With the launch of ChatGPT,
+
+00:04:35.275 --> 00:04:39.679
+it was like the mosaic moment for this generation
+
+00:04:39.679 --> 00:04:42.015
+of the AI platform.
+
+00:04:42.015 --> 00:04:45.685
+And now we look forward to, as developers,
+
+00:04:45.685 --> 00:04:48.404
+what we can do going forward.
+
+00:04:48.404 --> 00:04:50.473
+And so it's an exciting time.
+
+00:04:50.473 --> 00:04:53.393
+And in fact, every layer of the software stack
+
+00:04:53.393 --> 00:04:56.629
+is going to be changed forever.
+
+00:04:56.629 --> 00:04:58.848
+And no better place to start
+
+00:04:58.848 --> 00:05:01.851
+than the actual developer stack, right?
+
+00:05:01.884 --> 00:05:03.886
+We, as developers,
+
+00:05:03.886 --> 00:05:07.790
+how do we build is fundamentally changing.
+
+00:05:07.790 --> 00:05:10.960
+In fact, when I think about how we build,
+
+00:05:10.960 --> 00:05:13.997
+I think about first Codespaces, right?
+
+00:05:13.997 --> 00:05:17.233
+Being able to set up that environment in,
+
+00:05:17.233 --> 00:05:19.902
+you know, in seconds was versus minutes.
+
+00:05:19.902 --> 00:05:21.821
+Dev Box, you know,
+
+00:05:21.821 --> 00:05:23.423
+instead of waiting for a day
+
+00:05:23.423 --> 00:05:24.173
+for your managed
+
+00:05:24.173 --> 00:05:25.541
+dev box to be set up,
+
+00:05:25.541 --> 00:05:28.277
+you have it in less than an hour.
+
+00:05:28.277 --> 00:05:31.514
+If you think about Copilot, what it does to you,
+
+00:05:31.514 --> 00:05:32.815
+and Copilot X,
+
+00:05:32.815 --> 00:05:34.784
+in terms of driving the overall flow
+
+00:05:34.784 --> 00:05:39.072
+and productivity, which is, what, 54% or so up.
+
+00:05:39.072 --> 00:05:40.823
+And then of course GitHub Actions
+
+00:05:40.823 --> 00:05:43.993
+and Azure Deployment Environments,
+
+00:05:43.993 --> 00:05:46.913
+really making that possible for you to stay.
+
+00:05:46.913 --> 00:05:48.498
+In fact, one of the things that I keep on
+
+00:05:48.498 --> 00:05:50.450
+bugging Scott Guthrie for years is,
+
+00:05:50.450 --> 00:05:52.285
+“Hey, I want to stay in VS code,
+
+00:05:52.285 --> 00:05:53.953
+I want to stay in command line
+
+00:05:53.953 --> 00:05:56.089
+and let me do everything there.”
+
+00:05:56.089 --> 00:05:59.142
+We are close, close to that dream.
+
+00:05:59.142 --> 00:06:02.628
+And that to me is bringing back
+
+00:06:02.628 --> 00:06:05.365
+both the joy of programming
+
+00:06:05.365 --> 00:06:08.201
+and the flow of programming.
+
+00:06:08.201 --> 00:06:10.603
+That ability to be able to stay on
+
+00:06:10.603 --> 00:06:14.090
+task, it's just so wonderful to see.
+
+00:06:14.090 --> 00:06:19.195
+So how we build software is radically different,
+
+00:06:19.195 --> 00:06:23.332
+but what we are going to build as developers
+
+00:06:23.332 --> 00:06:27.370
+is really the story of this developer conference.
+
+00:06:27.370 --> 00:06:28.971
+And what we build -
+
+00:06:28.971 --> 00:06:30.173
+we've been, you know,
+
+00:06:30.173 --> 00:06:33.042
+it's not like I came in on January 1st and said,
+
+00:06:33.042 --> 00:06:34.577
+“Let's start doing press releases.”
+
+00:06:34.577 --> 00:06:37.063
+But it does feel like that.
+
+00:06:37.063 --> 00:06:39.348
+It does feel like every week
+
+00:06:39.348 --> 00:06:41.617
+there is something new and,
+
+00:06:41.617 --> 00:06:43.786
+you know, we’re infusing
+
+00:06:43.786 --> 00:06:47.440
+this new AI stack across all layers of it, right?
+
+00:06:47.440 --> 00:06:50.626
+So we started with tooling in GitHub -
+
+00:06:50.626 --> 00:06:53.513
+or rather, Copilot in GitHub.
+
+00:06:53.513 --> 00:06:56.783
+We did Copilot in Power Platform.
+
+00:06:56.783 --> 00:06:58.151
+And when it comes to productivity,
+
+00:06:58.151 --> 00:07:00.203
+Copilot in Microsoft 365,
+
+00:07:00.203 --> 00:07:01.404
+Copilot in Viva.
+
+00:07:01.404 --> 00:07:02.605
+With business process, it's
+
+00:07:02.605 --> 00:07:05.425
+the copilot in Dynamics 365.
+
+00:07:05.425 --> 00:07:09.412
+And when it comes to industry sort of workflows,
+
+00:07:09.412 --> 00:07:11.147
+what Nuance has done with DAX
+
+00:07:11.147 --> 00:07:14.000
+or the Security Copilot.
+
+00:07:14.000 --> 00:07:15.051
+Or the copilot,
+
+00:07:15.051 --> 00:07:17.620
+of course, for the web in Bing and Edge,
+
+00:07:17.620 --> 00:07:20.506
+features in LinkedIn, which are driven by AI,
+
+00:07:20.506 --> 00:07:22.525
+and of course the AI infrastructure
+
+00:07:22.525 --> 00:07:24.627
+with Azure OpenAI APIs
+
+00:07:24.627 --> 00:07:26.562
+and everything else around it, right?
+
+00:07:26.562 --> 00:07:28.731
+So every layer of the stack
+
+00:07:28.731 --> 00:07:31.934
+is profoundly changing.
+
+00:07:31.934 --> 00:07:35.238
+And we today are going to -
+
+00:07:35.238 --> 00:07:36.856
+as part of this developer conference,
+
+00:07:36.856 --> 00:07:40.960
+we're going to have 50+ more announcements,
+
+00:07:40.960 --> 00:07:44.147
+but I want to highlight five of them.
+
+00:07:44.147 --> 00:07:48.084
+The first is we are bringing
+
+00:07:48.084 --> 00:07:51.888
+search grounding in Bing to ChatGPT.
+
+00:07:51.888 --> 00:07:53.873
+We are very excited about this.
+
+00:07:53.873 --> 00:08:00.313
+Yeah, you can clap!
+
+00:08:00.313 --> 00:08:04.183
+Look, ChatGPT is the most fast-growing
+
+00:08:04.183 --> 00:08:07.670
+consumer app we've ever seen
+
+00:08:07.670 --> 00:08:11.090
+and such grounding is a very key feature, right?
+
+00:08:11.090 --> 00:08:13.092
+So that all the information is current
+
+00:08:13.092 --> 00:08:15.811
+and grounded by what you have
+
+00:08:15.811 --> 00:08:17.480
+from the crawl and the index.
+
+00:08:17.480 --> 00:08:18.798
+And so it's fantastic to see
+
+00:08:18.798 --> 00:08:20.016
+that we are excited to be able -
+
+00:08:20.016 --> 00:08:22.318
+it’s going to launch in ChatGPT+
+
+00:08:22.318 --> 00:08:23.519
+immediately and quickly coming
+
+00:08:23.519 --> 00:08:25.121
+even to the free tier.
+
+00:08:25.121 --> 00:08:28.524
+And this is just the start of what we plan to do
+
+00:08:28.524 --> 00:08:30.059
+with our partners in OpenAI
+
+00:08:30.059 --> 00:08:35.364
+to bring the best of Bing to the ChatGPT experience.
+
+00:08:35.364 --> 00:08:37.149
+Next, we are bringing
+
+00:08:37.149 --> 00:08:40.269
+the copilot to the biggest canvas of all:
+
+00:08:40.269 --> 00:08:47.260
+Windows.
+
+00:08:47.260 --> 00:08:49.245
+You're going to hear a lot from Panos
+
+00:08:49.245 --> 00:08:52.248
+tomorrow about it, but I think that this is going
+
+00:08:52.248 --> 00:08:55.651
+to make every user a power user of Windows.
+
+00:08:55.651 --> 00:08:58.654
+Let's roll the video.
+
+00:10:22.004 --> 00:10:25.007
+It's so cool.
+
+00:10:29.745 --> 00:10:32.632
+So we're going to talk a lot more about Windows,
+
+00:10:32.632 --> 00:10:36.319
+you know, tomorrow when Panos is up here.
+
+00:10:36.319 --> 00:10:39.522
+The other thing that we're also very excited to
+
+00:10:39.522 --> 00:10:42.892
+launch is the Copilot stack, right?
+
+00:10:42.892 --> 00:10:44.694
+After all, we've built all these copilots
+
+00:10:44.694 --> 00:10:47.296
+with one common architectural stack.
+
+00:10:47.296 --> 00:10:48.731
+We want to make that available
+
+00:10:48.731 --> 00:10:50.082
+so that everyone here
+
+00:10:50.082 --> 00:10:51.767
+can build their own copilot
+
+00:10:51.767 --> 00:10:53.719
+for their applications.
+
+00:10:53.719 --> 00:10:56.889
+We will have everything from the AI
+
+00:10:56.889 --> 00:11:00.309
+infrastructure to the foundation models to the
+
+00:11:00.309 --> 00:11:03.529
+AI orchestration all the way up to your copilot
+
+00:11:03.529 --> 00:11:04.947
+and its extensibility.
+
+00:11:04.947 --> 00:11:06.916
+In fact, the other thing that we're going to do
+
+00:11:06.916 --> 00:11:07.933
+is have common
+
+00:11:07.933 --> 00:11:10.219
+extensibility across
+
+00:11:10.219 --> 00:11:11.837
+all of these surfaces, right?
+
+00:11:11.837 --> 00:11:13.422
+Whether it is ChatGPT,
+
+00:11:13.422 --> 00:11:16.492
+Bing Chat, Microsoft 365 Copilot,
+
+00:11:16.492 --> 00:11:18.160
+or all of the Microsoft copilots,
+
+00:11:18.160 --> 00:11:20.296
+and of course, your own copilots,
+
+00:11:20.296 --> 00:11:23.382
+we can share the same extensibility model.
+
+00:11:23.382 --> 00:11:25.217
+This is one of the most powerful things
+
+00:11:25.217 --> 00:11:26.652
+for your developers -
+
+00:11:26.652 --> 00:11:29.004
+for every developer to be able to write a plugin
+
+00:11:29.004 --> 00:11:31.757
+and have it reach billions of users
+
+00:11:31.757 --> 00:11:33.793
+across all of these surface areas.
+
+00:11:33.793 --> 00:11:36.228
+So to be able to show you everything
+
+00:11:36.228 --> 00:11:37.012
+in action
+
+00:11:37.012 --> 00:11:39.582
+from both the plugin extensibility
+
+00:11:39.582 --> 00:11:41.684
+to all of the copilots we announced,
+
+00:11:41.684 --> 00:11:44.303
+let me right up on stage Yusuf Mehdi
+
+00:11:44.303 --> 00:11:45.521
+to come show you all of this.
+
+00:11:45.521 --> 00:11:48.641
+Yusuf, let me throw it over to you.
+
+00:11:48.641 --> 00:11:52.344
+Hi, everybody.
+
+00:11:52.344 --> 00:11:53.879
+We're making fast progress on
+
+00:11:53.879 --> 00:11:56.065
+delivering our vision of your copilot
+
+00:11:56.065 --> 00:11:58.134
+for the web and for business.
+
+00:11:58.134 --> 00:11:59.585
+And today, as Satya said,
+
+00:11:59.585 --> 00:12:01.120
+we're excited to announce
+
+00:12:01.120 --> 00:12:01.670
+that we're going to bring
+
+00:12:01.670 --> 00:12:03.989
+ChatGPT and Bing together
+
+00:12:03.989 --> 00:12:06.208
+as the default search experience
+
+00:12:06.208 --> 00:12:07.877
+to give you higher quality answers
+
+00:12:07.877 --> 00:12:09.462
+and more timely answers.
+
+00:12:09.462 --> 00:12:10.830
+Let's take a look.
+
+00:12:10.830 --> 00:12:12.381
+Here I am in ChatGPT.
+
+00:12:12.381 --> 00:12:13.933
+And as you can see now,
+
+00:12:13.933 --> 00:12:15.234
+Bing is the default
+
+00:12:15.234 --> 00:12:16.919
+and when I come in and select it,
+
+00:12:16.919 --> 00:12:19.321
+I can now ask sort of real-time queries.
+
+00:12:19.321 --> 00:12:20.206
+For example,
+
+00:12:20.206 --> 00:12:22.708
+let's ask what I should expect to hear
+
+00:12:22.708 --> 00:12:24.894
+about Build and .NET.
+
+00:12:24.894 --> 00:12:26.695
+And what you can see is the results
+
+00:12:26.695 --> 00:12:28.247
+now are more up to date.
+
+00:12:28.247 --> 00:12:29.598
+They include fresh content
+
+00:12:29.598 --> 00:12:31.167
+and they include citations.
+
+00:12:31.167 --> 00:12:32.418
+In fact, if you can see the links
+
+00:12:32.418 --> 00:12:33.569
+on that page there,
+
+00:12:33.569 --> 00:12:34.403
+you can click those
+
+00:12:34.403 --> 00:12:35.538
+and those will take you straight
+
+00:12:35.538 --> 00:12:38.491
+to a web page that's sourced by Bing.
+
+00:12:38.491 --> 00:12:39.542
+We're also excited -
+
+00:12:39.542 --> 00:12:40.943
+yeah, absolutely, you can clap!
+
+00:12:45.064 --> 00:12:46.549
+We're also excited to announce
+
+00:12:46.549 --> 00:12:47.366
+that we're going to bring
+
+00:12:47.383 --> 00:12:50.936
+interoperability between ChatGPT and Bing
+
+00:12:50.936 --> 00:12:51.821
+for plugins.
+
+00:12:51.821 --> 00:12:53.005
+So you write them once
+
+00:12:53.005 --> 00:12:54.673
+and they're going to run everywhere.
+
+00:12:54.673 --> 00:12:56.709
+So as you can see here in ChatGPT,
+
+00:12:56.709 --> 00:12:58.844
+I've got Zillow and Instacart enabled,
+
+00:12:58.844 --> 00:13:00.162
+but I want to show them to you
+
+00:13:00.162 --> 00:13:01.130
+here in Bing Chat.
+
+00:13:01.130 --> 00:13:02.531
+So we'll flip over
+
+00:13:02.531 --> 00:13:03.549
+and you can see again,
+
+00:13:03.549 --> 00:13:05.384
+I've got the same plugins now
+
+00:13:05.384 --> 00:13:08.154
+in both Bing Chat and in ChatGPT.
+
+00:13:08.154 --> 00:13:09.889
+And what we're going to show you now is
+
+00:13:09.889 --> 00:13:11.106
+I'll do a search here for
+
+00:13:11.106 --> 00:13:12.525
+houses in Chicago.
+
+00:13:12.525 --> 00:13:13.959
+And I can ask for a set of criteria,
+
+00:13:13.959 --> 00:13:14.743
+I'll learn a little bit about
+
+00:13:14.743 --> 00:13:16.061
+the neighborhoods.
+
+00:13:16.061 --> 00:13:18.531
+And now I can automatically call Zillow
+
+00:13:18.531 --> 00:13:19.165
+by saying,
+
+00:13:19.165 --> 00:13:20.416
+hey, give me three houses
+
+00:13:20.416 --> 00:13:21.801
+in a certain price range
+
+00:13:21.801 --> 00:13:23.619
+that meet my criteria.
+
+00:13:23.619 --> 00:13:25.137
+And what you can see
+
+00:13:25.137 --> 00:13:27.106
+is now I get these great options
+
+00:13:27.106 --> 00:13:28.007
+and I'm also going to get
+
+00:13:28.007 --> 00:13:29.024
+all of the other great things
+
+00:13:29.024 --> 00:13:30.009
+you get with Bing, like
+
+00:13:30.009 --> 00:13:33.512
+helpful city guides and maps and prompts.
+
+00:13:33.512 --> 00:13:34.330
+I'm going to tell you now how
+
+00:13:34.330 --> 00:13:35.331
+we're going to further add value
+
+00:13:35.331 --> 00:13:36.699
+to the plugins that you write.
+
+00:13:36.699 --> 00:13:37.299
+They're going to work
+
+00:13:37.299 --> 00:13:39.385
+not just in chat and ChatGPT,
+
+00:13:39.385 --> 00:13:39.885
+they're going to work
+
+00:13:39.885 --> 00:13:41.620
+across the entire Web,
+
+00:13:41.620 --> 00:13:43.489
+courtesy of the Edge browser.
+
+00:13:43.489 --> 00:13:44.456
+So here's an example.
+
+00:13:44.456 --> 00:13:45.374
+I'm on a web page
+
+00:13:45.374 --> 00:13:47.593
+here checking out a recipe for a cake,
+
+00:13:47.593 --> 00:13:49.645
+and now I can call Bing Chat
+
+00:13:49.645 --> 00:13:50.746
+and ask it to tell me,
+
+00:13:50.746 --> 00:13:52.031
+hey, give me the ingredients
+
+00:13:52.031 --> 00:13:53.299
+from this web page.
+
+00:13:53.299 --> 00:13:54.567
+And notice Bing can read
+
+00:13:54.567 --> 00:13:56.001
+the context of the Web page,
+
+00:13:56.001 --> 00:13:57.703
+understand those ingredients,
+
+00:13:57.703 --> 00:13:58.938
+put them into chat,
+
+00:13:58.938 --> 00:13:59.839
+and then I can say,
+
+00:13:59.839 --> 00:14:01.457
+hey, give me a shopping list for this,
+
+00:14:01.457 --> 00:14:02.658
+and it'll automatically call
+
+00:14:02.658 --> 00:14:04.343
+the Instacart plugin,
+
+00:14:04.343 --> 00:14:05.561
+take those ingredients
+
+00:14:05.561 --> 00:14:06.345
+right off the page,
+
+00:14:06.345 --> 00:14:09.114
+and put them into an Instacart shopping.
+
+00:14:09.114 --> 00:14:10.249
+And with one click,
+
+00:14:10.249 --> 00:14:11.200
+I can get those now
+
+00:14:11.200 --> 00:14:12.618
+delivered to my house.
+
+00:14:12.618 --> 00:14:13.552
+This is incredible
+
+00:14:13.552 --> 00:14:14.920
+productivity benefit for people.
+
+00:14:22.978 --> 00:14:24.480
+Let's show you how you'll be
+
+00:14:24.480 --> 00:14:25.965
+more productive at work.
+
+00:14:25.965 --> 00:14:27.333
+Here I'm going to use
+
+00:14:27.333 --> 00:14:29.885
+Microsoft 365 Copilot.
+
+00:14:29.885 --> 00:14:31.387
+Now I'm in Microsoft Word
+
+00:14:31.387 --> 00:14:32.972
+and I'm going to need some help
+
+00:14:32.972 --> 00:14:34.440
+for drafting a legal contract.
+
+00:14:34.440 --> 00:14:36.008
+I got a legal contract here
+
+00:14:36.008 --> 00:14:38.277
+and I need some help with California law.
+
+00:14:38.277 --> 00:14:39.845
+So I'm going to call three plugins
+
+00:14:39.845 --> 00:14:40.713
+from Thomson Reuters
+
+00:14:40.713 --> 00:14:42.514
+to edit this document.
+
+00:14:42.514 --> 00:14:44.400
+First thing is, I'll go into Copilot
+
+00:14:44.400 --> 00:14:46.302
+and I'll pull it up and I'll say,
+
+00:14:46.302 --> 00:14:47.686
+hey, help me understand
+
+00:14:47.686 --> 00:14:50.272
+how to edit the limitation of liability
+
+00:14:50.272 --> 00:14:52.658
+using the practical law plugin.
+
+00:14:52.658 --> 00:14:53.976
+It'll read the document,
+
+00:14:53.976 --> 00:14:57.062
+find the paragraph, and make that change.
+
+00:14:57.062 --> 00:14:58.147
+Next, I want to know
+
+00:14:58.163 --> 00:14:59.348
+if this is enforceable
+
+00:14:59.348 --> 00:15:00.866
+under California law,
+
+00:15:00.866 --> 00:15:02.918
+so I'll call the Westlaw plugin
+
+00:15:02.918 --> 00:15:04.236
+that will do that analysis
+
+00:15:04.236 --> 00:15:05.070
+and it'll come back
+
+00:15:05.070 --> 00:15:06.522
+and give you an analysis about it
+
+00:15:06.522 --> 00:15:08.457
+from a legal perspective.
+
+00:15:08.457 --> 00:15:09.258
+And finally,
+
+00:15:09.258 --> 00:15:10.359
+since we're making lots of changes,
+
+00:15:10.359 --> 00:15:11.410
+I'd like to know
+
+00:15:11.410 --> 00:15:13.362
+the summary of all of these changes.
+
+00:15:13.362 --> 00:15:14.647
+And with Document Intelligence,
+
+00:15:14.647 --> 00:15:16.115
+I get a simple table
+
+00:15:16.115 --> 00:15:17.766
+that shows you all of those changes
+
+00:15:17.766 --> 00:15:19.618
+in an easy-to-read format.
+
+00:15:19.618 --> 00:15:20.653
+By joining the power of
+
+00:15:20.653 --> 00:15:23.138
+Microsoft 365 Copilot in Word
+
+00:15:23.138 --> 00:15:23.856
+with the support
+
+00:15:23.856 --> 00:15:25.274
+of these real powerful plugins
+
+00:15:25.274 --> 00:15:26.342
+like Thomson Reuters,
+
+00:15:26.342 --> 00:15:28.143
+now you can draft a legal contract
+
+00:15:28.143 --> 00:15:29.578
+in so much more powerful way.
+
+00:15:30.779 --> 00:15:32.014
+Let me show you one more.
+
+00:15:32.014 --> 00:15:33.532
+Here I am in Teams chat
+
+00:15:33.549 --> 00:15:34.733
+and I'm engaging with
+
+00:15:34.733 --> 00:15:36.251
+Microsoft 365 Copilot
+
+00:15:36.251 --> 00:15:38.220
+to track website changes.
+
+00:15:38.220 --> 00:15:40.556
+Copilot will just call the Atlassian plugin
+
+00:15:40.556 --> 00:15:41.607
+to help.
+
+00:15:41.607 --> 00:15:43.943
+Atlassian Jira specializes in project
+
+00:15:43.943 --> 00:15:45.210
+and issue tracking.
+
+00:15:45.210 --> 00:15:46.679
+So it'll pull the Jira ticket
+
+00:15:46.679 --> 00:15:48.364
+automatically with the plugin.
+
+00:15:48.364 --> 00:15:50.099
+And now all I have to do is
+
+00:15:50.099 --> 00:15:51.834
+assign an owner
+
+00:15:51.834 --> 00:15:53.819
+using the Azure Active Directory
+
+00:15:53.819 --> 00:15:54.586
+and that's it.
+
+00:15:54.586 --> 00:15:55.955
+It's all done.
+
+00:15:55.955 --> 00:15:56.822
+So with plugins
+
+00:15:56.822 --> 00:15:58.891
+and Microsoft 365 Copilot,
+
+00:15:58.891 --> 00:16:00.876
+you can intelligent reason across
+
+00:16:00.876 --> 00:16:02.127
+all of your business apps
+
+00:16:02.127 --> 00:16:03.145
+and the data stored
+
+00:16:03.145 --> 00:16:04.446
+on the Microsoft Graph
+
+00:16:04.446 --> 00:16:06.632
+to keep you in your flow.
+
+00:16:06.632 --> 00:16:08.901
+Finally, as Satya shared,
+
+00:16:08.901 --> 00:16:10.636
+we're excited to announce the
+
+00:16:10.636 --> 00:16:12.121
+Windows Copilot.
+
+00:16:12.121 --> 00:16:13.255
+I think it's going to change
+
+00:16:13.255 --> 00:16:15.257
+how you use your PC forever.
+
+00:16:15.574 --> 00:16:16.642
+Let me show it to you.
+
+00:16:16.642 --> 00:16:19.528
+Here I am, in a coding project on my PC,
+
+00:16:19.528 --> 00:16:21.213
+but I want to configure my PC
+
+00:16:21.213 --> 00:16:22.314
+to help me be more creative
+
+00:16:22.314 --> 00:16:23.749
+and more productive.
+
+00:16:23.749 --> 00:16:24.800
+All I have to do now
+
+00:16:24.800 --> 00:16:26.602
+is invoke the Windows Copilot.
+
+00:16:26.602 --> 00:16:28.887
+I now just come down here to the taskbar.
+
+00:16:28.887 --> 00:16:29.822
+I click on that
+
+00:16:29.822 --> 00:16:31.140
+and now we'll pop up the
+
+00:16:31.140 --> 00:16:32.725
+Windows Copilot on the right.
+
+00:16:32.725 --> 00:16:34.576
+This side pane here will be consistent
+
+00:16:34.576 --> 00:16:37.262
+across every app that you use on your PC.
+
+00:16:37.262 --> 00:16:38.664
+And just like with Bing Chat,
+
+00:16:38.664 --> 00:16:40.499
+I can now ask it questions like,
+
+00:16:40.499 --> 00:16:41.700
+how can I adjust my system
+
+00:16:41.700 --> 00:16:42.901
+to get work done?
+
+00:16:42.901 --> 00:16:43.802
+And not only will I get
+
+00:16:43.802 --> 00:16:45.054
+a bunch of great suggestions,
+
+00:16:45.054 --> 00:16:45.904
+but watch this.
+
+00:16:45.904 --> 00:16:47.456
+I can now, with one click,
+
+00:16:47.456 --> 00:16:49.024
+take action on those suggestions.
+
+00:16:49.024 --> 00:16:51.210
+For example, I can put into focus mode.
+
+00:16:52.344 --> 00:16:53.979
+I also know that as developers,
+
+00:16:53.979 --> 00:16:54.830
+we like dark mode -
+
+00:16:54.830 --> 00:16:56.432
+there's a suggestion here for dark mode -
+
+00:16:56.432 --> 00:16:57.566
+so with one click,
+
+00:16:57.566 --> 00:16:59.551
+I'm now here on the dark side
+
+00:16:59.551 --> 00:17:01.503
+and to really get going,
+
+00:17:01.503 --> 00:17:03.472
+I want to get that coding playlist going.
+
+00:17:03.472 --> 00:17:05.758
+So I'll pull the plugin from Spotify
+
+00:17:05.758 --> 00:17:08.610
+and say, give me a great coding playlist.
+
+00:17:08.610 --> 00:17:10.763
+In this case, Chill Vibes will come up,
+
+00:17:10.763 --> 00:17:12.564
+and now I'll have it ready to go.
+
+00:17:12.564 --> 00:17:13.282
+And finally,
+
+00:17:13.282 --> 00:17:14.550
+there's a suggestion here
+
+00:17:14.550 --> 00:17:16.535
+that says, hey, to organize your PC,
+
+00:17:16.535 --> 00:17:18.020
+let's take advantage of snap.
+
+00:17:18.020 --> 00:17:18.904
+So with one click,
+
+00:17:18.904 --> 00:17:20.639
+it snaps all the windows
+
+00:17:20.639 --> 00:17:21.540
+right in the place.
+
+00:17:21.540 --> 00:17:24.159
+I need them so I can be super productive.
+
+00:17:24.159 --> 00:17:25.077
+What do you think?
+
+00:17:30.632 --> 00:17:31.767
+So as you can see,
+
+00:17:31.767 --> 00:17:33.152
+we have an incredible array
+
+00:17:33.152 --> 00:17:35.187
+of powerful AI-powered copilots.
+
+00:17:35.187 --> 00:17:36.655
+We've got over 50 plugins
+
+00:17:36.655 --> 00:17:37.473
+already available
+
+00:17:37.473 --> 00:17:39.875
+for customers and thousands more coming.
+
+00:17:39.875 --> 00:17:40.776
+I can't wait to see
+
+00:17:40.776 --> 00:17:41.844
+what you're all going to build.
+
+00:17:41.844 --> 00:17:42.478
+Thank you very much.
+
+00:17:44.446 --> 00:17:48.317
+Thanks, Yusuf.
+
+00:17:48.317 --> 00:17:49.668
+Thank you, Yusuf.
+
+00:17:49.668 --> 00:17:50.986
+We have, as Yusuf said,
+
+00:17:50.986 --> 00:17:53.622
+fantastic momentum already building.
+
+00:17:53.622 --> 00:17:55.491
+And this is about really creating
+
+00:17:55.491 --> 00:17:57.226
+that opportunity for developers
+
+00:17:57.226 --> 00:17:59.244
+to reach all users across
+
+00:17:59.244 --> 00:18:00.462
+all of these surface areas
+
+00:18:00.462 --> 00:18:01.580
+and we are so excited
+
+00:18:01.580 --> 00:18:04.583
+to see how you go about exploiting
+
+00:18:04.583 --> 00:18:08.454
+that opportunity in the weeks and months to come.
+
+00:18:08.454 --> 00:18:10.255
+Of course, when we talk about the
+
+00:18:10.255 --> 00:18:12.775
+AI platform and the Copilot stack,
+
+00:18:12.775 --> 00:18:13.992
+the next thing for us,
+
+00:18:13.992 --> 00:18:18.013
+which is really exciting, is AI Studio.
+
+00:18:18.013 --> 00:18:22.034
+This is the full lifecycle toolchain
+
+00:18:22.034 --> 00:18:22.785
+for you to be able
+
+00:18:22.785 --> 00:18:25.487
+to build your intelligent AI apps
+
+00:18:25.487 --> 00:18:27.055
+and your copilots.
+
+00:18:27.055 --> 00:18:28.841
+Everything from being able
+
+00:18:28.841 --> 00:18:30.976
+to train your own models
+
+00:18:30.976 --> 00:18:33.729
+to be able to then ground, whether it's OpenAI
+
+00:18:33.729 --> 00:18:37.633
+or any open source model, with data
+
+00:18:37.633 --> 00:18:40.519
+that you bring.
+
+00:18:40.519 --> 00:18:43.021
+Built-in vector Indexing in Azure Search,
+
+00:18:43.021 --> 00:18:44.239
+built-in support
+
+00:18:44.239 --> 00:18:45.891
+for RAG -
+
+00:18:45.891 --> 00:18:49.194
+ or retrieval augmented generation -
+
+00:18:49.194 --> 00:18:50.813
+support, and built-in support for
+
+00:18:50.813 --> 00:18:51.763
+prompt engineering
+
+00:18:51.763 --> 00:18:54.766
+with prompt flow and orchestration,
+
+00:18:54.766 --> 00:18:57.252
+and of course, built-in support
+
+00:18:57.252 --> 00:19:00.172
+for perhaps the most important feature,
+
+00:19:00.172 --> 00:19:01.940
+which is AI safety.
+
+00:19:01.940 --> 00:19:03.625
+One of the things that we've been hard
+
+00:19:03.625 --> 00:19:08.230
+at work is to build into the toolchain is AI safety.
+
+00:19:08.230 --> 00:19:11.650
+We've been at work on AI safety
+
+00:19:11.650 --> 00:19:12.801
+for the last five years.
+
+00:19:12.801 --> 00:19:13.936
+We have principles,
+
+00:19:13.936 --> 00:19:14.953
+which we have translated
+
+00:19:14.953 --> 00:19:18.106
+into our core set of processes that we implement
+
+00:19:18.106 --> 00:19:19.691
+across our engineering stack.
+
+00:19:19.691 --> 00:19:20.559
+And then, of course, we have
+
+00:19:20.559 --> 00:19:22.694
+all of the compliance and oversight.
+
+00:19:22.694 --> 00:19:24.012
+But the real challenge
+
+00:19:24.012 --> 00:19:25.814
+is not just to have these things
+
+00:19:25.814 --> 00:19:27.766
+outside the engineering process,
+
+00:19:27.766 --> 00:19:30.736
+but to build it into the everyday toolchain.
+
+00:19:30.736 --> 00:19:33.555
+And that's what we are doing with AI Studio.
+
+00:19:33.555 --> 00:19:35.741
+And it starts with testing.
+
+00:19:35.741 --> 00:19:37.659
+There is the Responsible AI dashboard
+
+00:19:37.659 --> 00:19:40.963
+that helps you during the testing phase to ensure
+
+00:19:40.963 --> 00:19:43.582
+that what you're developing is safe.
+
+00:19:43.582 --> 00:19:45.067
+We have grounding.
+
+00:19:45.067 --> 00:19:45.617
+In fact,
+
+00:19:45.617 --> 00:19:47.319
+the prompt flow is perhaps
+
+00:19:47.319 --> 00:19:48.370
+one of the best features
+
+00:19:48.370 --> 00:19:52.090
+for you to be able to ground your models.
+
+00:19:52.090 --> 00:19:53.292
+You have provenance,
+
+00:19:53.292 --> 00:19:55.210
+provenance for media provenance,
+
+00:19:55.210 --> 00:19:57.579
+support for images and videos,
+
+00:19:57.579 --> 00:20:00.315
+and watermarking for your neural voice
+
+00:20:00.315 --> 00:20:01.366
+that's going to be
+
+00:20:01.366 --> 00:20:02.484
+available to all of you
+
+00:20:02.484 --> 00:20:04.002
+as you build your applications.
+
+00:20:04.002 --> 00:20:05.721
+And at deployment time,
+
+00:20:05.721 --> 00:20:07.489
+that’s perhaps one of the most critical
+
+00:20:07.489 --> 00:20:09.041
+things, is we have taken
+
+00:20:09.041 --> 00:20:10.242
+all of the safety work
+
+00:20:10.242 --> 00:20:13.462
+we did, for example, for the launch of Bing Chat
+
+00:20:13.462 --> 00:20:14.813
+and really made it available
+
+00:20:14.813 --> 00:20:16.164
+as just a set of features
+
+00:20:16.164 --> 00:20:18.433
+for any developer to use, right?
+
+00:20:18.433 --> 00:20:20.235
+You can take an OSS model
+
+00:20:20.235 --> 00:20:22.938
+and use the AI Safety Service
+
+00:20:22.938 --> 00:20:26.575
+to really make it, at the deployment time, safe.
+
+00:20:26.575 --> 00:20:27.559
+And of course,
+
+00:20:27.559 --> 00:20:29.094
+then you can even monitor the model
+
+00:20:29.094 --> 00:20:30.712
+for model drift.
+
+00:20:30.712 --> 00:20:32.231
+And that way then you can make sure
+
+00:20:32.231 --> 00:20:33.565
+that it's not just the one time,
+
+00:20:33.565 --> 00:20:36.285
+but you are continuously looking to make sure
+
+00:20:36.285 --> 00:20:37.669
+that you have safe deployment.
+
+00:20:37.669 --> 00:20:40.405
+So we're very, very excited about AI Studio
+
+00:20:40.405 --> 00:20:42.024
+helping every developer out here
+
+00:20:42.024 --> 00:20:44.326
+to be able to build AI applications,
+
+00:20:44.326 --> 00:20:46.595
+but build them with safety first.
+
+00:20:46.595 --> 00:20:48.664
+Let's roll the video.
+
+00:20:48.664 --> 00:20:52.684
+Introducing Azure AI Studio, a full life cycle tool
+
+00:20:52.684 --> 00:20:55.821
+to build, customize, train, evaluate,
+
+00:20:55.821 --> 00:20:56.755
+and deploy
+
+00:20:56.755 --> 00:20:59.975
+the latest next-generation models responsibly.
+
+00:20:59.975 --> 00:21:01.410
+With just a few clicks,
+
+00:21:01.410 --> 00:21:03.478
+developers can ground AI models
+
+00:21:03.478 --> 00:21:04.313
+with their structured
+
+00:21:04.313 --> 00:21:05.631
+and unstructured data
+
+00:21:05.631 --> 00:21:08.734
+to quickly and easily build customized, cutting edge,
+
+00:21:08.734 --> 00:21:12.237
+conversational experiences for their customers.
+
+00:21:12.237 --> 00:21:13.705
+Developers can take advantage
+
+00:21:13.705 --> 00:21:15.574
+of a new model catalog that works
+
+00:21:15.574 --> 00:21:17.843
+with the popular models organizations use,
+
+00:21:17.843 --> 00:21:20.329
+including those from Azure OpenAI Service,
+
+00:21:20.329 --> 00:21:24.149
+Hugging Face, and many other open source models.
+
+00:21:24.149 --> 00:21:25.384
+With prompt flow,
+
+00:21:25.384 --> 00:21:26.735
+developers can combine
+
+00:21:26.735 --> 00:21:28.887
+relevant data from your organization
+
+00:21:28.887 --> 00:21:32.007
+and create a detailed prompt to get better results.
+
+00:21:32.007 --> 00:21:32.908
+Prompt flow works
+
+00:21:32.908 --> 00:21:33.959
+with foundation,
+
+00:21:33.959 --> 00:21:36.745
+internally developed or open source models,
+
+00:21:36.745 --> 00:21:38.964
+and uses popular open source tools,
+
+00:21:38.964 --> 00:21:41.967
+LangChain, and Semantic Kernel.
+
+00:21:41.967 --> 00:21:43.535
+And because the AI systems
+
+00:21:43.535 --> 00:21:46.621
+we build are designed to support our AI principles,
+
+00:21:46.621 --> 00:21:47.255
+with Azure
+
+00:21:47.255 --> 00:21:50.425
+AI Content Safety, we are making it easier for you
+
+00:21:50.425 --> 00:21:54.413
+to test and evaluate your AI deployments for safety.
+
+00:21:54.413 --> 00:21:56.915
+This is Azure AI Studio,
+
+00:21:56.915 --> 00:21:57.933
+the trusted tools
+
+00:21:57.933 --> 00:22:00.068
+you need to build the next generation
+
+00:22:00.068 --> 00:22:02.571
+of AI applications.
+
+00:22:03.171 --> 00:22:04.606
+Cool.
+
+00:22:08.960 --> 00:22:10.312
+And of course,
+
+00:22:10.312 --> 00:22:14.416
+all AI applications start with data.
+
+00:22:14.416 --> 00:22:18.437
+And we are really thrilled
+
+00:22:18.437 --> 00:22:21.039
+to be announcing Microsoft Fabric.
+
+00:22:21.039 --> 00:22:23.775
+This is a product that we've been
+
+00:22:23.775 --> 00:22:26.928
+working very, very hard on over multiple years,
+
+00:22:26.928 --> 00:22:28.930
+and it's finally coming together.
+
+00:22:28.930 --> 00:22:32.868
+It’s perhaps the biggest launch of a data product
+
+00:22:32.868 --> 00:22:36.438
+from Microsoft since the launch of SQL Server.
+
+00:22:36.438 --> 00:22:36.972
+You know, it
+
+00:22:36.972 --> 00:22:39.174
+really brings together compute and storage,
+
+00:22:39.174 --> 00:22:41.410
+so it unifies compute and storage.
+
+00:22:41.410 --> 00:22:42.494
+It unifies
+
+00:22:42.494 --> 00:22:44.379
+all of the full analytics
+
+00:22:44.379 --> 00:22:46.631
+stack product experiences.
+
+00:22:46.631 --> 00:22:48.433
+It brings together governance,
+
+00:22:48.433 --> 00:22:52.521
+so it unifies governance with analytics.
+
+00:22:52.521 --> 00:22:54.689
+And, most interesting, it unifies
+
+00:22:54.689 --> 00:22:56.358
+the business model,
+
+00:22:56.358 --> 00:22:58.693
+across all the different types
+
+00:22:58.693 --> 00:23:00.195
+of analytics workloads,
+
+00:23:00.195 --> 00:23:01.963
+whether they're SQL, machine learning,
+
+00:23:01.963 --> 00:23:03.348
+whatever job you want,
+
+00:23:03.348 --> 00:23:06.435
+you can use the same compute
+
+00:23:06.435 --> 00:23:08.620
+infrastructure.
+
+00:23:08.620 --> 00:23:11.690
+And this unification at the end of the day
+
+00:23:11.690 --> 00:23:13.759
+is what I think will fuel
+
+00:23:13.759 --> 00:23:16.194
+the next generation of AI applications.
+
+00:23:16.194 --> 00:23:17.696
+Let's roll the video.
+
+00:23:17.696 --> 00:23:19.598
+Introducing Microsoft Fabric,
+
+00:23:19.598 --> 00:23:21.683
+a unified data analytics platform,
+
+00:23:21.683 --> 00:23:22.534
+one product,
+
+00:23:22.534 --> 00:23:23.685
+one experience,
+
+00:23:23.685 --> 00:23:24.786
+one architecture,
+
+00:23:24.786 --> 00:23:26.405
+one business model.
+
+00:23:26.405 --> 00:23:29.057
+Unified data is stored in OneLake,
+
+00:23:29.057 --> 00:23:32.244
+a SaaS data lake for the entire organization.
+
+00:23:32.244 --> 00:23:35.397
+Data is integrated and stored in an open format,
+
+00:23:35.397 --> 00:23:37.732
+allowing one copy to be used to train
+
+00:23:37.732 --> 00:23:38.817
+machine learning models,
+
+00:23:38.817 --> 00:23:40.035
+visualize data,
+
+00:23:40.035 --> 00:23:42.087
+and run SQL queries on the lake
+
+00:23:42.087 --> 00:23:44.156
+and data warehouse.
+
+00:23:44.156 --> 00:23:47.125
+A unified experience brings together all the tools
+
+00:23:47.125 --> 00:23:48.743
+data professionals need -
+
+00:23:48.743 --> 00:23:51.029
+pipelines for orchestrating data movement,
+
+00:23:51.029 --> 00:23:53.698
+experiments for training machine learning models,
+
+00:23:53.698 --> 00:23:55.934
+semantic models for defining key metrics,
+
+00:23:55.934 --> 00:23:58.136
+and much more.
+
+00:23:58.136 --> 00:24:00.705
+And for business users, Fabric brings together
+
+00:24:00.705 --> 00:24:02.057
+data for collaborating
+
+00:24:02.057 --> 00:24:06.228
+and doing ad hoc analysis in Microsoft 365.
+
+00:24:06.228 --> 00:24:07.629
+Unified governance,
+
+00:24:07.629 --> 00:24:08.363
+security,
+
+00:24:08.363 --> 00:24:12.200
+and compliance is built in for all your data.
+
+00:24:12.200 --> 00:24:14.436
+And with Copilot for Microsoft Fabric,
+
+00:24:14.436 --> 00:24:17.055
+AI helps everyone be more productive,
+
+00:24:17.055 --> 00:24:19.407
+whether it's writing SQL statements,
+
+00:24:19.407 --> 00:24:20.909
+building reports,
+
+00:24:20.909 --> 00:24:25.163
+or setting up automations based on triggers.
+
+00:24:25.163 --> 00:24:26.431
+All your data,
+
+00:24:26.431 --> 00:24:27.816
+all your teams,
+
+00:24:27.816 --> 00:24:29.484
+all in one place.
+
+00:24:29.484 --> 00:24:31.920
+This is Microsoft Fabric.
+
+00:24:38.994 --> 00:24:40.996
+You know what the AI
+
+00:24:40.996 --> 00:24:45.317
+supercomputer did for the infrastructure layer?
+
+00:24:45.317 --> 00:24:47.903
+Microsoft Fabric will do to the data
+
+00:24:47.903 --> 00:24:49.855
+layer for this next generation
+
+00:24:49.855 --> 00:24:51.072
+of AI applications.
+
+00:24:51.072 --> 00:24:53.425
+Very, very exciting.
+
+00:24:53.425 --> 00:24:56.211
+These are just the five of the 50,
+
+00:24:56.211 --> 00:24:58.330
+so we have 45 more to discover
+
+00:24:58.330 --> 00:24:59.598
+throughout the conference.
+
+00:24:59.598 --> 00:25:00.916
+We're, again,
+
+00:25:00.916 --> 00:25:03.535
+really on a fast pace to build things
+
+00:25:03.535 --> 00:25:04.452
+that help us
+
+00:25:04.452 --> 00:25:07.105
+build this next generation of applications,
+
+00:25:07.105 --> 00:25:10.492
+but build them with safety first.
+
+00:25:10.492 --> 00:25:11.960
+Now,
+
+00:25:11.960 --> 00:25:13.345
+one of the things
+
+00:25:13.345 --> 00:25:14.863
+that I think we should ask ourselves
+
+00:25:14.863 --> 00:25:18.800
+as developers is why do we build?
+
+00:25:18.800 --> 00:25:22.671
+Why do we build technology?
+
+00:25:22.671 --> 00:25:24.856
+You know, this relationship
+
+00:25:24.856 --> 00:25:28.009
+between economic progress
+
+00:25:28.009 --> 00:25:28.610
+and economic
+
+00:25:28.610 --> 00:25:30.345
+growth and technology
+
+00:25:30.345 --> 00:25:32.564
+has been there for a long time.
+
+00:25:32.564 --> 00:25:35.183
+In fact, in this graph, when you see it,
+
+00:25:35.183 --> 00:25:35.650
+it's pretty
+
+00:25:35.650 --> 00:25:39.704
+stunning that for most of human history,
+
+00:25:39.704 --> 00:25:42.374
+we didn't have much economic growth,
+
+00:25:42.374 --> 00:25:45.043
+nor did we have much technology.
+
+00:25:45.043 --> 00:25:46.361
+And then something happened
+
+00:25:46.361 --> 00:25:49.614
+250 years ago, right?
+
+00:25:49.614 --> 00:25:51.132
+Which was long in building,
+
+00:25:51.132 --> 00:25:53.501
+by the way, from perhaps the Enlightenment
+
+00:25:53.501 --> 00:25:55.053
+to the Scientific Revolution to the
+
+00:25:55.053 --> 00:25:58.340
+Industrial Revolution was close to 400 years.
+
+00:25:58.340 --> 00:26:01.459
+But then there was real progress.
+
+00:26:01.459 --> 00:26:05.297
+You see that slope going upwards.
+
+00:26:05.297 --> 00:26:06.414
+And then, of course, over the last
+
+00:26:06.414 --> 00:26:07.482
+70 years, information
+
+00:26:07.482 --> 00:26:09.084
+technology has played a role across
+
+00:26:09.084 --> 00:26:12.070
+all of those sort of seminal moments
+
+00:26:12.070 --> 00:26:14.172
+on the march towards that dream machine.
+
+00:26:14.172 --> 00:26:16.341
+And of course, we now enter the age of AI
+
+00:26:16.341 --> 00:26:18.193
+and we get to define
+
+00:26:18.193 --> 00:26:19.694
+what that slope looks like
+
+00:26:19.694 --> 00:26:21.947
+going forward for economic growth.
+
+00:26:21.947 --> 00:26:23.682
+But it's not even just economic growth
+
+00:26:23.682 --> 00:26:24.583
+on its own, right?
+
+00:26:24.583 --> 00:26:25.450
+We don't build
+
+00:26:25.450 --> 00:26:27.235
+just because we want economic growth.
+
+00:26:27.235 --> 00:26:28.820
+We want economic growth
+
+00:26:28.820 --> 00:26:30.405
+so that we can have human
+
+00:26:30.405 --> 00:26:32.691
+development index growth.
+
+00:26:32.691 --> 00:26:35.327
+We want the lifespans to go up.
+
+00:26:35.327 --> 00:26:37.395
+We want education and prosperity
+
+00:26:37.395 --> 00:26:40.065
+and standard of living to go up everywhere.
+
+00:26:40.065 --> 00:26:43.001
+That's why we build, that's why we innovate.
+
+00:26:43.001 --> 00:26:45.370
+That's why technology exists.
+
+00:26:45.370 --> 00:26:46.905
+It's not for technology’s sake,
+
+00:26:46.905 --> 00:26:49.841
+but it is for that broad impact.
+
+00:26:49.841 --> 00:26:51.610
+And to me,
+
+00:26:51.610 --> 00:26:56.331
+this all came together -
+
+00:26:56.331 --> 00:26:56.631
+you know,
+
+00:26:56.631 --> 00:26:59.934
+in January when I was visiting India,
+
+00:26:59.934 --> 00:27:02.470
+I had a chance to see this demo
+
+00:27:02.470 --> 00:27:05.807
+and it sort of had a very profound impact on me
+
+00:27:05.807 --> 00:27:06.775
+because at some level
+
+00:27:06.775 --> 00:27:10.512
+it motivated me to go into this next wave
+
+00:27:10.512 --> 00:27:14.065
+with that much more rigorous ensure
+
+00:27:14.065 --> 00:27:18.069
+that this time around, this technology
+
+00:27:18.069 --> 00:27:21.740
+reaches everybody in the world.
+
+00:27:21.740 --> 00:27:24.409
+There are two things that stood out for me,
+
+00:27:24.409 --> 00:27:27.646
+right, that things that we build
+
+00:27:27.646 --> 00:27:29.514
+can in fact make a difference
+
+00:27:29.514 --> 00:27:31.399
+to 8 billion people,
+
+00:27:31.399 --> 00:27:37.005
+not some small sort of group of people.
+
+00:27:37.005 --> 00:27:41.142
+And to be able to do that
+
+00:27:41.142 --> 00:27:43.662
+by diffusing
+
+00:27:43.662 --> 00:27:47.515
+or diffusion that takes days and weeks,
+
+00:27:47.515 --> 00:27:51.469
+not years and centuries,
+
+00:27:51.469 --> 00:27:54.773
+because we want that equitable growth.
+
+00:27:54.773 --> 00:27:57.475
+We want trust in technology.
+
+00:27:57.475 --> 00:28:00.295
+We want to ensure that we protect
+
+00:28:00.295 --> 00:28:03.498
+those fundamental rights that we care about
+
+00:28:03.498 --> 00:28:05.567
+and that we do this
+
+00:28:05.567 --> 00:28:07.786
+in such a way that we manage
+
+00:28:07.786 --> 00:28:09.170
+our energy transition
+
+00:28:09.170 --> 00:28:12.490
+given the finite resource we have in our planet.
+
+00:28:12.490 --> 00:28:13.692
+That's, at the end of the day,
+
+00:28:13.692 --> 00:28:15.009
+what grounds us in our mission
+
+00:28:15.009 --> 00:28:16.211
+to empower every person
+
+00:28:16.211 --> 00:28:17.679
+and every organization
+
+00:28:17.679 --> 00:28:19.464
+on the planet to achieve more.
+
+00:28:19.464 --> 00:28:22.100
+And so I want to leave you with this video
+
+00:28:22.100 --> 00:28:25.186
+of what you as developers are going to do
+
+00:28:25.186 --> 00:28:26.621
+in the days and weeks
+
+00:28:26.621 --> 00:28:27.639
+and months and years
+
+00:28:27.639 --> 00:28:28.723
+to come
+
+00:28:28.723 --> 00:28:31.426
+is going to have the most profound impact
+
+00:28:31.426 --> 00:28:33.261
+of any technology
+
+00:28:33.261 --> 00:28:35.780
+to 8 billion people all around the planet.
+
+00:28:35.780 --> 00:28:40.101
+Thank you very much and have a fantastic Build.
+
+00:28:41.119 --> 00:28:42.987
+I’m a farmer.
+
+00:28:42.987 --> 00:28:47.559
+In our village, we have two acres of land where we grow crops.
+
+00:28:47.559 --> 00:28:51.096
+I grow rabi and kharif crops, which include wheat,
+
+00:28:51.096 --> 00:28:54.632
+jowar, millet, sesame, and mustard.
+
+00:28:54.632 --> 00:28:57.535
+But here in Mewat, many villages don’t have access
+
+00:28:57.535 --> 00:29:00.472
+ to newspapers, so our access to information is limited.
+
+00:29:00.472 --> 00:29:05.543
+There are many government schemes available to us,
+
+00:29:05.543 --> 00:29:07.712
+but we often don't know about them.
+
+00:29:08.813 --> 00:29:11.850
+These are all communities living in media-dark areas,
+
+00:29:11.850 --> 00:29:15.120
+which means that penetration of traditional media
+
+00:29:15.120 --> 00:29:17.055
+ like television and radio is very sparse.
+
+00:29:17.055 --> 00:29:18.923
+There's also literacy challenges,
+
+00:29:18.923 --> 00:29:22.527
+so things like newspapers have a very low access in these areas.
+
+00:29:22.527 --> 00:29:26.197
+In India, we have 22 constitutionally-recognized languages.
+
+00:29:26.197 --> 00:29:28.733
+But apart from that, we have more than 100,
+
+00:29:28.733 --> 00:29:30.735
+ almost 120, languages.
+
+00:29:30.735 --> 00:29:32.670
+Being able to provide justice
+
+00:29:32.670 --> 00:29:34.973
+to each and every citizen in their own language,
+
+00:29:34.973 --> 00:29:37.442
+it's a challenge, but it's also an opportunity.
+
+00:29:37.442 --> 00:29:42.046
+Jugalbandi is a chat bot that we built to solve two problems.
+
+00:29:42.046 --> 00:29:45.517
+One is this linguistic divide and the technological divide.
+
+00:29:45.517 --> 00:29:48.620
+We collected millions of parallel sentences
+
+00:29:48.620 --> 00:29:50.021
+ for machine translation.
+
+00:29:50.021 --> 00:29:51.790
+We collected thousands of hours of data
+
+00:29:51.790 --> 00:29:53.324
+for speech recognition,
+
+00:29:53.324 --> 00:29:56.127
+and then we built state-of-the-art models on top of it,
+
+00:29:56.127 --> 00:30:00.498
+using Bhashini speech recognition models and Azure OpenAI.
+
+00:30:00.498 --> 00:30:04.936
+So these capabilities allow us to understand language,
+
+00:30:04.936 --> 00:30:06.838
+transcribe it, translate it,
+
+00:30:06.838 --> 00:30:10.208
+and also synthesize it back in the form of speech.
+
+00:30:10.675 --> 00:30:13.912
+Uncle, this is Jugalbandi.
+
+00:30:13.912 --> 00:30:16.614
+We can write or ask about government schemes
+
+00:30:16.614 --> 00:30:19.150
+that we want to know about
+
+00:30:19.150 --> 00:30:22.086
+and it will give us information about it.
+
+00:30:22.086 --> 00:30:24.923
+I am a farmer and I want to know about
+
+00:30:24.923 --> 00:30:27.425
+the government scheme for farming.
+
+00:30:27.425 --> 00:30:29.060
+My name is Jugalbandi.
+
+00:30:29.060 --> 00:30:33.164
+I am an assistant that will help you to know about
+
+00:30:33.164 --> 00:30:37.769
+your government scheme and apply for it.
+
+00:30:37.769 --> 00:30:43.675
+The answer came both in text and audio,
+
+00:30:43.675 --> 00:30:49.247
+with which documents and forms are required.
+
+00:30:49.247 --> 00:30:51.883
+The Ministry of Electronics and IT in the country
+
+00:30:51.883 --> 00:30:53.785
+has been working on this for the last five years now,
+
+00:30:53.785 --> 00:30:56.387
+and when ChatGPT was launched,
+
+00:30:56.387 --> 00:30:58.456
+ that was really the catalyst for us
+
+00:30:58.456 --> 00:31:00.658
+being able to bring these pieces together.
+
+00:31:00.658 --> 00:31:04.095
+We've been able to categorize the diversity of India
+
+00:31:04.095 --> 00:31:05.864
+as an innovation opportunity.
+
+00:31:05.864 --> 00:31:07.532
+And if you're able to do that successfully,
+
+00:31:07.532 --> 00:31:09.133
+you're able to do it for the world.
+

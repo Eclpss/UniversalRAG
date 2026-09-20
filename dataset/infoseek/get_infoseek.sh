@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-# Download InfoSeek dataset
-wget http://storage.googleapis.com/gresearch/open-vision-language/Wiki6M_ver_1_0.jsonl.gz
+# Download InfoSeek dataset (Now with Resume capability!)
+curl -L -C - -O http://storage.googleapis.com/gresearch/open-vision-language/Wiki6M_ver_1_0.jsonl.gz
 python extract_text.py
 rm Wiki6M_ver_1_0.jsonl.gz
 

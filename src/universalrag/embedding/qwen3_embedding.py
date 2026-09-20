@@ -12,7 +12,7 @@ class Qwen3EmbeddingModel:
         
         self.model = SentenceTransformer(
             model_name,
-            model_kwargs={"attn_implementation": "flash_attention_2", "dtype": "auto", "device_map": device},
+            model_kwargs={"attn_implementation": "sdpa", "dtype": "auto", "device_map": device},
             tokenizer_kwargs={"padding_side": "left"},
         )
     
@@ -20,6 +20,9 @@ class Qwen3EmbeddingModel:
         """Encode text into embeddings"""
         if isinstance(texts, str):
             texts = [texts]
+        
+        # Add this line to sanitize the inputs!
+        texts = [str(t) if t is not None else "" for t in texts]
         
         embeddings = self.model.encode(texts, batch_size=batch_size, show_progress_bar=True, **kwargs)
         return embeddings

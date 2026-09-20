@@ -19,6 +19,10 @@ def split_text_into_chunks(text, max_tokens):
     Returns:
         List[str]: List of text chunks.
     """
+    # --- ADD THIS SANITIZER ---
+    if text is None or not isinstance(text, str):
+        text = str(text) if text is not None else ""
+    # --------------------------
     token_ids = tokenizer.encode(text, truncation=False)
     tokenized_chunks = [token_ids[i:i + max_tokens] for i in range(0, len(token_ids), max_tokens)]
     chunks = [tokenizer.decode(chunk, skip_special_tokens=True) for chunk in tokenized_chunks]

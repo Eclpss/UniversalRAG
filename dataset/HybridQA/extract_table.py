@@ -59,7 +59,15 @@ def extract_table(query_file, tables_tok_path, output_file):
             print(f"Warning: Table file not found: {table_file_path}")
         
     df = pd.DataFrame(rows)
-    df.set_index('psg_id', inplace=True)
+    
+    # SAFETY CHECK: Only set the index if the dataframe is not empty
+    if not df.empty:
+        df.set_index('psg_id', inplace=True)
+    else:
+        # If it's empty, create a dummy column so it doesn't crash later
+        df['psg_id'] = []
+        df.set_index('psg_id', inplace=True)
+        
     df.to_parquet(output_file)
     print(f"Saved {len(df)} tables to {output_file}")
 

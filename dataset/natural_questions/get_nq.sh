@@ -2,7 +2,7 @@
 set -e
 
 # Download Natural Questions dev
-wget https://dl.fbaipublicfiles.com/dpr/data/retriever/biencoder-nq-dev.json.gz
+curl -L -O https://dl.fbaipublicfiles.com/dpr/data/retriever/biencoder-nq-dev.json.gz
 gzip -d biencoder-nq-dev.json.gz
 
 # Extract text into .txt files
