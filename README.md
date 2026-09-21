@@ -1,4 +1,4 @@
-[# 🌐 UniversalRAG
+[# 🌐 UniversalRAG WINDOWS VERSION
 
 ---
 
