@@ -7,6 +7,7 @@ from streamlit_agraph import agraph, Node, Edge, Config
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from ingestions.audio_pipeline import process_audio
+from ingestions.video_pipeline import process_video_as_one_node
 # --- NEO4J CONFIG ---
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
@@ -174,10 +175,15 @@ with tab_ingest:
                             st.write("✅ Speech transcribed, embedded, and injected into Neo4j!")
                             
                         if "Visuals" in video_mode or "Multimodal" in video_mode:
-                            st.info("👁️ Vision frame pipeline can be connected here.")
+                            st.write("👁️ Extracting keyframes and analyzing visual context...")
+                            output_frames_dir = os.path.join("staging_uploads", "video_frames")
+                            process_video_as_one_node(file_path, output_frames_dir)
+                            st.write("✅ Visual frames analyzed, embedded, and injected into Neo4j!")
                             
                     elif ext in ['jpg', 'png']:
-                        st.info("👁️ Image pipeline pending connection.")
+                        st.write("🖼️ Analyzing image context with Qwen Vision and generating embeddings...")
+                        process_and_inject_image(file_path)
+                        st.write("✅ Image processed, embedded, and injected into Neo4j as an ImageChunk!")
                         
                     elif ext in ['pdf', 'txt']:
                         st.info("📄 Document chunking pipeline pending connection.")
