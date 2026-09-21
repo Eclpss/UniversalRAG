@@ -8,6 +8,7 @@ from streamlit_agraph import agraph, Node, Edge, Config
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from ingestions.audio_pipeline import process_audio
 from ingestions.video_pipeline import process_video_as_one_node
+from ingestions.image_pipeline import process_and_inject_image
 # --- NEO4J CONFIG ---
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
