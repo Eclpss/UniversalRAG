@@ -1,6 +1,6 @@
 # 🌐 UniversalRAG — Windows Single-GPU Port
 
-> UniversalRAG was originally built for Linux across 5 GPUs, designed for paragraph and text retrieval. This is a Windows port running on a single GPU. On top of that, we built our own custom Python ingestion pipelines to handle **video, image, audio, and transcript** processing — since the built-in UniversalRAG pipelines for those are Linux-only and won't run on Windows out of the box. Everything here is adapted to work natively on a single Windows machine.
+> UniversalRAG was originally built for Linux across 5 GPUs, designed for paragraph and text retrieval image and video retrieval but since we are using the only one we gonna use the paraghph text and table on the universalRAG. This is a Windows port running on a single GPU. On top of that, we built our own custom Python ingestion pipelines to handle **video, image, audio, and transcript** processing — since the built-in UniversalRAG pipelines for those are Linux-only and won't run on Windows out of the box. Everything here is adapted to work natively on a single Windows machine.
 
 ---
 
