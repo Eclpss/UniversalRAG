@@ -75,7 +75,6 @@ python fast_app.py
 The router listens on `http://127.0.0.1:5001/ask_neo4j` — this is the endpoint that **AnythingLLM** talks to under the hood, so once this is running you're good to start chatting through the UI.
 
 > 📖 **Further setup & full guide:** The AnythingLLM installation and configuration (connecting it to this router, setting up workspaces, API keys, etc.) is all covered in the same docs:
-> - 📄 [Full Setup Documentation](https://docs.google.com/document/d/1PasmrAv3nz3n6Tco07IjREQD14dBG3VJbSPN5xgujAk/edit?usp=sharing)
 > - 📘 [Module 6: Neo4j Installation & Setup Guide](https://docs.google.com/document/d/1zNhamFbTweRsDvzDcp3bW7FS5M5n9f0D8rbZ7fkSyuE/edit?usp=sharing)
 
 ---
