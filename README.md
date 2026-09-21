@@ -14,7 +14,7 @@ To test ingestion without running massive dataset batch jobs:
 3. The pipeline will automatically extract entities, generate embeddings, and map the relationships into your graph.
 4. Open the [Neo4j Browser](http://localhost:7474) to inspect the newly formed nodes and relationships.
 
-> 📘 **Database Setup:** For complete Neo4j installation, Bolt configuration, and APOC plugin setup, see [Module 6: Neo4j Installation & Setup Guide](#module-6-neo4j-installation--setup-guide) below.
+> 📘 **Database Setup:** For complete Neo4j installation, Bolt configuration, and APOC plugin setup, see [Module 6: Neo4j Installation & Setup Guide](#https://docs.google.com/document/d/1zNhamFbTweRsDvzDcp3bW7FS5M5n9f0D8rbZ7fkSyuE/edit?usp=sharing) below.
 
 ---
 
